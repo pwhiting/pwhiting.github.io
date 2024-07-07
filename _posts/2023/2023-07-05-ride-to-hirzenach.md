@@ -5,7 +5,7 @@ title: Ride to Hirzenach
 date: 2023-07-05 18:44:40
 modified: 2023-07-05 18:44:40
 categories: ['Paris to Frankfurt']
-image: https://lh3.googleusercontent.com/pw/AP1GczOUG3MXLvqpY8YQVoAklceH6ZLrO5C1vL9sQbJNYfk3LC5OiuZbbXcLYMH-n1xIwF8n7Th-h6PT4a0Bu_kYGfluVvyCL9C9sTrp54tB59OCh8unjU5T=w600-h315-p-k
+image: https://lh3.googleusercontent.com/pw/AP1GczOUG3MXLvqpY8YQVoAklceH6ZLrO5C1vL9sQbJNYfk3LC5OiuZbbXcLYMH-n1xIwF8n7Th-h6PT4a0Bu_kYGfluVvyCL9C9sTrp54tB59OCh8unjU5T=s0
 ---
 
 
