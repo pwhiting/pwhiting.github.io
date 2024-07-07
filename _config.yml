@@ -11,7 +11,8 @@ description: > # this means to ignore newlines until "email:"
 email: ride@whitings.org 
 #blog logo
 logo: "/assets/images/ride.png"
-float_logo: true # true, false (default)
+float_logo: "/assets/images/bike.png"
+#float_logo: true # true, false (default)
 
 # blog cover
 cover: "https://lh3.googleusercontent.com/pw/AP1GczNRWKumolpwVFteuVNVH36rLeGxASAT23iNSSJVL3kjJ_VDgzPpfVKiNl12bgdml2-aD9yUhe5LuTwZlAH6OoBq38iX-pB49N_HZ8vetOifIfSCJG_x=w1800-h630-p-k"
