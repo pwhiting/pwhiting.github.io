@@ -9,11 +9,11 @@ We are both avid outdoor enthusiasts. We've spent much of our time together expl
 
 So far, we've explored the following:
 * [2017](/categories/2017): Amsterdam to Paris and back - we rode into Germany on the way to Paris and rode though Normandy and Dunkirk on the way back.
-* [2018](/categories/2018): Circumvented Iceland
+* [2018](/categories/2018): Iceland - we circumvented Iceland 
 * [2019](/categories/2019): Sweden to Amsterdam - we rode to Copenhagen then to the top of Denmark, then to Amsterdam
 * [2021](/categories/2021): Northwest corner of the US - we rode on the Trail of the Olympian and the Route of the Hiwatha on this ride
-* [2022](/categories/2022): Katy trail in Missouri
-* [2023](/categories/2023): Paris to Frankfurt
+* [2022](/categories/2022): Katy trail in Missouri - we rode along a nearly 300 mile rail trail in the heart of our country
+* [2023](/categories/2023): Paris to Frankfurt - we stuck to the EuroVelo routes for most of this ride, avoiding traffic and enjoying the beautiful French and German countrysides
 
 Each ride is between 700 and 1000 miles in length and takes 2-3 weeks. 
 
