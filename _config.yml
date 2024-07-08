@@ -6,8 +6,8 @@ gems:
 # Site settings
 title: "Ride"
 description: > # this means to ignore newlines until "email:"
-   Capturing memories from our bike rides. 
-
+ We use slowcomotion to view the world from the perspective of our unique tandem recumbent. We love exploring counties using the path less traveled. 
+This blog captures many of our memories.
 email: ride@whitings.org 
 #blog logo
 logo: "/assets/images/ride.png"
@@ -22,7 +22,7 @@ name: 'Pete and Natalie Whiting'
 author: 'Pete and Natalie'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate:	15
 
 url: "http://ride.whitings.org" # the base hostname & protocol for your site
 baseurl: ""
@@ -30,7 +30,7 @@ baseurl: ""
 #twitter_handle: '@dirkfabisch'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: ride-whitings-org
 
 #google_analytics: UA-XXXXX-X
 
