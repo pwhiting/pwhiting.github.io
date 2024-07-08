@@ -17,6 +17,6 @@ So far, we've explored the following:
 
 Each ride is between 700 and 1000 miles in length and takes 2-3 weeks. 
 
-and in [2024](/categories/2024) 2024 we are riding a big loop to the north out of Geneva.
+and in [2024](/categories/2024) we are riding a big loop to the north out of Geneva.
 
 
