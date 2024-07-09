@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Ride"
 description: > # this means to ignore newlines until "email:"
- We use slowcomotion to view the world from the perspective of our unique tandem recumbent. We love exploring counties using the path less traveled.  This blog captures many of our memories.  
+ We use slowcomotion to view the world from the perspective of our unique tandem recumbent. We love exploring countries using the path less traveled.  This blog captures many of our memories.  
 email: ride@whitings.org 
 #blog logo
 logo: "/assets/images/ride.png"
