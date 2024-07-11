@@ -1,0 +1,6 @@
+magick bike.png +profile "icc" bike-black.png
+magick bike-black.png -fuzz 99% -fill white -opaque black bike-white.png
+magick bike-white.png -morphology dilate octagon:5 -opaque black bike-white-large.png
+magick bike-white-large.png bike-black.png -compose over -composite -background transparent bike-with-outline.png
+
+
