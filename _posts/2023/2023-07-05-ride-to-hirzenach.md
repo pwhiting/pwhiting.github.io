@@ -27,7 +27,7 @@ Within 30 minutes of leaving Neef we were passing through a small village and we
 We rode along the trail with the Mosel River to our right and steep mountains covered in vineyards to our left. Access to these vineyards is in the form of a single rail with teeth on the bottom. A small cart with an engine in front followed by a chair followed by a small trailer chugs along the rail. It is hard to express how steep these trails are: in some places they are almost vertical. It is like the most sketchy amusement park ride ever. I can only imagine the terror of descending in reverse. I wish one was operating as we rode by. Bribing someone for a ride might be the best spent euros of any trip. Seriously – these things are crazy.
 
 
-
+[video](https://photos.app.goo.gl/2SQtx34GZ5nwDizi9)
 
 We made it to Koplenz a little after noon and Komoot routed us nicely through the outskirts of the city, taking us across the Mosel (goodbye Mosel) and over to the Rhein/Rhine. The section along the Mosel might be the most outstanding of any of our trips. Beautiful peaceful bike paths and dedicated bike lanes. Beautiful views. The only downside is there were so many other riders and cars. We’ve grown to love the seclusion of some of our routes, going hours without seeing anyone.
 
