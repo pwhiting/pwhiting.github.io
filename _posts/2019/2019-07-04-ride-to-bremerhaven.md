@@ -25,6 +25,6 @@ Since we had been so rural today we didn't find lunch until around 3. We looked 
 
 Hopefully we'll rest up well and have a good day tomorrow. We are 140 miles away from our Saturday destination, but we want to arrive early to meet the person from whom we bought our bike. We'll also try to do laundry, as on Sunday morning we are going to get up early and take a train south to try to attend church with our niece who is serving in Eindhoven. Then next week we ride to Amsterdam and pack our bike. :'(
 
-[embed-google-album src="https://lh3.googleusercontent.com/1Ch9Ca4osEnm2CUgFv78MPdwQtkB-J578y-YeT8BJpgp7K6rKLdM69bjYXvJEZgoqKFMkzSufPL\_WCWB3sMVZ0ASe4p2bMWicle3uGcMvIkFS0ZQQXNetrukaXVAuqxoCCEmuesg\_50" click="https://photos.app.goo.gl/1cCVwig6sJUphECn9" title="Ride to Bremerhaven"]
+[![Album](https://lh3.googleusercontent.com/1Ch9Ca4osEnm2CUgFv78MPdwQtkB-J578y-YeT8BJpgp7K6rKLdM69bjYXvJEZgoqKFMkzSufPL_WCWB3sMVZ0ASe4p2bMWicle3uGcMvIkFS0ZQQXNetrukaXVAuqxoCCEmuesg_50 "Ride to Bremerhaven")](https://photos.app.goo.gl/1cCVwig6sJUphECn9)
 
 ![](https://ride.whitings.org/wp-content/uploads/2019/07/screenshot_20190704-1930511182990083209025181.png)

@@ -13,4 +13,4 @@ We are on the train now, back to Aalborg. We plan to stop at a grocery store to 
 
 Good rest day!
 
-[embed-google-album src="https://lh3.googleusercontent.com/MW6VG9Clvpq64iRoPOyTDFtQoGkJF4g-qrhxg6C7RF3rl7GWebEwmLGSguTq1jL3HTkq9Wwmu0mVZjb\_75kd63XLzjzmj4mKv3n-s5d4XiWFhtMd288AXtRGAa6zsZARoFxkch5LrO4" click="https://photos.app.goo.gl/PgjcwtceZU63CrJHA" title="Skagen rest day"]
+[![Album](https://lh3.googleusercontent.com/MW6VG9Clvpq64iRoPOyTDFtQoGkJF4g-qrhxg6C7RF3rl7GWebEwmLGSguTq1jL3HTkq9Wwmu0mVZjb_75kd63XLzjzmj4mKv3n-s5d4XiWFhtMd288AXtRGAa6zsZARoFxkch5LrO4 "Skagen rest day")](https://photos.app.goo.gl/PgjcwtceZU63CrJHA)

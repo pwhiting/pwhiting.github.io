@@ -74,30 +74,30 @@ Facilities P.S.: One nice thing about the Katy Trail is that approximately every
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654906656609-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654906656609-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654906656674-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654906656674-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654906656695-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654906656695-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654906656650-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654906656650-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654906656545-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654906656545-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654906656509-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654906656509-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654906656587-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654906656587-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654906656570-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654906656570-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654906656634-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654906656634-scaled.jpg)
 
 

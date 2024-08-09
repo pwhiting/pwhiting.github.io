@@ -19,6 +19,6 @@ I was reminded again and again today how lucky I am to have Natalie. Who else wo
 
 
 
-[embed-google-album src="https://lh3.googleusercontent.com/pUY0vKzIzh1NDJWrkoMMG5eBEqDHDFAqu\_wzTEljqes2Ea3nrnU2EbtQPrxo5lHR6V5lmEoFWh6DPx5aXO6RpAJu7bL3uG40OMmzTMRw0cVeeFlQ4N-AlSLmz\_h5yriB24X1Yl3sCz4" click="https://photos.app.goo.gl/QbMWZmRt321o4y7m8" title="Last day in Denmark"]
+[![Album](https://lh3.googleusercontent.com/pUY0vKzIzh1NDJWrkoMMG5eBEqDHDFAqu_wzTEljqes2Ea3nrnU2EbtQPrxo5lHR6V5lmEoFWh6DPx5aXO6RpAJu7bL3uG40OMmzTMRw0cVeeFlQ4N-AlSLmz_h5yriB24X1Yl3sCz4 "Last day in Denmark")](https://photos.app.goo.gl/QbMWZmRt321o4y7m8)
 
 ![](https://ride.whitings.org/wp-content/uploads/2019/07/screenshot_20190702-2139198811535365609208900.png)

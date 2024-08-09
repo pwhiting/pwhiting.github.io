@@ -23,7 +23,7 @@ The bike path ended and we followed beautiful country roads. At one point we rea
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2021/06/img_1100-1024x768.jpg)Parking lot of historic ranger station
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1100-1024x768.jpg)Parking lot of historic ranger station
 
 
 During our descent we realized our rear tire had lost air and we had just topped it off at the ranger station, so we laid the bike on its side (something that works with panniers) and patched the tube. (We have spare tubes but we were not certain we found the only source of the leak: a broken-off goathead from Antelope Island.) This is the first time we are not using Schwable Marathon Plus tires and the first time in all our riding we've had to patch a tube during the day. (We had one other flat -- two years ago in Germany -- but it was a slow leak that we fixed at our campsite.) The fix took about 30 minutes in the hot sun and we were on our way.
@@ -56,7 +56,7 @@ Soon we were back on frontage roads enjoying a little peace and quiet. Our routi
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2021/06/img_1122-copy-691x1024.jpg)Sign at the end of our rough road today
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1122-copy-691x1024.jpg)Sign at the end of our rough road today
 
 
 By the time we got out of the mountains we were baked and we were starting to push 6 PM. So we rode into a town called Superior and decided to get a motel so we could clean up and recover from perhaps one of our hardest riding days on tour to date. But again it was also honestly one of the most beautiful. We hit a grocery store for dinner (never shop when famished), cleaned up and ate. Our bike got to join us in our room again.

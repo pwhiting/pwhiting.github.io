@@ -23,4 +23,4 @@ We are sad that our trip is drawing to a close. We have loved being here. We are
 
 We are happy.
 
-[embed-google-album src="https://lh3.googleusercontent.com/O3gtXzOvON6uNSuNwvYoHxiwbFWYhFf1TUKVIZi3sMofnPQX-9CA7LhmPf5abEc2p9J4goQ8U0F-xBdV9QwgYe-ArwsAv3hd5UhnLm82gyx48usXJtBNZUfnNnC0l\_\_vpOcazmVydqA" click="https://photos.app.goo.gl/dYGnerFpuM5VVhGq8" title="16 new photos added to shared album"]
+[![Album](https://lh3.googleusercontent.com/O3gtXzOvON6uNSuNwvYoHxiwbFWYhFf1TUKVIZi3sMofnPQX-9CA7LhmPf5abEc2p9J4goQ8U0F-xBdV9QwgYe-ArwsAv3hd5UhnLm82gyx48usXJtBNZUfnNnC0l__vpOcazmVydqA "16 new photos added to shared album")](https://photos.app.goo.gl/dYGnerFpuM5VVhGq8)

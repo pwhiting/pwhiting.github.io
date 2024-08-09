@@ -1,0 +1,4 @@
+sed -i "" -E '
+s/\[embed-google-album src="([^"]+)" click="([^"]+)" title="([^"]+)"\]/[![Album](\1 "\3")](\2)/
+s/\\_/_/g
+' *md      

@@ -15,4 +15,4 @@ Riding out of Copenhagen was normal big city busy with way too many stops for tr
 
 Our Airbnb was a place called Ydreland (look them up on Instagram #ydreland.) The house was adjacent to the ocean so I (Pete) took the opportunity to jump in. It was a tad cold out, so I shivered until a warm shower rescued me. The host, Maj, was exceptionally fun. She is an artist who makes sculptures out of trash collected from the ocean and other sources. We had a nice dinner with her and a long conversation.
 
-[embed-google-album src="https://lh3.googleusercontent.com/hiSW57rSU6ySl6eY-jS--YLLDlmiMXuFS\_dgmunyny-6xpq4dK-cTCI3VskFrgQD1Fe82h2S4Db1CqZ1cnZefEWMZXrcvnPDGNeJMd4CUUuHng\_nlB1dlgEr5W75o9SaI1Zz-DfNO1o" click="https://photos.app.goo.gl/2B2y86arEXcfo3xs9" title="Final day on Sjælland"]
+[![Album](https://lh3.googleusercontent.com/hiSW57rSU6ySl6eY-jS--YLLDlmiMXuFS_dgmunyny-6xpq4dK-cTCI3VskFrgQD1Fe82h2S4Db1CqZ1cnZefEWMZXrcvnPDGNeJMd4CUUuHng_nlB1dlgEr5W75o9SaI1Zz-DfNO1o "Final day on Sjælland")](https://photos.app.goo.gl/2B2y86arEXcfo3xs9)

@@ -15,4 +15,4 @@ We were mostly on beautiful bike paths today, and when they were surrounded by t
 
 We are now at an Airbnb in a town called Herning. It's a nice basement apartment, set up to accommodate 3 sets of guests at the same time, but we're the only ones here so we have the kitchen, living room and bathroom to ourselves. We showered, ate a good, simple grocery store dinner, and will soon be sleeping soundly I think.
 
-[embed-google-album src="https://lh3.googleusercontent.com/izazetdPUPnzClBnXvekuK64AiBtw3pFT2YVbD33iXPM6flThMEu1vYmm8poVTwSXSwOozv4JSiKoNxJ0LMIXC4rb3402O7gfZKufFRqeaM7Iibc\_6aoBZ\_Erx8gsserv91ETIZ1Q9E" click="https://photos.app.goo.gl/tGUeg6e4xLPHLzbB9" title="Ride to Herning"]
+[![Album](https://lh3.googleusercontent.com/izazetdPUPnzClBnXvekuK64AiBtw3pFT2YVbD33iXPM6flThMEu1vYmm8poVTwSXSwOozv4JSiKoNxJ0LMIXC4rb3402O7gfZKufFRqeaM7Iibc_6aoBZ_Erx8gsserv91ETIZ1Q9E "Ride to Herning")](https://photos.app.goo.gl/tGUeg6e4xLPHLzbB9)

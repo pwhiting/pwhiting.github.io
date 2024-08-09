@@ -18,5 +18,5 @@ This year we will be hauling our trailer because we intend to camp far more nigh
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/05/img_0187.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/05/img_0187.jpg)
 

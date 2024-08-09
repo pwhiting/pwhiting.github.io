@@ -17,4 +17,4 @@ We made quick work of packing our bike at the airport. Previously it had taken u
 
 We are sad to have this be over. It was a good ride.
 
-[embed-google-album src="https://lh3.googleusercontent.com/8rsGtVOGmNqiOhyP-akv05fwbZC7OsBThHtmM58-mc3kUlbMbFYLhSfHJ24reOGTD3t5El006FdAIL80qcr6ojXCaDpxzN2vwDywPdVnQ1dU5jeNtXO47TVdBfGrPjBpOUjQTe6RB8o" click="https://photos.app.goo.gl/LUhvHhRKqyMnYwdh6" title="16 new photos added to shared album"]
+[![Album](https://lh3.googleusercontent.com/8rsGtVOGmNqiOhyP-akv05fwbZC7OsBThHtmM58-mc3kUlbMbFYLhSfHJ24reOGTD3t5El006FdAIL80qcr6ojXCaDpxzN2vwDywPdVnQ1dU5jeNtXO47TVdBfGrPjBpOUjQTe6RB8o "16 new photos added to shared album")](https://photos.app.goo.gl/LUhvHhRKqyMnYwdh6)

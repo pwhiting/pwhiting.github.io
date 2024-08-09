@@ -13,6 +13,6 @@ After church we headed back to our Airbnb and made a large lunch, which we toppe
 
 Now we are winding down and packing for tomorrow. We are anxious to get some miles toward Copenhagen. Natalie's birthday is Wednesday and we hope to spend at least part of the day there. We haven't yet figured out where we will stop tomorrow, so we don't have accommodations arranged for the evening. So far there seem to be plenty of options, so wild camping may not be required.
 
-[embed-google-album src="https://lh3.googleusercontent.com/2RrjBgZuhBfTNHry\_245-RP8FTRdgHSd3a0-fWU972Dz\_PT7zKewl1\_An9KtvS7L7LNkLFiovPLtDPfDOylUZrLUZk\_s95D4NjmHH1iL0oK5\_v0JRziGGMqK-8LDvHjk9eQifS8fW-c" click="https://photos.app.goo.gl/cNvWFum3Y54fRQH87" title="Sunday"]
+[![Album](https://lh3.googleusercontent.com/2RrjBgZuhBfTNHry_245-RP8FTRdgHSd3a0-fWU972Dz_PT7zKewl1_An9KtvS7L7LNkLFiovPLtDPfDOylUZrLUZk_s95D4NjmHH1iL0oK5_v0JRziGGMqK-8LDvHjk9eQifS8fW-c "Sunday")](https://photos.app.goo.gl/cNvWFum3Y54fRQH87)
 
 ![](https://ride.whitings.org/wp-content/uploads/2019/06/screenshot_20190623-2232327109561051464699694.png)

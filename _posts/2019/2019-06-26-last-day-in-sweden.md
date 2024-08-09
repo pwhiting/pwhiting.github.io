@@ -29,4 +29,4 @@ So far Denmark seems more expensive than Sweden, but may just be area we're in.
 
 On to Copenhagen next! Thanks Sweden!
 
-[embed-google-album src="https://lh3.googleusercontent.com/rKZUuzhQKKxzjuVOsOoRol8QWIQMI\_ZLr8g737uSrYlL\_anYDDkx4gMPnsmClCKYLqjKhxp-o7vYmcnL-X7uO0v3ZSXJ4BvLLqRZ\_l9YTUw1np9QZzXNmpwa7HzictgITy7itJZQ\_Bo" click="https://photos.app.goo.gl/sdjqAs9UoUfbLn2x6" title="Last day in Sweden"]
+[![Album](https://lh3.googleusercontent.com/rKZUuzhQKKxzjuVOsOoRol8QWIQMI_ZLr8g737uSrYlL_anYDDkx4gMPnsmClCKYLqjKhxp-o7vYmcnL-X7uO0v3ZSXJ4BvLLqRZ_l9YTUw1np9QZzXNmpwa7HzictgITy7itJZQ_Bo "Last day in Sweden")](https://photos.app.goo.gl/sdjqAs9UoUfbLn2x6)

@@ -38,5 +38,5 @@ It was a great day of just under 70 miles of riding.
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2021/06/IMG_1354-1024x768.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/IMG_1354-1024x768.jpg)
 

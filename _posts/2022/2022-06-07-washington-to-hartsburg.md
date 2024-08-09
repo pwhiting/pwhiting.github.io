@@ -19,43 +19,43 @@ Our original plan was to ride 60 miles to the shelter we had stayed at on our tr
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/img_0326.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/img_0326.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658189-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658189-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658223-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658223-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658206-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658206-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658311-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658311-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658157-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658157-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658291-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658291-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658241-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658241-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658352-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658352-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658267-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658267-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658328-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658328-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658397-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658397-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654616658375-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654616658375-scaled.jpg)
 
 
 

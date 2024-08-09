@@ -23,7 +23,7 @@ Sunday we drove to Helena and picked up Sydney (actually, she took over the driv
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2021/06/img_1090-1024x768.jpg)Natalie and Sydney checking out the beautiful views
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1090-1024x768.jpg)Natalie and Sydney checking out the beautiful views
 
 
 We woke up early today and drove to Hamilton, Montana, leaving our truck at the police station parking lot (arranged this with the police sergeant in advance). Strange not to have to put the bike together out of boxes and ride away from an airport! (thinking of our earlier Europe and Iceland trips….) It still took us over an hour to load up the bike (and we had to replace the rear tube because it was slowly losing pressure).
@@ -31,7 +31,7 @@ We woke up early today and drove to Hamilton, Montana, leaving our truck at the 
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2021/06/img_1094-957x1024.jpg)Our setup now includes bear spray on the front fork.
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1094-957x1024.jpg)Our setup now includes bear spray on the front fork.
 
 
 A local rider stopped to talk to us in the parking lot. He lead us through town to the start of our trail. Several times on our trips we have had locals play the part of our guardian angels. Once in Iceland a local rider riding late at night helped us avoid a rough section of trail. In Paris a local guided us through rush-hour as we tried to exit the city. We are always so grateful for these friendly helpers. 
@@ -44,7 +44,7 @@ Today’s ride was just under 60 miles and slightly downhill. Most of what we ro
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2021/06/img_1096-582x1024.jpg)May 31 route heading north
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1096-582x1024.jpg)May 31 route heading north
 
 
 Clearly our legs need to get into shape. We’ve been riding regularly of course, but not with all of our gear, and not every day all day. We probably have about 100 pounds of gear on our bike, and our bike weighs 100 pounds, and we weigh 300 pounds total, so the entire weight of our rig is about 500 pounds. But it's great to be back on the bike, doing a longer trip in a beautiful part of the world. We had spectacularly perfect weather today, and the Montana early summer evergreen forests and snow-capped mountains are amazing.
@@ -62,7 +62,7 @@ I was kind of disappointed in the quality of our room until Natalie reminded me 
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2021/06/PXL_20210531_231029199-1-scaled.jpg)Bike in the room
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210531_231029199-1-scaled.jpg)Bike in the room
 
 
 We made camp food in the parking lot, due to being equal parts lazy and cheap. It was delicious: minute rice, freeze dried vegetable mix, and a veggie bullion cube. It is amazing how good food tastes after a long ride.
@@ -75,10 +75,10 @@ Tomorrow we'll ride toward St Regis. We are tired but happy.
 
 
 
-* ![](https://ride.whitings.org/wp-content/uploads/2021/06/PXL_20210531_165409251-scaled.jpg)
-* ![](https://ride.whitings.org/wp-content/uploads/2021/06/PXL_20210531_211427683-scaled.jpg)
-* ![](https://ride.whitings.org/wp-content/uploads/2021/06/PXL_20210531_165412326-scaled.jpg)
-* ![](https://ride.whitings.org/wp-content/uploads/2021/06/PXL_20210531_171902585-scaled.jpg)
+* ![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210531_165409251-scaled.jpg)
+* ![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210531_211427683-scaled.jpg)
+* ![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210531_165412326-scaled.jpg)
+* ![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210531_171902585-scaled.jpg)
 
 Day 1 photo highlights
 

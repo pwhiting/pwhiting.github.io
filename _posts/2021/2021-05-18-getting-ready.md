@@ -28,7 +28,7 @@ We did a short two-day ride with Page and Vance last weekend. One of the cool lo
 
 
 
- ![](https://ride.whitings.org/wp-content/uploads/2021/05/img_0843-scaled.jpg)
+ ![](https://rode.whitings.org/wp-content/uploads/2021/05/img_0843-scaled.jpg)
 
 
 
@@ -78,5 +78,5 @@ In my next post I’ll talk about how we are gearing up a bit differently for th
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2021/05/img_0864-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/05/img_0864-scaled.jpg)
 

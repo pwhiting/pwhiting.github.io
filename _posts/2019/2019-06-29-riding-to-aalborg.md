@@ -19,4 +19,4 @@ Saturday and Sunday are off-bike days, and we have some good stuff planned! Then
 
 This is awesome!
 
-[embed-google-album src="https://lh3.googleusercontent.com/1C62tVnzaVCigutxUcnWD7odRo1wkJEQG-ajBn9iOWKbumIz371AIh-mW6CTpoEvhk--L8yYlD1TNWhkOEjA3ypIl0hEGW-JLYQGSNLBwWHPwCWgxakjTasoM3NBa7T8CC4Pxikmswc" click="https://photos.app.goo.gl/m7HMwetnf9ETjBQ5A" title="Ride to Aalborg"]
+[![Album](https://lh3.googleusercontent.com/1C62tVnzaVCigutxUcnWD7odRo1wkJEQG-ajBn9iOWKbumIz371AIh-mW6CTpoEvhk--L8yYlD1TNWhkOEjA3ypIl0hEGW-JLYQGSNLBwWHPwCWgxakjTasoM3NBa7T8CC4Pxikmswc "Ride to Aalborg")](https://photos.app.goo.gl/m7HMwetnf9ETjBQ5A)

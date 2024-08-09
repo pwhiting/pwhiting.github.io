@@ -23,4 +23,4 @@ Copenhagen is a beautiful, interesting city, with colorful, lovely architecture 
 
 At the end of our tour of the city we found a small Thai restaurant in central Copenhagen that was amazing, called Wokshop. It was a proper way to celebrate Natalie's birthday. We rode the train back to our Airbnb and spent the evening winding down. We're feeling ready for tomorrow.
 
-[embed-google-album src="https://lh3.googleusercontent.com/8O\_R2T5xvBm7Ld3s335ifFt1vb6ygoYiVO\_oCxUAvvM-oW2iJBc7HXY2hNCMO6jGVpSF94ssKvQwlLI8JfEAIpuJfqsivFGUJUy-JbmHX3iPTomKIrdFXkY-IuVZhT3HEWvbiUp55oc" click="https://photos.app.goo.gl/9wzL6S8sYnDxDvS96" title="Day in Copenhagen"]
+[![Album](https://lh3.googleusercontent.com/8O_R2T5xvBm7Ld3s335ifFt1vb6ygoYiVO_oCxUAvvM-oW2iJBc7HXY2hNCMO6jGVpSF94ssKvQwlLI8JfEAIpuJfqsivFGUJUy-JbmHX3iPTomKIrdFXkY-IuVZhT3HEWvbiUp55oc "Day in Copenhagen")](https://photos.app.goo.gl/9wzL6S8sYnDxDvS96)

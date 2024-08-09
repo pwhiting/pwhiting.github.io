@@ -17,4 +17,4 @@ Now we are walking around Zwolle, picking up a little food for breakfast that we
 
 We are happy.
 
-[embed-google-album src="https://lh3.googleusercontent.com/y2QOCTbxBrt6faUqwnzujkR4x9\_uKoWbWjhx6SSWu9FCXOslh7j4rbQ4NDgZi0Kl5UHPrrznHOZcw1oOOYSn8J4Gaw2nu8ea1iqcPSykNP4a0zMouYJdHeOho51vAbWmCnQf-49Opw0" click="https://photos.app.goo.gl/i5kx3cyMdjwfAEcXA" title="3 new photos added to shared album"]
+[![Album](https://lh3.googleusercontent.com/y2QOCTbxBrt6faUqwnzujkR4x9_uKoWbWjhx6SSWu9FCXOslh7j4rbQ4NDgZi0Kl5UHPrrznHOZcw1oOOYSn8J4Gaw2nu8ea1iqcPSykNP4a0zMouYJdHeOho51vAbWmCnQf-49Opw0 "3 new photos added to shared album")](https://photos.app.goo.gl/i5kx3cyMdjwfAEcXA)

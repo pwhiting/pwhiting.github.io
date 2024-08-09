@@ -17,4 +17,4 @@ Today's route was usually near towns, and sometimes a bigger road but always wit
 
 During the day we ate "off the bike" and found a great salad bar at one grocery store for dinner. Campground showers felt good. It's a bit chilly but dry tonight, and we're looking forward to our sleeping bags.
 
-[embed-google-album src="https://lh3.googleusercontent.com/9eshzvmCbJPUsNT9ey\_V7ZdlTwjyMEICRhL0grC-W33rMULFReVJdOHkhCc-iEBaHJzjPearwOlhl4fgxrjd-vQZFNLdBHP--J2WJ8q10M4eLq7FdlzaAX2jSfI3s5-tQwtdSSrOUHc" click="https://photos.app.goo.gl/8MeSZpjKcy8UKCnJ6" title="16 new photos added to shared album"]
+[![Album](https://lh3.googleusercontent.com/9eshzvmCbJPUsNT9ey_V7ZdlTwjyMEICRhL0grC-W33rMULFReVJdOHkhCc-iEBaHJzjPearwOlhl4fgxrjd-vQZFNLdBHP--J2WJ8q10M4eLq7FdlzaAX2jSfI3s5-tQwtdSSrOUHc "16 new photos added to shared album")](https://photos.app.goo.gl/8MeSZpjKcy8UKCnJ6)

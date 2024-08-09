@@ -25,4 +25,4 @@ It is now Saturday morning and Natalie is just waking up after 9 hours of sleep.
 
 After breakfast note by Natalie: Our stay included a huge buffet with all kinds of options, even for vegan eaters, and we ate a large and wonderful breakfast! So good!
 
-[embed-google-album src="https://lh3.googleusercontent.com/BOY0og-cuLgGJc5oiJhf-xv\_I92V2twBZ-NSLtGBWDAurzQZWxrBSvWeqvoOVRSEuXBa4tI2X7U9J4tRXB\_ZdZxDLz91zwXEclDBq\_2x-YrInf-\_QATBpkqjzZb9Vh6Ez6\_wg9YRMyo" click="https://photos.app.goo.gl/GErZV1ByJ2B3TG2k9" title="19 new photos added to shared album"]
+[![Album](https://lh3.googleusercontent.com/BOY0og-cuLgGJc5oiJhf-xv_I92V2twBZ-NSLtGBWDAurzQZWxrBSvWeqvoOVRSEuXBa4tI2X7U9J4tRXB_ZdZxDLz91zwXEclDBq_2x-YrInf-_QATBpkqjzZb9Vh6Ez6_wg9YRMyo "19 new photos added to shared album")](https://photos.app.goo.gl/GErZV1ByJ2B3TG2k9)

@@ -17,4 +17,7 @@ We hope we can be riding by tomorrow.
 
 Update later in the day: The airport notified us they have located or bike boxes and they should arrive tonight!
 
-[embed-google-album src="https://lh3.googleusercontent.com/VkiNoK4cZMeBbhtmE3iQJwpp1awK3Ck\_QngMavCKmgOk4vKFmiBH3wBvoWdfvIZEGorUeEy0V5cjVWGcciIAW\_mjHuukfTeu66jHn5vVt4nffwwqXY4qgf-3CTN\_aDCLp3COamYjrCk" click="https://photos.app.goo.gl/BADdScJ1o7NBv7kL7" title="Airbnb near Gothenburg"]
+
+[![Album](https://lh3.googleusercontent.com/VkiNoK4cZMeBbhtmE3iQJwpp1awK3Ck_QngMavCKmgOk4vKFmiBH3wBvoWdfvIZEGorUeEy0V5cjVWGcciIAW_mjHuukfTeu66jHn5vVt4nffwwqXY4qgf-3CTN_aDCLp3COamYjrCk "Airbnb near Gothenburg")](https://photos.app.goo.gl/BADdScJ1o7NBv7kL7)
+
+[![Album](https://lh3.googleusercontent.com/VkiNoK4cZMeBbhtmE3iQJwpp1awK3Ck_QngMavCKmgOk4vKFmiBH3wBvoWdfvIZEGorUeEy0V5cjVWGcciIAW_mjHuukfTeu66jHn5vVt4nffwwqXY4qgf-3CTN_aDCLp3COamYjrCk "Airbnb near Gothenburg")](https://photos.app.goo.gl/BADdScJ1o7NBv7kL7)

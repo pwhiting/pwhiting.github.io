@@ -23,7 +23,7 @@ My last step was to start using Strava. It has a [global heatmap](https://www.st
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2021/05/img_1066-1024x748.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/05/img_1066-1024x748.jpg)
 
 
 Our current plan is to ride from Hamilton Montana north to Missoula and then ride as far to the west as we can get by Saturday. We'll take a rest day, then turn around and ride east to Coeur d'Alene where we'll meet Page and Vance midweek. We'll ride a big 3-day loop with them and end up in Coeur d'Alene again for our Sunday rest day. If we are feeling strong we'll finish our ride on Monday with a loop to Spokane and back, then head home on Tuesday.
@@ -41,7 +41,7 @@ In other news, this week I replaced my front fork, headset (thing that connects 
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2021/05/img_1065-1-445x1024.jpg)The thing circled in red is upside down from how one would normally install this….
+![](https://rode.whitings.org/wp-content/uploads/2021/05/img_1065-1-445x1024.jpg)The thing circled in red is upside down from how one would normally install this….
 
 
 We are going out this morning on a ride close to home, fully loaded, to make sure nothing comes flying off...

@@ -24,21 +24,21 @@ If the weather is reasonable, this should be quite doable. If we get caught in a
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/img_0318.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/img_0318.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/img_0309.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/img_0309.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/img_0308.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/img_0308.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/img_0316.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/img_0316.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654472323505-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654472323505-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654474127091-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654474127091-scaled.jpg)
 
 

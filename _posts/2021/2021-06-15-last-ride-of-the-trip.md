@@ -22,7 +22,7 @@ We found a hotel, cleaned up, soaked in the hot tub and pool, and went to sleep,
 As we write this it is Tuesday and we are driving home. We are sad to see our adventure end but happy to think about the memories we created. We love seeing the world this way and enjoy this unique opportunity to accomplish something difficult together. It was also fun to share the last part of our trip with people we love.  
   
   
-![](https://ride.whitings.org/wp-content/uploads/2021/06/IMG_1396-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/IMG_1396-scaled.jpg)
 
 
 

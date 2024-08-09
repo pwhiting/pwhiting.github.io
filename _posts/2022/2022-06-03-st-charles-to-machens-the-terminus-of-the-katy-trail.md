@@ -39,33 +39,33 @@ One thing we didn’t write about was meeting a gentleman named John on our ride
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654281432563-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654281432563-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654281432326-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654281432326-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654281432519-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654281432519-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654281432386-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654281432386-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654281432273-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654281432273-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654281432354-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654281432354-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654281432435-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654281432435-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654281432462-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654281432462-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654281432409-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654281432409-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654281432598-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654281432598-scaled.jpg)
 
 

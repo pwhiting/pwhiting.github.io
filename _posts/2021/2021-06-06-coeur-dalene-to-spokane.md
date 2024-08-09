@@ -13,7 +13,7 @@ Saturday was our earliest start yet. Maybe it was because we felt a little crowd
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2021/06/img_1220.jpg)Saturday's route
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1220.jpg)Saturday's route
 
 
 The Centennial Trail was mostly scenic and a good paved trail with several short sections on roads. Much of the trail in the Coeur d'Alene section was through pretty, well-kept neighborhoods, beachfront properties, nice parks, and two small college campuses. As we got into Washington, the landscape changed but was pretty in its own right. Even though we were on a trail it was good to have our route displayed on the bike computer as we rode west. We may have otherwise struggled to follow some of the on-road sections.

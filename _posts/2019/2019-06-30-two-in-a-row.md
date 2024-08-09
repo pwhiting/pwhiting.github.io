@@ -27,4 +27,4 @@ Today we attended the Aalborg ward. It was quite large relative to other wards w
 
 Party on.
 
-[embed-google-album src="https://lh3.googleusercontent.com/J9WlnMrRCnRwUjajY1rw2z\_1HGfea5voDIfKuhnSYW9\_lnTY-cPa9oKJnz00UM88irSnpbyLdyV9Ds0lGMFwcAN8AtU9xwC84NTNmA0arNE3dmIDMT664fl6jOU942A34JEokrbUHig" click="https://photos.app.goo.gl/sHdshtJ1dRFBzuCH8" title="3 new photos added to shared album"]
+[![Album](https://lh3.googleusercontent.com/J9WlnMrRCnRwUjajY1rw2z_1HGfea5voDIfKuhnSYW9_lnTY-cPa9oKJnz00UM88irSnpbyLdyV9Ds0lGMFwcAN8AtU9xwC84NTNmA0arNE3dmIDMT664fl6jOU942A34JEokrbUHig "3 new photos added to shared album")](https://photos.app.goo.gl/sHdshtJ1dRFBzuCH8)

@@ -21,4 +21,4 @@ We will ride around 30 miles to the airport tomorrow, pack up our bike, and then
 
 We are happy, but kind of sad to have this adventure end.
 
-[embed-google-album src="https://lh3.googleusercontent.com/EREGBZH\_lXxXBx38-eUES2PE9QCoREpkXLKBcRKZlHf-AQ2TmYENhCYBEZ7oDVNWg-kDMozp7DW7JSpCKQm3LuYGZG6vS-z8SVY3Xs5mF6bWq-3zjDK8f9RAG3cxCBGgJ8kPjTtm9wM" click="https://photos.app.goo.gl/jUZkPbNfkG2tL6b17" title="Ride to Almere"]
+[![Album](https://lh3.googleusercontent.com/EREGBZH_lXxXBx38-eUES2PE9QCoREpkXLKBcRKZlHf-AQ2TmYENhCYBEZ7oDVNWg-kDMozp7DW7JSpCKQm3LuYGZG6vS-z8SVY3Xs5mF6bWq-3zjDK8f9RAG3cxCBGgJ8kPjTtm9wM "Ride to Almere")](https://photos.app.goo.gl/jUZkPbNfkG2tL6b17)

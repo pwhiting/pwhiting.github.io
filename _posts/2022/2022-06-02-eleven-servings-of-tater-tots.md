@@ -34,39 +34,39 @@ It is raining softly now as we get ready go to sleep. We are grateful that we ar
 
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284886-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284886-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284836-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284836-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284771-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284771-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284917-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284917-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284710-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284710-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284945-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284945-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284689-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284689-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284666-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284666-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284623-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284623-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284602-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284602-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284555-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284555-scaled.jpg)
 
 
-![](https://ride.whitings.org/wp-content/uploads/2022/06/wp-1654218284646-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218284646-scaled.jpg)
 
 
