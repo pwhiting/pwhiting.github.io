@@ -8,10 +8,10 @@ modified: 2017-06-26 21:43:06
 categories: ['Amsterdam to Paris and back']
 ---
 
-![](https://whitingpt.files.wordpress.com/2017/06/img_20170626_092226745.jpg)
 
 Natalie didn't sleep well last night. Maybe her body clock is taking some time to adjust. Maybe it isn't used to getting more than 5 hours of sleep the night before.... She eventually fell asleep but we were up early getting ready for the ride to Bastogne.
 
+![](https://whitingpt.files.wordpress.com/2017/06/img_20170626_092226745.jpg)
 Our Airbnb host provided a nice breakfast and we took off before 8:30. We chose to push our bike for about the first 15 minutes because of the steep, narrow, cobblestone roads. We started riding once our legs were warm and the road widened. The weather was overcast and cool. Perfect for riding.
 
 We rode most of the day on two bike paths without the noise of cars. This has to be one of the most beautiful ways to see Europe. Not only to see it, but to hear and smell it too. (Natalie's note: all day we were passing through beautiful mountain forests, rolling hilly farms, and lovely villages with flower boxes in pretty much every window! Amazing.)

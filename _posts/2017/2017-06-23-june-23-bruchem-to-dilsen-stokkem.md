@@ -8,9 +8,10 @@ modified: 2017-06-23 19:31:53
 categories: ['Amsterdam to Paris and back']
 ---
 
-![](https://whitingpt.files.wordpress.com/2017/06/img_20170623_120358512.jpg)
 
 We slept in... longer than ever... Birds woke us up at about 4, but we put in earplugs and fell back to sleep. I slept until 8:30. It was amazing. The bed was really comfortable and there were 4 windows open and a fan. The temperature was perfect. We loved B&B De Bloesemgof. Highly recommend it, especially if you need a place that also can securely store your bike.
+
+![](https://whitingpt.files.wordpress.com/2017/06/img_20170623_120358512.jpg)
 
 No Alpine start for us. We didn't roll until after 9:30. We rode a few miles and found a place with smoothies and fruit - our standard breakfast.
 
@@ -30,13 +31,7 @@ Dinner was nice. Another salad for Natalie and veggie spaghetti for me.
 
 Everyone has been nice to help us with our complete lack of Dutch language skills. Although we confuse them when we say we don't want cheese or meat. Crazy Americans.
 
-![](https://whitingpt.files.wordpress.com/2017/06/img_20170623_103237394.jpg)
-![](https://whitingpt.files.wordpress.com/2017/06/img_20170623_112759396.jpg)
-![](https://whitingpt.files.wordpress.com/2017/06/img_20170623_170234482.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/wp-1498247588101.jpg)
-
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170623_103237394.jpg/img_20170623_103237394.jpg)
 ![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170623_112759396.jpg/img_20170623_112759396.jpg)
 ![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170623_120358512.jpg/img_20170623_120358512.jpg)
 ![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170623_170234482.jpg/img_20170623_170234482.jpg)
