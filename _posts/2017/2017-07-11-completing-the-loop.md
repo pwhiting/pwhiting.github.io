@@ -8,9 +8,7 @@ modified: 2017-07-11 20:43:59
 categories: ['Amsterdam to Paris and back']
 ---
 
-Pete writing tonight...
-
-Today was our final ride for this trip. We are really sad to be finished, but very grateful for the experiences of the last 3 weeks.
+Pete writing tonight...  Today was our final ride for this trip. We are really sad to be finished, but very grateful for the experiences of the last 3 weeks.
 
 We changed our route last minute to give us some extra miles along the coast. Months ago, when I planned the route, I wasn't sure if we'd be tired and want an easy day or if we'd be getting strong, so Rotterdam was chosen because it had a short direct route back to Amsterdam if needed, but also offered the option of a longer scenic route as well. Turns out we didn't need the shorter escape valve.
 

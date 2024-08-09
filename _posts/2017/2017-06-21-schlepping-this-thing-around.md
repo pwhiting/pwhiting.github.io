@@ -8,9 +8,10 @@ modified: 2017-06-21 14:47:28
 categories: ['Bike Info']
 ---
 
-[![](https://whitingpt.files.wordpress.com/2017/06/screenshot_20170621-084148.png)](https://whitingpt.files.wordpress.com/2017/06/screenshot_20170621-084148.png)
 
 Many have asked us how we transport this awkwardly-sized bike.  That has been a bit of a journey in and of itself.
+
+[![](https://whitingpt.files.wordpress.com/2017/06/screenshot_20170621-084148.png)](https://whitingpt.files.wordpress.com/2017/06/screenshot_20170621-084148.png)
 
 We started by taking it apart in the middle, folding it, and lugging it into the back of our truck. This had a few drawbacks. First, it wasted a little time before and after each ride. Second, it seemed to put stain on the cables that route below the frame. Third, it was a pain in the rear.
 

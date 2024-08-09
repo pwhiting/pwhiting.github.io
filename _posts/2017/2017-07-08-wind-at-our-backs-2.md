@@ -8,9 +8,7 @@ modified: 2017-07-08 20:46:00
 categories: ['Amsterdam to Paris and back']
 ---
 
-(Pete writing)
-
-Today's ride from Brugge to Antwerp was much easier than the ride from Calais to Brugge. It helped that it was about 10 miles shorter (66 miles) and that we had rested and that we had the wind at our backs. The trails were good, with a few well groomed single tracks, and the weather was almost perfect at 75 degrees. Because it was a Saturday, we saw a lot more bikers.
+(Pete writing) Today's ride from Brugge to Antwerp was much easier than the ride from Calais to Brugge. It helped that it was about 10 miles shorter (66 miles) and that we had rested and that we had the wind at our backs. The trails were good, with a few well groomed single tracks, and the weather was almost perfect at 75 degrees. Because it was a Saturday, we saw a lot more bikers.
 
 Riding in Belgium and Holland requires a stable ego. Imagine riding along in your spandex kit, on an expensive engineering masterpiece, working hard, high heart rate, sweat dripping off your face, only to be passed by a 70-year-old lady on a 3-speed wearing a skirt, sitting straight up in the least dynamic position possible, with a big front bike basket where her dog is sitting, and she's toodling along with no more exertion on her face than she does when playing bridge and drinking tea. I find it best in such situations to pretend I'm lost. 
 

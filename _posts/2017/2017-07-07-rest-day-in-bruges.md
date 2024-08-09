@@ -7,9 +7,7 @@ modified: 2017-07-07 15:50:19
 categories: ['Amsterdam to Paris and back']
 ---
 
-(Natalie writing today) 
-
-I am beginning this post in the early evening at a small shady park in Old Bruges, a quiet respite from the tourist area. People are napping, talking, reading, walking. The sound of the fountain is calming.
+(Natalie writing today)  I am beginning this post in the early evening at a small shady park in Old Bruges, a quiet respite from the tourist area. People are napping, talking, reading, walking. The sound of the fountain is calming.
 
 Pete did laundry for us first thing this morning, at a nearby laundromat, while I got ready. That was greatly appreciated and needed! Once again our room is decorated with drying clothes. 
 

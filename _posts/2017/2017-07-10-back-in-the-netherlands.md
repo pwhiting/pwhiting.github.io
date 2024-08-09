@@ -8,10 +8,7 @@ modified: 2017-07-10 18:38:21
 categories: ['Amsterdam to Paris and back']
 ---
 
-(Natalie writing today)
-
-Surprised ourselves by sleeping in. That's always nice, especially on vacation, right?
-
+(Natalie writing today) Surprised ourselves by sleeping in. That's always nice, especially on vacation, right?
 We had expected a little rain but happily didn't get any until we were checked into our AirBnB. It was a perfect temperature again today, some clouds too. 
 
 Lots of great cycle trails and roads today. Some smaller towns, some farmland. A few cool bridges over big rivers or industrial/rail areas. Sometimes the bike lane/path would be paved and the road for cars would just be dirt! We had some detours due to construction in Antwerp on our way out, but we quickly worked around them.

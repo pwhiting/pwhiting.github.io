@@ -8,9 +8,7 @@ modified: 2017-07-06 20:44:40
 categories: ['Amsterdam to Paris and back']
 ---
 
-We are team writing today.
-
-Today's ride from Calais to Bruges felt a lot longer than 77 miles. We are physically and mentally tired, so it is great that tomorrow is a rest day.
+We are team writing today.  Today's ride from Calais to Bruges felt a lot longer than 77 miles. We are physically and mentally tired, so it is great that tomorrow is a rest day.
 
 We made up with GPS navigation lady. She likes us and we like her. We mostly stayed on course, only straying when tempted by beaches. We had a few route segments we had to work around when the bike wouldn't fit through bike gates or similar. We are getting better at dealing with such issues with minimal hassle.
 

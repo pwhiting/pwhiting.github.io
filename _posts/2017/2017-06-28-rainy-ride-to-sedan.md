@@ -7,11 +7,7 @@ modified: 2017-06-28 18:30:33
 categories: ['Amsterdam to Paris and back']
 ---
 
-Pete writing... 
-
-We slept great. Our body clocks must have caught up.
-
-Woke to rain, a lot of it. Forecast was rain all day, so after breakfast we rode off into the rain. We followed a route suggested by Google - you know the ones that have a note that says 'this feature is in beta, so don't blame us if this route stinks' or something like that. Within the first 100 yards we were bouncing along a rocky path. For most of the day we alternated between remote roads and trails and crowded roads. We're going to go back to our other routing software tomorrow. Sorry Google.
+Pete writing...  We slept great. Our body clocks must have caught up. Woke to rain, a lot of it. Forecast was rain all day, so after breakfast we rode off into the rain. We followed a route suggested by Google - you know the ones that have a note that says 'this feature is in beta, so don't blame us if this route stinks' or something like that. Within the first 100 yards we were bouncing along a rocky path. For most of the day we alternated between remote roads and trails and crowded roads. We're going to go back to our other routing software tomorrow. Sorry Google.
 
 It rained hard most of the day, but somehow it was still fun. The rain made the colors more vibrant and saved us the trouble of sweating. Our Houdini coats turned out to be not as rain proof as we hoped. Maybe next time we will bring plastic overcoats for days like this. We are grateful it wasn't colder today.
 

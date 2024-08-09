@@ -8,11 +8,7 @@ modified: 2017-07-04 19:41:24
 categories: ['Amsterdam to Paris and back']
 ---
 
-(Natalie writing)
-
-Happy Fourth of July, America!
-
-Today's ride was the longest segment of the trip: 85 miles. But it was also one of the best so far. We really had perfect weather, some clouds for about half the day, becoming sunnier in the afternoon, a nice breeze, and temperature in the low 70s F. The route itself was very enjoyable, perhaps our favorite thus far. It was one we adjusted rather late in our planning, so we weren't sure how it would turn out. We had only a few climbs at 10% grade or higher, which were briefly painful but manageable. We only had minor routing problems. We rode on lots of small farm roads, some bike paths, and through some especially beautiful forests. As we got closer to Berck it became just a bit more touristy but much less busy than most beach destinations. 
+(Natalie writing) Happy Fourth of July, America!  Today's ride was the longest segment of the trip: 85 miles. But it was also one of the best so far. We really had perfect weather, some clouds for about half the day, becoming sunnier in the afternoon, a nice breeze, and temperature in the low 70s F. The route itself was very enjoyable, perhaps our favorite thus far. It was one we adjusted rather late in our planning, so we weren't sure how it would turn out. We had only a few climbs at 10% grade or higher, which were briefly painful but manageable. We only had minor routing problems. We rode on lots of small farm roads, some bike paths, and through some especially beautiful forests. As we got closer to Berck it became just a bit more touristy but much less busy than most beach destinations. 
 
 Our biggest disappointment has been that we didn't schedule a rest day here! It is a quiet but quaint beach town and we really like it! (I'm sure it's much busier on the weekend.... We're here on a Tuesday evening, after all.)
 

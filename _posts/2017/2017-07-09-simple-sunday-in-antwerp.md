@@ -8,9 +8,7 @@ modified: 2017-07-09 16:13:51
 categories: ['Amsterdam to Paris and back']
 ---
 
-Team writing today...
-
-We slept well, as happily has become our pattern on this trip. We are not looking forward to returning to our 4 AM wakeup routine once we return. It has been amazing to not awake to the sound of an alarm clock. We both are ready to retire and make this permanent.
+Team writing today...  We slept well, as happily has become our pattern on this trip. We are not looking forward to returning to our 4 AM wakeup routine once we return. It has been amazing to not awake to the sound of an alarm clock. We both are ready to retire and make this permanent.
 
 With the help of Google and friendly people at bus stops, we were able to navigate Antwerp today. When you travel by bike, public transportation or your bike is the only way to move about a city. Our bike is a little hard to find parking for, and we were dressed for church, so public transportation was our chosen mode of travel.
 

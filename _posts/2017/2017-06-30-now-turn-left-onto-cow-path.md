@@ -8,9 +8,7 @@ modified: 2017-06-30 20:38:28
 categories: ['Amsterdam to Paris and back']
 ---
 
-Pete again...
-
-If your trip through Europe doesn't include the GPS directions lady saying "now turn left onto cow path" you might be doing it wrong.
+Pete again...  If your trip through Europe doesn't include the GPS directions lady saying "now turn left onto cow path" you might be doing it wrong.
 
 Today we woke up and had a big breakfast. The biggest yet. Our bnb hosts went out of their way to accommodate our crazy diets and we had also shopped for breakfast for all four of us, so by the time we were done eating we were stuffed. We said goodbye to our new friends in Guignicourt and headed for Compiègne about 60 miles away.
 

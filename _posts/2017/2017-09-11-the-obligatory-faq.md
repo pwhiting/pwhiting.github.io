@@ -10,7 +10,6 @@ categories: ['Bike Info']
 We've been intending to post this ever since our last day in Amsterdam. Life just became too busy....
 ### How did your bike work out? Any major breakdowns?
 
-
 Selecting a bike for a ride like this may be the most important decision you make. For us, our decision was perfect. We loved being on a recumbent and we loved being on a tandem. We were amazed at how well we could converse, and riding a tandem made the trip feel more like a team effort than if we had ridden independent bikes.
 
 We have nothing but praise for Nazca Ligfietsen. The bike was solid the entire trip. As a bonus, Monique, the co-owner of Nazca Ligfietsen, remained in contact with us through much of our trip ensuring everything was going smoothly. Her customer engagement is exceptional. Occasionally we still exchange email and I always look forward to her responses.

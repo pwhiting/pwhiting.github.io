@@ -8,9 +8,7 @@ modified: 2017-07-12 21:49:29
 categories: ['Amsterdam to Paris and back']
 ---
 
-(Natalie writing)
-
-I'm going to try to be concise, as we're waking early tomorrow (early for this trip's standards but not our normal life). 
+(Natalie writing) I'm going to try to be concise, as we're waking early tomorrow (early for this trip's standards but not our normal life). 
 
 We biked 15 minutes in the rain to the airport, with minimal gear. Spent 2 hours taking apart the bike and packing it in its two boxes for our flight home tomorrow. Paid to have it stored overnight. Found a train into the city. 
 
