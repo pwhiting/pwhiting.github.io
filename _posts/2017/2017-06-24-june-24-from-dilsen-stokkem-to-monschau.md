@@ -1,5 +1,5 @@
 ---
-image: https://whitingpt.files.wordpress.com/2017/06/img_20170624_155842466_hdr.jpg
+image: "https://whitingpt.files.wordpress.com/2017/06/img_20170624_155842466_hdr.jpg"
 id: 444
 layout: post
 title: June 24 from Dilsen-Stokkem to Monschau
