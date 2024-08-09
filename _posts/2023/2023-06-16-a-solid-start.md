@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2023/06/img_2831.jpg"
 id: 2108
 layout: post
 title: A solid start
@@ -45,3 +46,6 @@ So we had a solid first day. Hopefully, we worked out all the kinks in our plann
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2023/06/img_2831.jpg)

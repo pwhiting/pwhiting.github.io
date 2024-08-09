@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654906656634.jpg"
 id: 2046
 layout: post
 title: Hartsburg to Sedalia

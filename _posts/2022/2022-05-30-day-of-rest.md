@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2022/05/wp-1654019101315-scaled.jpg"
 id: 1900
 layout: post
 title: Day of rest in Clinton

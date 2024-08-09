@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/07/img_20190701_1333157350869682103229662.jpg"
 id: 1511
 layout: post
 title: Ride to Herning

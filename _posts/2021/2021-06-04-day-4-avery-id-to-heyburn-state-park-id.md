@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210604_185559847.jpg"
 id: 1738
 layout: post
 title: Avery ID to Heyburn State Park ID
@@ -42,3 +43,8 @@ It was a good day, albeit less spectacular than yesterday, covered 60 miles with
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210604_160436656.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210604_165910413.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210604_185559847.jpg)

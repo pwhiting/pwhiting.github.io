@@ -53,3 +53,6 @@ Tomorrow is our last day of riding as we make our way to the Frankfurt airport. 
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2023/07/img_3753.jpg)

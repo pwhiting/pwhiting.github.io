@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2018/07/img_20180729_143300.jpg"
 id: 1058
 layout: post
 title: We're practically retired

@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2018/07/img_20180728_172028.jpg"
 id: 1034
 layout: post
 title: A good and proper soaking

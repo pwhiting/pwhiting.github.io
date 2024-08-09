@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2022/05/img_0219.jpg"
 id: 1876
 layout: post
 title: Lake Winnebago to Clinton

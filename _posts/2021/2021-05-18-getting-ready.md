@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2021/05/img_0864-scaled.jpg"
 id: 1655
 layout: post
 title: Getting ready
@@ -79,4 +80,5 @@ In my next post I’ll talk about how we are gearing up a bit differently for th
 
 
 ![](https://rode.whitings.org/wp-content/uploads/2021/05/img_0864-scaled.jpg)
+
 

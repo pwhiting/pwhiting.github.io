@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2023/06/img_3039.jpg"
 id: 2132
 layout: post
 title: Welcome to the vineyards
@@ -47,3 +48,6 @@ Well it is past 10 and our rock concert continues to rock, ridiculously. Gratefu
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2023/06/img_3039.jpg)

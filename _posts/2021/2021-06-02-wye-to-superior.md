@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2021/06/pxl_20210601_230445441_original-scaled.jpg"
 id: 1726
 layout: post
 title: Wye to Superior
@@ -68,3 +69,17 @@ We made approximately 60 miles, which is about what we did on our first day, but
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210602_182916659.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210602_192832124.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1099-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1100-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1103-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1116-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1117-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1121-1-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1125-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1149.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/pxl_20210601_195759207_original-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/pxl_20210601_230445441_original-scaled.jpg)

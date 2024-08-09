@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2023/06/img_3443.jpg"
 id: 2155
 layout: post
 title: Ride to Oberheimbach
@@ -62,3 +63,6 @@ We are grateful, happy, and recovering. Tomorrow is our big climb day. We are ex
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2023/06/img_3443.jpg)

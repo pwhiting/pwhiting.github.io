@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210602_192832124-scaled.jpg"
 id: 1731
 layout: post
 title: Day 3 Superior MT to Avery ID
@@ -102,3 +103,9 @@ Food facts: 
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210602_182916659-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210602_192832124-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1149-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1195.jpg)

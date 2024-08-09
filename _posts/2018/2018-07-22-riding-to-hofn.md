@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/06/IMG_20180722_1416492.jpg"
 id: 986
 layout: post
 title: Riding to Höfn

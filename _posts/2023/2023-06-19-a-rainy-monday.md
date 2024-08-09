@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2023/06/img_2901.jpg"
 id: 2124
 layout: post
 title: A rainy ride to La Charité-sur-Loire
@@ -42,3 +43,7 @@ We are super tired tonight. But we are glad to be out of the rain and even have 
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2023/06/img_2901.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2023/06/img_2945.jpg)

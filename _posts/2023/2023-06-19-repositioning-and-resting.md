@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2023/06/img_2901.jpg"
 id: 2195
 layout: post
 title: Repositioning and resting
@@ -27,3 +28,7 @@ Today for church, we will watch our home ward via Zoom, because there wasn't an 
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2023/06/img_2901.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2023/06/img_2945.jpg)

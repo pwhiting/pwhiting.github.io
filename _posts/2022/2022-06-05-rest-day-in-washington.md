@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2022/06/img_0309.jpg"
 id: 2008
 layout: post
 title: Rest day in Washington

@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/07/IMG_20190709_134316.jpg"
 id: 1558
 layout: post
 title: Ride to Amsterdam

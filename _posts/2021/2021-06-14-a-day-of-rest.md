@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2021/06/IMG_1396.jpg"
 id: 1797
 layout: post
 title: A day of rest
@@ -19,3 +20,7 @@ We woke up and drove to St. Maries where we went to church. It was wonderful to 
 Back at the Airbnb we cooked a large meal, ate, talked, and enjoyed each other’s company. Vance and Page are exceptional communicators and have great insight into our world. It is fun to be doing this part of our journey together.
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/IMG_1396.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210614_214532543.jpg)

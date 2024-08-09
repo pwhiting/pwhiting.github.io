@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/06/MVIMG_20190630_130636.jpg"
 id: 1501
 layout: post
 title: Two in a row

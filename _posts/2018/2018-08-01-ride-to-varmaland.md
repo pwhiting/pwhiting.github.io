@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/06/IMG_20180801_111601.jpg"
 id: 1090
 layout: post
 title: Ride to Varmaland

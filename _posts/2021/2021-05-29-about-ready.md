@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2021/05/img_1065.jpg"
 id: 1671
 layout: post
 title: About ready...
@@ -49,3 +50,8 @@ We are going out this morning on a ride close to home, fully loaded, to make sur
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/05/img_1063.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/05/img_1065.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/05/img_1066.jpg)

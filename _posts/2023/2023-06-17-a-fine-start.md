@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2023/06/cropped-img_2840.jpg"
 id: 2111
 layout: post
 title: A much calmer day
@@ -47,3 +48,7 @@ Photos to follow tomorrow. We are sleepy.
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2023/06/cropped-img_2840.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2023/06/img_2840.jpg)

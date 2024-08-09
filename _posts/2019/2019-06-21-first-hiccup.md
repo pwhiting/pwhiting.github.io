@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/06/Screenshot_20190621-103955-1024x538.png"
 id: 1412
 layout: post
 title: First hiccup

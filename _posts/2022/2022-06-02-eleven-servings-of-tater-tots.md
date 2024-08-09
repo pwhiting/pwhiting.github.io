@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654218822953.jpg"
 id: 1925
 layout: post
 title: Eleven servings of tater tots

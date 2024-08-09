@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/07/img_20190705_1804075619861698830091877.jpg"
 id: 1536
 layout: post
 title: Last day in Germany -- ride to Assen

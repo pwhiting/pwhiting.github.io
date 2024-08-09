@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2022/02/IMG_1317.jpg"
 id: 1787
 layout: post
 title: Tandem tandems
@@ -51,3 +52,12 @@ Today we rode a little over 40 miles, mostly downhill. It was an enjoyable ride 
 ![](blob:https://ride.whitings.org/53928074-5872-4547-83bc-64ad0d7191c8)
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/IMG_1354.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210611_233230832.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210612_013853219.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1308-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1356.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/IMG_1317.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210612_001353657.jpg)

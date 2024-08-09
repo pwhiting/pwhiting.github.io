@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2020/01/IMG_20190626_182414-PANO.jpg"
 id: 1476
 layout: post
 title: Celebrating Natalie's birthday in Copenhagen

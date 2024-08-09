@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/06/screenshot_20190624-2353561332849541349633848-192x300.png"
 id: 1459
 layout: post
 title: Getting worked

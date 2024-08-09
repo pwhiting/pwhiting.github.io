@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654281432326.jpg"
 id: 1985
 layout: post
 title: St Charles to Machens, the terminus of the Katy Trail

@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/07/IMG_20190708_120010.jpg"
 id: 1552
 layout: post
 title: Ride to Almere

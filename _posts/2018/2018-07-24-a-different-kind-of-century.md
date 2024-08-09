@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2018/07/img_20180724_100417.jpg"
 id: 1004
 layout: post
 title: A different kind of century

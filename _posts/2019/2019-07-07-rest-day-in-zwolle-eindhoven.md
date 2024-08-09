@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/07/IMG_20190706_195242_204.jpg"
 id: 1548
 layout: post
 title: Rest day in Zwolle (Eindhoven)

@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2021/06/img_1279.jpg"
 id: 1779
 layout: post
 title: HIIT from Spokane to Heyburn State Park
@@ -18,3 +19,6 @@ The campsite has hot showers, and when one can’t soak in a hot tub, taking a l
 Our tent is set, birds are singing, and it is time up cook dinner. This is heaven.
 
 [Here](https://photos.app.goo.gl/iC7C8hppc8CYhJkCA) are some photos from the day.
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1279.jpg)

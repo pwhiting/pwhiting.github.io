@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2023/07/img_3215.jpg"
 id: 2141
 layout: post
 title: We made it to Strasbourg!
@@ -52,3 +53,7 @@ What a huge long hard week! Almost can't believe we did it. As Pete said, some p
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2023/06/img_3229.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2023/07/img_3215.jpg)

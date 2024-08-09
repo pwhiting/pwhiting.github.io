@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2023/06/img_3071-1.jpg"
 id: 2135
 layout: post
 title: Ride to Besançon
@@ -67,3 +68,6 @@ Hard to believe we left a week ago today. What an adventure!
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2023/06/img_3071-1.jpg)

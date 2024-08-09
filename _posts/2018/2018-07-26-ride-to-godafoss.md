@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2018/07/img_20180726_160507_11.jpg"
 id: 1013
 layout: post
 title: Ride to Goðafoss

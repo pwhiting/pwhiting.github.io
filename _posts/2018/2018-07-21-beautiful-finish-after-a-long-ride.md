@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/06/IMG_20180721_172816.jpg"
 id: 977
 layout: post
 title: Beautiful finish after a long ride

@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_194901027.jpg"
 id: 1743
 layout: post
 title: Heyburn to the northeast corner of Coeur d’Alene
@@ -57,3 +58,16 @@ At this point in our journey we've ridden a little over 300 miles. We should hit
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_153001321.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_162800536.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_171649700.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_171755372.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_194901027.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_200028208.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_201703489.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_202843212.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1208.png)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1211.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1216.jpg)

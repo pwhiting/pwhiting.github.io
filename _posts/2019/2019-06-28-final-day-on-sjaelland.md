@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/06/img_20190627_2043111954053248073790913.jpg"
 id: 1483
 layout: post
 title: Final day on Sjælland

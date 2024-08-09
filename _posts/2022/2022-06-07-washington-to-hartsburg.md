@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654656384105.jpg"
 id: 2014
 layout: post
 title: Washington to Hartsburg

@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/07/screenshot_20190702-2139198811535365609208900-768x1426.png"
 id: 1519
 layout: post
 title: Last day in Denmark

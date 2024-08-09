@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2022/06/wp-1654386904398-scaled.jpg"
 id: 1991
 layout: post
 title: St. Charles to Washington

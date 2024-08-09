@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/06/MVIMG_20190622_193620.jpg"
 id: 1430
 layout: post
 title: "yeah, I know them."

@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2021/06/img_1116-1.jpg"
 id: 1703
 layout: post
 title: Hamilton to Wye
@@ -85,3 +86,16 @@ Day 1 photo highlights
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1099.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1100.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1103.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1116.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1117-1.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1121-1.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1121.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1122-copy.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1125.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/pxl_20210601_195759207_original.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/pxl_20210601_230445441_original.jpg)

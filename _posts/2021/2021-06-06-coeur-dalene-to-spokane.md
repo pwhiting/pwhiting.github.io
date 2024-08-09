@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2021/06/img_1224.jpg"
 id: 1745
 layout: post
 title: Coeur d'Alene to Spokane
@@ -68,3 +69,19 @@ Our ride was 55 miles (but it felt like far more due to the wind) and 2600 verti
 
 
 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210604_160436656-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210604_165910413-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_153001321-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_162800536-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_171649700-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_171755372-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_194901027-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_200028208-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_201703489-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210605_202843212-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1211-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1216-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1220.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1224.jpg)

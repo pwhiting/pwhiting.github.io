@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2022/05/cropped-PXL_20210610_175008230-scaled-2.jpg"
 id: 1782
 layout: post
 title: Heyburn to Wallace
@@ -33,3 +34,14 @@ We bought supplies at a grocery store. Thankfully we were stuffed so we were mod
 
 We are so excited to have Page and Vance join us tomorrow. This is the first time someone has been crazy enough to join us. We hope this isn’t the last. We will be redoing some of our favorite sections with them, including the Route of the Hiawatha and the Trail of the Coeur d’Alenes.
 [Here](https://photos.app.goo.gl/YV3i2ZWw6ksEUi2X7) are a few photos from today.
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1308.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210610_180724636.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210610_191205882.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210610_232637812.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210610_233230918.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210611_000745155.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210611_010004364.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/05/PXL_20210610_175008230-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/05/cropped-PXL_20210610_175008230-scaled-2.jpg)

@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2021/06/img_1258.jpg"
 id: 1776
 layout: post
 title: Resting like a boss
@@ -22,3 +23,7 @@ We had a good Sabbath day. Often at home my life is so busy on Sundays it is har
 Monday was spent relaxing and also preparing for the next 5 days. I worked on the bike a bit more. It isn’t perfect, but I’m more confident it will last for the rest of our ride (6-7 ride days). Natalie enjoyed the opportunity to read a book. We spent some time together planning our route and talking to Page and Vance about the route once they arrive. Tuesday’s ride will not likely involve a lot of bike paths and will be on roads with cars so we spent time trying to find roads that looked like they were not heavily traveled. We also watched a documentary together that Natalie‘s father had recommended. It was titled *Beyond Breaking: The Science of Our Planet*. It was about the earth, and what we need to do to ensure our grandchildren get to enjoy it as much as we do. It was a good documentary.
 
 This has been a great couple of rest days and now our bodies and minds are ready to return to the road.
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1224-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1258.jpg)

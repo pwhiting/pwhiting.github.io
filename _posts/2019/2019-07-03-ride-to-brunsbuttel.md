@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2019/07/MVIMG_20190703_220443.jpg"
 id: 1524
 layout: post
 title: Ride to Brunsbüttel
