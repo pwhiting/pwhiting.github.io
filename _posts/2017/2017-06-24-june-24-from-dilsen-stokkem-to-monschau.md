@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2017/06/image2.jpg/image2.jpg"
+image: https://whitingpt.files.wordpress.com/2017/06/img_20170624_155842466_hdr.jpg
 id: 444
 layout: post
 title: June 24 from Dilsen-Stokkem to Monschau
@@ -8,7 +8,6 @@ modified: 2017-06-24 19:05:08
 categories: ['Amsterdam to Paris and back']
 ---
 
-![](https://whitingpt.files.wordpress.com/2017/06/img_20170624_155842466_hdr.jpg)
 
 Natalie here, writing about our 3rd day of riding. We usually kinda co-write....
 
