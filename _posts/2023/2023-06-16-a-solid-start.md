@@ -6,6 +6,8 @@ title: A solid start
 date: 2023-06-16 17:49:16
 modified: 2023-06-16 17:49:16
 categories: ['Paris to Frankfurt']
+image: https://lh3.googleusercontent.com/pw/AP1GczPVfl6E39XtL-7LFZinwg_TvCDKnL00Jt4nTZ2W29Rhc3Ohy4RwjQJBAWNlZxK3-XdgRYW-BcN2K66I1GKk6LD-SP76aH_qxAOeJqwC2YFRYPTOiQia=s0-no
+original_image: https://photos.app.goo.gl/VpYbjVDPwVhHNatW6
 ---
 
 
