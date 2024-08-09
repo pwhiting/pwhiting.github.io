@@ -1,7 +1,7 @@
 ---
 id: 2187
 layout: post
-title: The flight home - July 7 and 8
+title: The flight home
 date: 2023-07-16 02:18:06
 modified: 2023-07-16 02:18:06
 categories: ['Paris to Frankfurt']
