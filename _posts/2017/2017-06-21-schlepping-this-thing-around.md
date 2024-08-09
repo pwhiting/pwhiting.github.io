@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/06/img_20170621_092429851.jpg/img_20170621_092429851.jpg"
 id: 401
 layout: post
 title: Schlepping this thing around
@@ -30,3 +31,8 @@ The final question is how do we get this thing on a plane. We think we are going
 We took the bike apart on Saturday and boxed it up, being careful to only use tools that are in our panniers as that is all we'll have to put it back together when we land in Amsterdam. Once assembled we'll recycle the bike boxes, ride for three weeks, then do it all in reverse. The airport in Amsterdam sells bike boxes, which saves us the trouble of spending our last day dumpster diving behind bike shops.
 
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170621_092429851.jpg)We are packed and ready to go - going big.
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170621_092429851.jpg/img_20170621_092429851.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170621_093648709.jpg/img_20170621_093648709.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/08/20170621_093648709.jpg/20170621_093648709.jpg)

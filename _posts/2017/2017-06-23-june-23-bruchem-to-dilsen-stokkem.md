@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/06/img_20170623_103237394.jpg/img_20170623_103237394.jpg"
 id: 427
 layout: post
 title: June 23 Bruchem to Dilsen-Stokkem
@@ -33,3 +34,9 @@ Everyone has been nice to help us with our complete lack of Dutch language skill
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170623_112759396.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170623_170234482.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/wp-1498247588101.jpg)
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170623_103237394.jpg/img_20170623_103237394.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170623_112759396.jpg/img_20170623_112759396.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170623_120358512.jpg/img_20170623_120358512.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170623_170234482.jpg/img_20170623_170234482.jpg)

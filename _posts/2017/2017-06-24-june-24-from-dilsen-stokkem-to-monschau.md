@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/06/image2.jpg/image2.jpg"
 id: 444
 layout: post
 title: June 24 from Dilsen-Stokkem to Monschau
@@ -39,3 +40,11 @@ Today near the end of ride we had 10 miles of sustained climbing. Then we ended 
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170624_160159578_hdr.jpg)
 
 Tired but happy! It really was an amazing day. What a great adventure! What great variety we have in our world. 
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/06/image2.jpg/image2.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170624_091731108.jpg/img_20170624_091731108.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170624_095434367.jpg/img_20170624_095434367.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170624_154200697_hdr.jpg/img_20170624_154200697_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170624_155842466_hdr.jpg/img_20170624_155842466_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170624_160159578_hdr.jpg/img_20170624_160159578_hdr.jpg)

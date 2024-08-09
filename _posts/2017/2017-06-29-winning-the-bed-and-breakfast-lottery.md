@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/06/img_20170629_110515300_hdr.jpg/img_20170629_110515300_hdr.jpg"
 id: 519
 layout: post
 title: Winning the bed and breakfast lottery
@@ -19,3 +20,9 @@ We arrived on Guignicourt around 3:30 and found our accommodations. A simple bed
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170629_121628141.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170629_110515300_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/wp-1498769820550.png)
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170629_110515300_hdr.jpg/img_20170629_110515300_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170629_121628141.jpg/img_20170629_121628141.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170629_125828801_hdr.jpg/img_20170629_125828801_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170629_180612116_hdr.jpg/img_20170629_180612116_hdr.jpg)

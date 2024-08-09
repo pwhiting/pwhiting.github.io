@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/06/img_20170621_092429851.jpg/img_20170621_092429851.jpg"
 id: 413
 layout: post
 title: How do you pack 3 weeks of stuff into 4 panniers?
@@ -24,3 +25,8 @@ Laundry is going to happen along the way. We have a clothes line that we can str
 We squeaked through check in at the airline with both bike boxes weighing 2 pounds under the 70 pound limit. That was without our large panniers in the boxes - those are going with us as carry ons. This is one heavy rig.
 
  
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170621_092429851.jpg/img_20170621_092429851.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170621_093648709.jpg/img_20170621_093648709.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/08/20170621_093648709.jpg/20170621_093648709.jpg)

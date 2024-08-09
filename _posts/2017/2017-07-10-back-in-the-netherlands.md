@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/07/img_20170710_114323151.jpg/img_20170710_114323151.jpg"
 id: 703
 layout: post
 title: Back in the Netherlands
@@ -34,3 +35,7 @@ We are very sad to think that tomorrow is our last ride day. What an excellent a
 [caption width="1601" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170710_183027953.jpg)Making dinner[/caption]
 
 [caption width="1920" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img-vid_20170710_18024394421983000.png)Having fun exploring the city[/caption]
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170710_114323151.jpg/img_20170710_114323151.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170710_152333321.jpg/img_20170710_152333321.jpg)

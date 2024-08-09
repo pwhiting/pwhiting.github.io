@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/06/img_20170626_090606813.jpg/img_20170626_090606813.jpg"
 id: 480
 layout: post
 title: Birthday girl rides to Bastogne
@@ -40,3 +41,11 @@ Happy birthday #50 Natalie! 30 years ago you probably never would have guessed t
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170626_095432057.jpg)
 [![](https://whitingpt.files.wordpress.com/2017/06/img_20170626_170750729.jpg)](https://whitingpt.files.wordpress.com/2017/06/img_20170626_170750729.jpg)
 [![](https://whitingpt.files.wordpress.com/2017/06/img_20170626_221423_816.jpg)](https://whitingpt.files.wordpress.com/2017/06/img_20170626_221423_816.jpg)
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170626_090606813.jpg/img_20170626_090606813.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170626_092226745.jpg/img_20170626_092226745.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170626_095432057.jpg/img_20170626_095432057.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170626_101937004_hdr.jpg/img_20170626_101937004_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170626_170750729.jpg/img_20170626_170750729.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/08/img_20170626_185045444.jpg/img_20170626_185045444.jpg)

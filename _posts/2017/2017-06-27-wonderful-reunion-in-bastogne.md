@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/06/img_20170627_180232887_hdr1.jpg/img_20170627_180232887_hdr1.jpg"
 id: 488
 layout: post
 title: Wonderful Reunion in Bastogne
@@ -19,3 +20,6 @@ But the afternoon and early evening today were the most memorable for me, and we
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170627_164139036_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170627_163716901.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170627_163755284.jpg)
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170627_180232887_hdr1.jpg/img_20170627_180232887_hdr1.jpg)

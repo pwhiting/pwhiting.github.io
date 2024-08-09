@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/07/img_20170712_094606627.jpg/img_20170712_094606627.jpg"
 id: 739
 layout: post
 title: Amsterdam day
@@ -31,3 +32,15 @@ Travel day tomorrow. Europe, it's been great! You've been good to us and our bik
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170712_201914133_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170712_211248393_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170712_213807559_hdr1.jpg)
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170712_094606627.jpg/img_20170712_094606627.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170712_102816473.jpg/img_20170712_102816473.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170712_115750462.jpg/img_20170712_115750462.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170712_130341274.jpg/img_20170712_130341274.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170712_133537565.jpg/img_20170712_133537565.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170712_134059810_hdr1.jpg/img_20170712_134059810_hdr1.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170712_185918281_hdr.jpg/img_20170712_185918281_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170712_201914133_hdr.jpg/img_20170712_201914133_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170712_211248393_hdr.jpg/img_20170712_211248393_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170712_213807559_hdr1.jpg/img_20170712_213807559_hdr1.jpg)

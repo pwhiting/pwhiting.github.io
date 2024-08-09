@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/07/img_20170709_160350505.jpg/img_20170709_160350505.jpg"
 id: 691
 layout: post
 title: Simple Sunday in Antwerp
@@ -27,3 +28,6 @@ We'll be heading back into the Netherlands tomorrow.
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170709_160400288_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170709_1449208551.jpg)
 [![](https://whitingpt.files.wordpress.com/2017/07/img_20170709_160350505.jpg)](https://whitingpt.files.wordpress.com/2017/07/img_20170709_160350505.jpg)
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170709_160350505.jpg/img_20170709_160350505.jpg)

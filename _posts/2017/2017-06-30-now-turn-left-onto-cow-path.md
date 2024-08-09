@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/06/img_20170630_073605837.jpg/img_20170630_073605837.jpg"
 id: 535
 layout: post
 title: Now turn left onto cow path
@@ -38,3 +39,11 @@ Tomorrow: Paris!
 [caption id="" align="alignnone" width="2268"]![](https://whitingpt.files.wordpress.com/2017/06/img_20170630_165521375_hdr.jpg) View from our window[/caption]
 
 [caption id="" align="alignnone" width="2268"][![](https://whitingpt.files.wordpress.com/2017/06/img_20170630_19560185121.jpg)](https://whitingpt.files.wordpress.com/2017/06/img_20170630_19560185121.jpg) Eating dinner with Natalie[/caption]
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170630_073605837.jpg/img_20170630_073605837.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170630_094359303_hdr.jpg/img_20170630_094359303_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170630_100628741.jpg/img_20170630_100628741.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170630_140023760.jpg/img_20170630_140023760.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170630_165521375_hdr.jpg/img_20170630_165521375_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170630_19560185121.jpg/img_20170630_19560185121.jpg)

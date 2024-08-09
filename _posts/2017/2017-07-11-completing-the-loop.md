@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_103536121.jpg/img_20170711_103536121.jpg"
 id: 727
 layout: post
 title: Completing the loop
@@ -39,3 +40,14 @@ We've learned a lot about bike touring logistics. We learned about the countries
 [caption width="4032" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_122418930_hdr.jpg)Lots of greenhouses today[/caption]
 
 [caption width="2592" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_161835464_hdr.jpg)Chocolate soy milk pudding. The stuff is magical... especially when eaten on the beach.[/caption]
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_103536121.jpg/img_20170711_103536121.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_112253786.jpg/img_20170711_112253786.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_112839145.jpg/img_20170711_112839145.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_114535660.jpg/img_20170711_114535660.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_122418930_hdr.jpg/img_20170711_122418930_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_125545711_hdr.jpg/img_20170711_125545711_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_142755671.jpg/img_20170711_142755671.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_161835464_hdr.jpg/img_20170711_161835464_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/08/img_20170711_185500803.jpg/img_20170711_185500803.jpg)

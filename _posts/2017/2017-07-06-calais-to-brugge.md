@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/07/img_20170706_124737741_hdr.jpg/img_20170706_124737741_hdr.jpg"
 id: 635
 layout: post
 title: Calais to Bruges
@@ -30,3 +31,10 @@ We are staying in a 200 year old home in Bruges, Belgium.  Bruges is amazing. V
 [caption id="" align="alignnone" width="4032"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_220234221.jpg) Bruges[/caption]
 
 [caption id="" align="alignnone" width="4032"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_220134543_hdr.jpg) Bruges[/caption]
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170706_124737741_hdr.jpg/img_20170706_124737741_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170706_132517849.jpg/img_20170706_132517849.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170706_144335872-1.jpg/img_20170706_144335872-1.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170706_220134543_hdr.jpg/img_20170706_220134543_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170706_220234221.jpg/img_20170706_220234221.jpg)

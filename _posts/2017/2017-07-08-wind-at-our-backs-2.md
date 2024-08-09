@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/07/img_20170708_101039809-1.jpg/img_20170708_101039809-1.jpg"
 id: 667
 layout: post
 title: Wind at our backs
@@ -35,3 +36,8 @@ Our house tonight is another Airbnb. This one we don't have to share with the ow
 [caption width="3264" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_152623145.jpg)St. Anna's Tunnel under Schelde River, for cyclists and pedestrians to get to Antwerp[/caption]
 
 [caption width="1601" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_194723608.jpg)We should know better than to go grocery shopping on empty stomachs.... This was 3 grocery stores later....[/caption]
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170708_101039809-1.jpg/img_20170708_101039809-1.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170708_141517634_hdr1.jpg/img_20170708_141517634_hdr1.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170708_152623145.jpg/img_20170708_152623145.jpg)

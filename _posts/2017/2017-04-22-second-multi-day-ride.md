@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/04/img_20170422_111005574.jpg/img_20170422_111005574.jpg"
 id: 353
 layout: post
 title: Second multi-day ride
@@ -31,3 +32,6 @@ We are tired but happy. This is an out and back, so tomorrow we retrace our step
 ![](https://whitingpt.files.wordpress.com/2017/04/img_20170421_151959158_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/04/img_20170421_122512942.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/04/img_20170421_161336797.jpg)
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/04/img_20170422_111005574.jpg/img_20170422_111005574.jpg)

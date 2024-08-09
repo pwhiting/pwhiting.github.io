@@ -1,4 +1,5 @@
 ---
+image: "https://rode.whitings.org/wp-content/uploads/2017/04/img_20170405_102212071_hdr.jpg/img_20170405_102212071_hdr.jpg"
 id: 328
 layout: post
 title: First day of first multi-day tour
@@ -16,3 +17,11 @@ We are exhausted but happy.
 [![](https://whitingpt.files.wordpress.com/2017/04/wp-1491363685920.jpg)](https://whitingpt.files.wordpress.com/2017/04/wp-1491363685920.jpg)
 [![](https://whitingpt.files.wordpress.com/2017/04/wp-image-1637275033jpg.jpg)](https://whitingpt.files.wordpress.com/2017/04/wp-image-1637275033jpg.jpg)[![](https://whitingpt.files.wordpress.com/2017/04/wp-image-988673023jpg.jpg)](https://whitingpt.files.wordpress.com/2017/04/wp-image-988673023jpg.jpg)
 [![](https://whitingpt.files.wordpress.com/2017/04/img_20170405_141912911_hdr2.jpg)](https://whitingpt.files.wordpress.com/2017/04/img_20170405_141912911_hdr2.jpg)
+
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2017/04/img_20170405_102212071_hdr.jpg/img_20170405_102212071_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/04/img_20170405_114805592_hdr.jpg/img_20170405_114805592_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/04/img_20170405_120822315_hdr.jpg/img_20170405_120822315_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/04/img_20170405_141857526_hdr.jpg/img_20170405_141857526_hdr.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/04/img_20170405_141912911_hdr2.jpg/img_20170405_141912911_hdr2.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2017/04/img_20170405_141915525.jpg/img_20170405_141915525.jpg)
