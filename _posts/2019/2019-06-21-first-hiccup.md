@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2019/06/Screenshot_20190621-103955-1024x538.png"
+image: https://lh3.googleusercontent.com/pw/AP1GczNb8Csu5mALrZXKWDOs6DLSJm1p6gl8hRraZ0ENzLp7fYHIXpWT2Nl2h8Wuj70CIrHZg7Pyn6FpDvon031hE02GJX5KrbuyoOnkY_1l0RgmcGSUOZwr=s0
 id: 1412
 layout: post
 title: First hiccup
@@ -21,4 +21,3 @@ Update later in the day: The airport notified us they have located or bike boxes
 
 [![Album](https://lh3.googleusercontent.com/VkiNoK4cZMeBbhtmE3iQJwpp1awK3Ck_QngMavCKmgOk4vKFmiBH3wBvoWdfvIZEGorUeEy0V5cjVWGcciIAW_mjHuukfTeu66jHn5vVt4nffwwqXY4qgf-3CTN_aDCLp3COamYjrCk "Airbnb near Gothenburg")](https://photos.app.goo.gl/BADdScJ1o7NBv7kL7)
 
-[![Album](https://lh3.googleusercontent.com/VkiNoK4cZMeBbhtmE3iQJwpp1awK3Ck_QngMavCKmgOk4vKFmiBH3wBvoWdfvIZEGorUeEy0V5cjVWGcciIAW_mjHuukfTeu66jHn5vVt4nffwwqXY4qgf-3CTN_aDCLp3COamYjrCk "Airbnb near Gothenburg")](https://photos.app.goo.gl/BADdScJ1o7NBv7kL7)

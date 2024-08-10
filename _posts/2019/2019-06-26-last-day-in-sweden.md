@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2020/01/IMG_20190626_182414-PANO.jpg"
+image: https://lh3.googleusercontent.com/pw/AP1GczMqHb-pRybMJQ65FWKTYjgOUkkKDwWE4zqON8dlS4jVrFvsyULcgqIB2bAuV-BK8ZqZEGekZ75GG8M0JCyYHMgyapegYiHzlcC2mSIW7QMMkThikcRT=s0
 id: 1468
 layout: post
 title: Last day in Sweden
