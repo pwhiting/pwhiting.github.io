@@ -23,29 +23,18 @@ We rolled into Amsterdam in the middle of rush hour, grateful for its abundance 
 Our accomodations tonight are nice and very close to the airport. Tomorrow we will ride our bike 4 miles to the airport, box it up, put in overnight storage, and head into Amsterdam for a day of sightseeing. Then we go home on Thursday. We are excited to see family and friends again, but we are going to really miss the pace of life we've established over the last 3 weeks. 
 
 We've learned a lot about bike touring logistics. We learned about the countries and cultures we visited. But mostly we learned a lot about ourselves and each other. We've spent more time together over the last 3 weeks than any other 3-week period of our lives. It has been fun to work together, to get lost together, to struggle up steep hills together (well, maybe not), and to accomplish this trip together. After 930 miles we not only still like each other, but we like each other more than when we started (except for that little hill incident approaching Calais). We made new friends and strengthened our most important friendship. This trip warrants a sequel next year.
-[caption width="3264" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_103536121.jpg)We liked the red boat[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_103536121.jpg)We liked the red boat
 
-[caption width="2386" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_112839145.jpg)Feeling sorry for those on the ship [/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_112839145.jpg)Feeling sorry for those on the ship
 
-[caption width="2592" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_112253786.jpg)Enjoying the rain[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_112253786.jpg)Enjoying the rain
 
-[caption width="4032" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_114535660.jpg)Bike getting a solid washing[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_114535660.jpg)Bike getting a solid washing
 
-[caption width="1137" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_125545711_hdr.jpg)We need one of these to schlep the grandkids around in[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_125545711_hdr.jpg)We need one of these to schlep the grandkids around in
 
-[caption width="3952" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_142755671.jpg)The beaches were amazing[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_142755671.jpg)The beaches were amazing
 
-[caption width="4032" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_122418930_hdr.jpg)Lots of greenhouses today[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_122418930_hdr.jpg)Lots of greenhouses today
 
-[caption width="2592" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_161835464_hdr.jpg)Chocolate soy milk pudding. The stuff is magical... especially when eaten on the beach.[/caption]
-
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_103536121.jpg/img_20170711_103536121.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_112253786.jpg/img_20170711_112253786.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_112839145.jpg/img_20170711_112839145.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_114535660.jpg/img_20170711_114535660.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_122418930_hdr.jpg/img_20170711_122418930_hdr.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_125545711_hdr.jpg/img_20170711_125545711_hdr.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_142755671.jpg/img_20170711_142755671.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170711_161835464_hdr.jpg/img_20170711_161835464_hdr.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/08/img_20170711_185500803.jpg/img_20170711_185500803.jpg)
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170711_161835464_hdr.jpg)Chocolate soy milk pudding. The stuff is magical... especially when eaten on the beach.

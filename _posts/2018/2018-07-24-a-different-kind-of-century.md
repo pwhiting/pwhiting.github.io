@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2018/07/img_20180724_100417.jpg"
+image: https://whitingpt.files.wordpress.com/2018/07/img_20180724_224624_288.jpg
 id: 1004
 layout: post
 title: A different kind of century
@@ -18,4 +18,3 @@ The weather was good and the wind was often at our backs as we rode into and out
 
 We set up our tent, ate dinner, and collapsed. We're sleeping great, btw.
 
-![](https://whitingpt.files.wordpress.com/2018/07/img_20180724_224624_288.jpg)

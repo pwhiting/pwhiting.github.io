@@ -1,14 +1,12 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2018/07/img_20180726_160507_11.jpg"
 id: 1012
+image: https://whitingpt.files.wordpress.com/2018/07/img_20180725_222358.jpg
 layout: post
 title: Ride to Grímsstaðir
 date: 2018-07-26 19:12:48
 modified: 2018-07-26 19:12:48
 categories: ['Iceland']
 ---
-
-![](https://whitingpt.files.wordpress.com/2018/07/img_20180725_222358.jpg)
 
 Again posting one day late due to very poor wifi....
 

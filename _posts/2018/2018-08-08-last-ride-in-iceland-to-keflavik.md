@@ -1,4 +1,5 @@
 ---
+image: https://whitingpt.files.wordpress.com/2018/08/img_20180807_1004525118487548414873498.jpg
 id: 1141
 layout: post
 title: Last ride in Iceland ... to Keflavik
@@ -33,6 +34,5 @@ Wow, Iceland, what an experience!! We are sad to see it end, but it will also be
 
 ![](https://whitingpt.files.wordpress.com/2018/08/img_20180807_0920025853363835966116255.jpg)
 ![](https://whitingpt.files.wordpress.com/2018/08/img_20180807_0920211435001545782610383.jpg)
-![](https://whitingpt.files.wordpress.com/2018/08/img_20180807_1004525118487548414873498.jpg)
 ![](https://whitingpt.files.wordpress.com/2018/08/img_20180807_1015497463784899573248879.jpg)
 ![](https://whitingpt.files.wordpress.com/2018/08/img_20180807_1658427462038508101183866.jpg)

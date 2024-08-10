@@ -20,19 +20,9 @@ The weather was pretty good, even though it rained off and on. Every time it wou
 
 We are staying in a 200 year old home in Bruges, Belgium.  Bruges is amazing. Venice-like. Architecture is charming. It is old but clean. The rain stopped after dinner and we enjoyed strolling around. I (Natalie) am so happy to be back here again! (I visited here with my friend Greta during my internship.) It is a delightful little city. We are looking forward to a day to explore it tomorrow.
 
-[caption id="" align="alignnone" width="4032"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_124737741_hdr.jpg) A pretty place we liked in Dunkirk[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_124737741_hdr.jpg) A pretty place we liked in Dunkirk
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_132517849.jpg) Bike looking out at the beach at Dunkerque, wishing it could swim...
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_144335872-1.jpg) Border between France and Belgium
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_220234221.jpg) 
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_220134543_hdr.jpg)
 
-[caption id="" align="alignnone" width="3264"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_132517849.jpg) Bike looking out at the beach at Dunkerque, wishing it could swim....[/caption]
-
-[caption id="" align="alignnone" width="2592"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_144335872-1.jpg) Border between France and Belgium[/caption]
-
-[caption id="" align="alignnone" width="4032"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_220234221.jpg) Bruges[/caption]
-
-[caption id="" align="alignnone" width="4032"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170706_220134543_hdr.jpg) Bruges[/caption]
-
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170706_124737741_hdr.jpg/img_20170706_124737741_hdr.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170706_132517849.jpg/img_20170706_132517849.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170706_144335872-1.jpg/img_20170706_144335872-1.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170706_220134543_hdr.jpg/img_20170706_220134543_hdr.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170706_220234221.jpg/img_20170706_220234221.jpg)

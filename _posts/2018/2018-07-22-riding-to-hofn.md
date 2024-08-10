@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2019/06/IMG_20180722_1416492.jpg"
+image: https://whitingpt.files.wordpress.com/2018/07/img_20180721_114233.jpg
 id: 986
 layout: post
 title: Riding to Höfn
@@ -8,7 +8,6 @@ modified: 2018-07-22 10:34:29
 categories: ['Iceland']
 ---
 
-![](https://whitingpt.files.wordpress.com/2018/07/img_20180721_114233.jpg)
 ![](https://whitingpt.files.wordpress.com/2018/07/img_20180721_113007.jpg)
 
 Once again blogging in the morning instead of the evening. Yesterday's ride to Höfn (fishing village on Southeastern part of Iceland) was our easiest ride so far. On Friday we rode 85 miles in order to only have to ride 41 on Saturday. Plus, we had lucked out and made a last-minute hotel reservation so we wanted to get to Höfn as early as our check-in time would allow. We wanted to make maximum use of the reservation!

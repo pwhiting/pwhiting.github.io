@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2017/07/img_20170704_091612135.jpg/img_20170704_091612135.jpg"
+image: https://rode.whitings.org/wp-content/uploads/2017/07/img_20170704_204003657_hdr.jpg/img_20170704_204003657_hdr.jpg
 id: 592
 layout: post
 title: Great ride to the beach at Berck, France
@@ -32,10 +32,6 @@ And finally, as we anticipated, we are definitely having an atypical European va
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170704_163334429_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170704_104135421.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170704_204003657_hdr.jpg)
-![](https://whitingpt.files.wordpress.com/2017/07/img_20170704_215320867_hdr.jpg)![](https://whitingpt.files.wordpress.com/2017/07/img_20170704_220354669_hdr.jpg)
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170704_215320867_hdr.jpg)
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170704_220354669_hdr.jpg)
 
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170704_091612135.jpg/img_20170704_091612135.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170704_104135421.jpg/img_20170704_104135421.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170704_204003657_hdr.jpg/img_20170704_204003657_hdr.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170704_220354669_hdr.jpg/img_20170704_220354669_hdr.jpg)

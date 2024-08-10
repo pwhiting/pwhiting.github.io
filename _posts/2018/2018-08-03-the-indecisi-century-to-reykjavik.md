@@ -1,4 +1,5 @@
 ---
+image: https://whitingpt.files.wordpress.com/2018/08/img_20180802_1954196385815110038712503.jpg
 id: 1091
 layout: post
 title: The indecisi-century to Reykjavik
@@ -7,16 +8,6 @@ modified: 2018-08-03 17:18:14
 categories: ['Iceland']
 ---
 
-![](https://whitingpt.files.wordpress.com/2018/08/img_20180803_164108_1148025578568870517666.jpg)
-![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_1315573810144696802697173.jpg)
-![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_17294626962834663485492162.jpg)
-![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_19410328695438822696897612.jpg)
-![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_1346175881337507916153046.jpg)
-![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_1954231339390218394095005.jpg)
-![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_1954196385815110038712503.jpg)
-![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_2241172062834662894595741.jpg)
-
-Our plan for Thursday, Friday, and Saturday was to piece together our ride into Reykjavik with three 30-50 mile segments. It was raining when we woke up so we were slow in breaking camp at Varmaland. We had 2 goals for the day: find a village with food and make it to Ferstikla to camp. Also, not getting killed by a car was out there as a soft goal. We had planned to stay to the east and avoid route 1 (part of the not get killed by a car objective). This plan worked well for about 30 miles but then we decided against the mountain pass due to weather and decided to try our luck on route 1 again. It was a madhouse and we were grateful when we had to exit before the tunnel. This little detour had added about 10 miles to our ride to Ferstikla and aged us both 10 years.
 
 The inland route (from before they built the tunnel into Reykjavik) was beautiful and there were far fewer cars. We made it to our destination by 4, but we still had legs and decided to change plans and do Friday's ride also. The next few hours were some of the best of our trip. So beautiful and peaceful! Even worth the hilly road. Everyone who drives through the tunnel north of Reykjavik is missing out....
 
@@ -35,3 +26,14 @@ The plan was to eat dinner, but neither of us had the energy to even open a bag 
 Next post we'll talk about the campground and the adjacent swimming pool.
 
 Natalie here: The ride was tough but so *beautiful* (if you ignore the traffic parts) and we really feel good about having changed our plans. There were several serendipitous moments. We are tired, grateful, and happy. We only have a 25-mile ride left to the airport on Tuesday! So exciting! What a big crazy goal this has been.
+
+
+![](https://whitingpt.files.wordpress.com/2018/08/img_20180803_164108_1148025578568870517666.jpg)
+![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_1315573810144696802697173.jpg)
+![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_17294626962834663485492162.jpg)
+![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_19410328695438822696897612.jpg)
+![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_1346175881337507916153046.jpg)
+![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_1954231339390218394095005.jpg)
+![](https://whitingpt.files.wordpress.com/2018/08/img_20180802_2241172062834662894595741.jpg)
+
+Our plan for Thursday, Friday, and Saturday was to piece together our ride into Reykjavik with three 30-50 mile segments. It was raining when we woke up so we were slow in breaking camp at Varmaland. We had 2 goals for the day: find a village with food and make it to Ferstikla to camp. Also, not getting killed by a car was out there as a soft goal. We had planned to stay to the east and avoid route 1 (part of the not get killed by a car objective). This plan worked well for about 30 miles but then we decided against the mountain pass due to weather and decided to try our luck on route 1 again. It was a madhouse and we were grateful when we had to exit before the tunnel. This little detour had added about 10 miles to our ride to Ferstikla and aged us both 10 years.

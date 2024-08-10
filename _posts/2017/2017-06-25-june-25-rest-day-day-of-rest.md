@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2017/06/img_20170625_164356667-1.jpg/img_20170625_164356667-1.jpg"
+image: https://rode.whitings.org/wp-content/uploads/2017/06/img_20170625_190232470_hdr.jpg/img_20170625_190232470_hdr.jpg
 id: 457
 layout: post
 title: June 25 - Rest day, day of rest
@@ -25,6 +25,3 @@ Tomorrow to celebrate Natalie's birthday she gets to ride about 70 miles with th
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170625_130619917_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170625_170636924_hdr.jpg)
 
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170625_164356667-1.jpg/img_20170625_164356667-1.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/06/img_20170625_190232470_hdr.jpg/img_20170625_190232470_hdr.jpg)

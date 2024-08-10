@@ -27,5 +27,3 @@ We'll be heading back into the Netherlands tomorrow.
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170709_1449208551.jpg)
 [![](https://whitingpt.files.wordpress.com/2017/07/img_20170709_160350505.jpg)](https://whitingpt.files.wordpress.com/2017/07/img_20170709_160350505.jpg)
 
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170709_160350505.jpg/img_20170709_160350505.jpg)

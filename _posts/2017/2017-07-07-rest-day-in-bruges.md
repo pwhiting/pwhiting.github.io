@@ -1,4 +1,5 @@
 ---
+image: https://whitingpt.files.wordpress.com/2017/07/img_20170707_202634589_hdr.jpg
 id: 648
 layout: post
 title: Rest day in Bruges
@@ -40,4 +41,3 @@ This has been a good rest day. We head to Antwerp tomorrow. Our trip is going to
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170707_1559140982.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170707_200712849.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170707_2009173793.jpg)
-![](https://whitingpt.files.wordpress.com/2017/07/img_20170707_202634589_hdr.jpg)

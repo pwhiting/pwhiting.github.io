@@ -1,4 +1,5 @@
 ---
+image: https://whitingpt.files.wordpress.com/2018/07/img_20180731_101253234673619789428893.jpg
 id: 1080
 layout: post
 title: Blönduós to Staðarskáli
@@ -24,6 +25,5 @@ We are tired, probably mostly from our longer day yesterday. We have showered, e
 Pete's note: Tomorrow we will climb our last major hill and then descend to a campground a little north of Reykjavik where we will stay one night and then try to figure out how to get our bike on a bus to get through the tunnel to Reykjavik. (Bikes aren't allowed in this tunnel, and even if they were we probably wouldn't want to be in it with the traffic....) It is weird to think this part of our adventure is almost over. We'll do a few tourist things in and around Reykjavik, as our flight home isn't until next week. We gave ourselves extra time in case the weather set us back. For us, successfully circumventing the country was as much a factor of the weather as anything else. And as Natalie said above, we've been super lucky with favorable weather. The biggest surprise has been the traffic, and I think most of our traffic challenges probably involve tourists -- some from countries (like the U.S.) that aren't always bike aware. And it is just one out of a hundred that buzz by too close and too fast -- but it just takes one to create a tragedy and our experience is jaded by the few close calls. Every once in a while we have the opposite experience -- someone slows all the way down to our pace, passes slowly, and then gives us a thumbs up out the window. It makes us happy for hours. This type of thing applies to so much more than biking. Hats off to everyone in this world who goes out of their way, often with small gestures, to make the world better for others.
 
 ![](https://whitingpt.files.wordpress.com/2018/07/img_20180731_0855114344639057011328391.jpg)
-![](https://whitingpt.files.wordpress.com/2018/07/img_20180731_101253234673619789428893.jpg)
 ![](https://whitingpt.files.wordpress.com/2018/07/img_20180731_1218596681937855082028941.jpg)
 ![](https://whitingpt.files.wordpress.com/2018/07/img_20180731_190446_7561327201162207059290.jpg)

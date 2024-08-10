@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2017/07/img_20170710_114323151.jpg/img_20170710_114323151.jpg"
+image: https://whitingpt.files.wordpress.com/2017/07/img_20170710_165728857.jpg
 id: 703
 layout: post
 title: Back in the Netherlands
@@ -23,16 +23,8 @@ Rotterdam seems a bit smaller, cleaner, and greener than Antwerp. It also doesn'
 
 We are very sad to think that tomorrow is our last ride day. What an excellent adventure it has been!
 
-[caption width="4032" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170710_114323151.jpg)Paved bike path next to a dirt road. They have good priorities in the Netherlands.[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170710_114323151.jpg)Paved bike path next to a dirt road. They have good priorities in the Netherlands.
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170710_152333321.jpg)Erasmus Bridge in Rotterdam
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170710_183027953.jpg)Making dinner
+![](https://whitingpt.files.wordpress.com/2017/07/img-vid_20170710_18024394421983000.png)Having fun exploring the city
 
-[caption width="2385" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170710_152333321.jpg)Erasmus Bridge in Rotterdam[/caption]
-
-[caption width="1601" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170710_165728857.jpg)Green in Rotterdam[/caption]
-
-[caption width="1601" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170710_183027953.jpg)Making dinner[/caption]
-
-[caption width="1920" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img-vid_20170710_18024394421983000.png)Having fun exploring the city[/caption]
-
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170710_114323151.jpg/img_20170710_114323151.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170710_152333321.jpg/img_20170710_152333321.jpg)

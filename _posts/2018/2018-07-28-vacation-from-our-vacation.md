@@ -1,5 +1,6 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2018/07/img_20180728_172028.jpg"
+image: https://lh3.googleusercontent.com/pw/AP1GczNRT54Di0lO0CcYKLsLdKCIac-GqAs1qMWDYuHVHRw8aSOLQxAgpY54ZGY63lmRpfzslVzOlK6dlyfImPzOR8uT6yyw7Vz0zbjzdiYfLcSBHPPI15gm=s0-no
+original_image: https://photos.app.goo.gl/tYNUHNC3UL7vSDHw5
 id: 1032
 layout: post
 title: Vacation from our vacation

@@ -34,5 +34,3 @@ Now we are pretty beat and looking forward to a rest day / day of rest tomorrow.
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170701_180243921.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170701_180851799_hdr.jpg)
 
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170701_180243921.jpg/img_20170701_180243921.jpg)

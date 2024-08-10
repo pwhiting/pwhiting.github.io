@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2019/06/IMG_20180721_172816.jpg"
+image: https://whitingpt.files.wordpress.com/2018/07/img_20180720_231539_558-1.jpg
 id: 977
 layout: post
 title: Beautiful finish after a long ride
@@ -34,5 +34,4 @@ has been mediocre. Come for the water, not the chocolate.
 
 Today we have a shorter ride and we are staying one night in a hotel (first for this trip). Hoping for a relaxing day.
 
-![](https://whitingpt.files.wordpress.com/2018/07/img_20180720_231539_558-1.jpg)
 ![](https://whitingpt.files.wordpress.com/2018/07/img_20180721_033816.jpg)

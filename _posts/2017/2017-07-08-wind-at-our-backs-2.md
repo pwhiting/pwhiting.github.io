@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2017/07/img_20170708_101039809-1.jpg/img_20170708_101039809-1.jpg"
+image: https://whitingpt.files.wordpress.com/2017/07/img_20170708_093214871_hdr.jpg
 id: 667
 layout: post
 title: Wind at our backs
@@ -18,24 +18,19 @@ Back to today's ride.... We had our first major drawbridge, saw a tandem hand bi
 
 Our house tonight is another Airbnb. This one we don't have to share with the owner. We have the apartment to ourselves. We went and shopped for the next two days, cooked a big meal, and are now winding down. Tomorrow we go to church and then will walk around the city center of Antwerp.
 
-[caption width="900" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_093214871_hdr.jpg)Belgium has windmills too.[/caption]
 
-[caption width="1601" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_143736195_burst000_cover_top.jpg)Cool way to say "share the road"[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_143736195_burst000_cover_top.jpg)Cool way to say "share the road"
 
-[caption width="2268" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_101039809-1.jpg)Another lovely bike path along a canal[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_101039809-1.jpg)Another lovely bike path along a canal
 
-[caption width="3264" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_141517634_hdr1.jpg)Our bike![/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_141517634_hdr1.jpg)Our bike![/caption]
 
-[caption width="1600" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_110554462-1.jpg)This is what part of our route looked like today[/caption]
-[caption width="900" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_121444301_hdr.jpg)Very big jump[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_110554462-1.jpg)This is what part of our route looked like today
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_121444301_hdr.jpg)Very big jump
 
-[caption width="900" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_121737244.jpg)The reason for the drawbridge...[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_121737244.jpg)The reason for the drawbridge...
 
-[caption width="3264" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_152623145.jpg)St. Anna's Tunnel under Schelde River, for cyclists and pedestrians to get to Antwerp[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_152623145.jpg)St. Anna's Tunnel under Schelde River, for cyclists and pedestrians to get to Antwerp
 
-[caption width="1601" align="alignnone"]![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_194723608.jpg)We should know better than to go grocery shopping on empty stomachs.... This was 3 grocery stores later....[/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_194723608.jpg)We should know better than to go grocery shopping on empty stomachs.... This was 3 grocery stores later...
 
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170708_101039809-1.jpg/img_20170708_101039809-1.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170708_141517634_hdr1.jpg/img_20170708_141517634_hdr1.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170708_152623145.jpg/img_20170708_152623145.jpg)

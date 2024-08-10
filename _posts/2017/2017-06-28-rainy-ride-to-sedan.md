@@ -1,4 +1,5 @@
 ---
+image: https://whitingpt.files.wordpress.com/2017/06/img_20170628_122326246_hdr.jpg
 id: 500
 layout: post
 title: Rainy ride to Sedan
@@ -19,9 +20,10 @@ We arrived in Sedan relatively early and checked into an older hotel near the ce
 
 We showered and then scrounged for groceries, walked around a few hours, and found an open bike shop where we got some chain oil. We sat in a pretty garden park for a while. Then we looked at the massive castle fort of Sedan. The didn't seem to be much else to see, so we found a simple dinner, bought some groceries for breakfast, and headed to our hotel.
 
-Rain is in the forecast. We are excited to see more of France.![](https://whitingpt.files.wordpress.com/2017/06/img_20170628_090120927_hdr.jpg)
+Rain is in the forecast. We are excited to see more of France.
+
+![](https://whitingpt.files.wordpress.com/2017/06/img_20170628_090120927_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170628_103259624_hdr.jpg)
-![](https://whitingpt.files.wordpress.com/2017/06/img_20170628_122326246_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170628_122317477_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170628_092327467_hdr.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170628_122303249_hdr.jpg)

@@ -1,5 +1,6 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2017/07/img_20170705_094054896.jpg/img_20170705_094054896.jpg"
+
+image: https://whitingpt.files.wordpress.com/2017/07/img_20170705_114915419.jpg
 id: 621
 layout: post
 title: Independence day
@@ -30,26 +31,10 @@ I don't think I was getting the silent treatment after the third climb - I just 
 
 
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_140009087.jpg)
-
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_090518305.jpg)
-
-![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_114915419.jpg)
-
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_0907232111.jpg)
-
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_115228400_hdr.jpg)
-
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_094054896.jpg)
-
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_150423982.jpg)
-
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_210956168_hdr.jpg)
-
-![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_210956168_hdr.jpg)
-
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170705_211359435.jpg)
-
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170705_094054896.jpg/img_20170705_094054896.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170705_140009087.jpg/img_20170705_140009087.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2017/07/img_20170705_210956168_hdr.jpg/img_20170705_210956168_hdr.jpg)

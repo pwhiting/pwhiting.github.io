@@ -1,4 +1,6 @@
 ---
+image: https://lh3.googleusercontent.com/pw/AP1GczNOQ7Qr7kMH2foR6PusM9AGRMq7Z_NhbOmajuVMzdxTK6B3zoqQtB685vN5ynOn9BxeyPcwAQwKwKXHM6zhsno8ua3Zb9LcL6R6OPsEI4dx6Am_kfyY=s0-no
+original_image: https://photos.app.goo.gl/4GhzNj6smNc5d7569
 id: 1072
 layout: post
 title: Ride to Blönduós
