@@ -62,12 +62,18 @@
           {% endif %}
         </div>
         <div class="post-navigation-bottom">
-          {% if page.previous.url %}
-            <a class="prev" href="{{page.previous.url}}">&#8592;<br>{{page.previous.title}}<br>&#8592;</a>
-          {% endif %}
-          {% if page.next.url %}
-            <a class="next" href="{{page.next.url}}">&#8594;<br>{{page.next.title}}<br>&#8594;</a>
-          {% endif %}
+        {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}">
+            <span class="symbol">❮</span>
+            <span class="text">{{page.previous.title}}</span>
+        </a>
+        {% endif %}
+        {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}">
+            <span class="text">{{page.next.title}}</span>
+            <span class="symbol">❯</span>
+        </a>
+        {% endif %}
         </div>
 
         <footer class="post-footer">

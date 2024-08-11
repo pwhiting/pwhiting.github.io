@@ -623,7 +623,7 @@ pre
     padding-right: 0
     padding-left: 0
 
-.post-navigation-bottom
+.post-navigation-bottom-old
   display: flex
   justify-content: space-between
   padding: 20px 0
@@ -641,6 +641,43 @@ pre
 
     &:hover
       background-color: #e0e0e0
+
+.post-navigation-bottom
+  display: flex
+  justify-content: space-between
+  padding: 20px 0
+  gap: 20px
+
+  a
+    display: flex
+    align-items: center
+    padding: 10px 15px
+    background-color: #f0f0f0
+    border-radius: 5px
+    text-decoration: none
+    color: #333
+    min-width: 100px
+    text-align: center
+
+    &:hover
+      background-color: #e0e0e0
+
+    .symbol
+      font-size: 36px
+      font-weight: bold
+
+    .text
+      flex-grow: 1
+      text-align: center
+
+  .prev
+    justify-content: flex-start
+
+  .next
+    justify-content: flex-end
+    .symbol
+      order: 1
+
 
 .post-navigation
   position: fixed
