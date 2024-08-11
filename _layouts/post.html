@@ -55,12 +55,21 @@
         </section>
         <div class="post-navigation">
           {% if page.previous.url %}
-          <a class="prev" href="{{page.previous.url}}">&#8592;<br>{{page.previous.title}}<br>&#8592;</a>
+            <a href="{{ page.previous.url }}" class="nav-button prev-button">❮</a>
           {% endif %}
           {% if page.next.url %}
-          <a class="next" href="{{page.next.url}}">&#8594;<br>{{page.next.title}}<br>&#8594;</a>
+            <a href="{{ page.next.url }}" class="nav-button next-button">❯</a>
           {% endif %}
         </div>
+        <div class="post-navigation-bottom">
+          {% if page.previous.url %}
+            <a class="prev" href="{{page.previous.url}}">&#8592;<br>{{page.previous.title}}<br>&#8592;</a>
+          {% endif %}
+          {% if page.next.url %}
+            <a class="next" href="{{page.next.url}}">&#8594;<br>{{page.next.title}}<br>&#8594;</a>
+          {% endif %}
+        </div>
+
         <footer class="post-footer">
           <section class="share">
             {% for social in site.social %}
