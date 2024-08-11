@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2021/06/img_1258.jpg"
+image: https://lh3.googleusercontent.com/pw/AP1GczPe40CWChNtDKwTCm2Yf1z99E1Ssvg0sRwKF3KTysyETwIu6z490VP8P-FUTtDGlpu5zh3-ZXkn_ksbR3NmmXPYXgene-h0X9blZZljJQDh2Hmftsu4=s0
 id: 1776
 layout: post
 title: Resting like a boss
@@ -26,4 +26,4 @@ This has been a great couple of rest days and now our bodies and minds are ready
 
 <!-- Auto-inserted images -->
 ![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1224-scaled.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1258.jpg)
+

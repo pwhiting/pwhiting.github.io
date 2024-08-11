@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210602_192832124-scaled.jpg"
+image: https://lh3.googleusercontent.com/pw/AP1GczMb5z_Brv9qEyKPc4VFvPhFKv8sDqyzieG8HhbvGPpE4ZEFvV7-EIjgg9gqBIeK8CCphLU6cN7h40bX5jS11KkAa3U8dQsKC8hDRANiHlH_T5bwGjbZ=s0
 id: 1731
 layout: post
 title: Day 3 Superior MT to Avery ID

@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2021/06/IMG_1396.jpg"
+image: https://lh3.googleusercontent.com/pw/AP1GczNDteCyL9d7KYsCUSgyHbXTYJmqPnKnIglcPrKsbhJrg6Oy7zf036nqqfa2cd_lEVYtTMuolIYat4ZXQDm2AQTLdKn2vCxD_p3I7IdhhkD5AgRzmNF1=s0
 id: 1797
 layout: post
 title: A day of rest
@@ -21,6 +21,3 @@ Back at the Airbnb we cooked a large meal, ate, talked, and enjoyed each otherâ€
 
 
 
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2021/06/IMG_1396.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210614_214532543.jpg)

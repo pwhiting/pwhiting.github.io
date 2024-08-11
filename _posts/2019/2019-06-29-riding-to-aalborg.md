@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2019/06/IMG_20190629_151528_365.jpg"
+image: https://lh3.googleusercontent.com/pw/AP1GczOi2c8imS8aYQ4y3VtrNLjZIhmUbCWn2ZB4jEzDw9IZ7P6mCfP_M4A16tKg5iZ8DCGAwAB5NS6YuA1pdPKNJdQmBY133_8ofFAgux2g0GdJ90EO45Oh=s0
 id: 1490
 layout: post
 title: Riding to Aalborg

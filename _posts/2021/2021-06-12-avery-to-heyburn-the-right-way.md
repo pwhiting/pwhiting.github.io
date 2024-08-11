@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210612_164701115.PORTRAIT.jpg"
+image: https://lh3.googleusercontent.com/pw/AP1GczNZHRWK4ibJbgvj4ZIjcTvjgtQUXrnIJSGA1p5bWojLokaDWZBGPaQouNILfsd3avv3oQVH3kYUxGI1jYDkO5wd1k7dnU6a19tl5OTyvgHE9inHjhzr=s0
 id: 1791
 layout: post
 title: Avery to Heyburn, the right way
@@ -43,6 +43,14 @@ It was a great day of just under 70 miles of riding.
 
 
 <!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/IMG_1354.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210611_233230832.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210612_013853219.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1308-scaled.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1356.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/IMG_1317.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210612_001353657.jpg)
+
 ![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1370.jpg)
 ![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210612_160448865.jpg)
 ![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210612_164701115.PORTRAIT.jpg)
