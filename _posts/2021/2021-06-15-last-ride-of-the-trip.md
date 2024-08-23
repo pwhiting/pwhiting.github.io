@@ -1,4 +1,5 @@
 ---
+image: https://lh3.googleusercontent.com/pw/AP1GczNPMy2K5tnAlpRUpOX0cfOcf5OUB8YqYBPTL5i6dk_XtYFVxTjyYjHM89S_qmoFbPV6A1m7Mm0rEL-0pc0-QXGFLo-ti75NfmjjFZSiTt1k006_XDLh=s0
 id: 1801
 layout: post
 title: Last ride of the trip

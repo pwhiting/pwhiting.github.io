@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2019/06/Screenshot_20190623-222915-768x1579.png"
+image: https://lh3.googleusercontent.com/pw/AP1GczMQJ8frynRlyR-lXL6ftDmzigvVuUs901BhHfqfpS7DSYhAthBAtaUHDnaTNCZr1fjsdia_IfmyGbYXLZrc6C1oVZNkKEsuS3-ywIYQ4bjROzygTx9g=s0
 id: 1449
 layout: post
 title: Taking a break from our break

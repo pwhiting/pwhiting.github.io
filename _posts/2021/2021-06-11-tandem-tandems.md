@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2022/02/IMG_1317.jpg"
+image: https://lh3.googleusercontent.com/pw/AP1GczPNVhAPUPkbuDVxr2HjMpLNu79PymlWjsfvr91E5nWokVaSo4pG_Ntyu9H6ZDXwAD7dUzq18bk8_AD9WvIe3NgK8BhUSkPBmRQJyuFQP74I7yBwRqE6=s0
 id: 1787
 layout: post
 title: Tandem tandems
@@ -54,10 +54,15 @@ Today we rode a little over 40 miles, mostly downhill. It was an enjoyable ride 
 
 
 <!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2021/06/IMG_1354.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210611_233230832.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210612_013853219.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1308-scaled.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1356.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2022/02/IMG_1317.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210612_001353657.jpg)
+<!-- Auto-inserted images -->
+![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1308.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210610_180724636.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210610_191205882.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210610_232637812.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210610_233230918.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210611_000745155.jpg)
+![](https://rode.whitings.org/wp-content/uploads/2022/02/PXL_20210611_010004364.jpg)
+
+
+
+

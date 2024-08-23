@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2019/06/screenshot_20190624-2353561332849541349633848-192x300.png"
+image: https://lh3.googleusercontent.com/pw/AP1GczMDXr6eSZlTsciEwMNGdgf6k4eMbX_6dpnr3t1aYmqK1m9me7MvzttDmmXw7PYs1cecZ6PgWi7WO98lH-egamLlvGxV1hXxHLgoh6iyJBuCJkEUSN27=s0
 id: 1459
 layout: post
 title: Getting worked

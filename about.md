@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Information about us and our rides
 permalink: /about/
 image: "https://lh3.googleusercontent.com/pw/AP1GczOFLNlOmJ2z98Tgc3kRDJp-7z5KxNpHf8NIdsEZy6ZfYs3QaV7fvrawwmdV5gd_n7igcKOMOIA6tX3nJbsPmISzYiyWoqDGAkeQK01FH_C3OWlfV-64=w1600-h830-p-k"
 ---

@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2019/06/Screenshot_20190621-103955-1024x538.png"
+image: https://lh3.googleusercontent.com/pw/AP1GczOU5De7C0xuTH6ImS3bHh30HL-E4YFWXv_9TZ1zhxu8MjplBxI_yfVw9ZF70CZQL0Q9omSBNkl3Ap246Fx0tDXvCi_B1nwCd4p8ntHKvEVm33hFS-Hg=s0
 id: 1421
 layout: post
 title: Exploring the abandoned city

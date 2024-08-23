@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2019/06/Screenshot_20190620-125252-146x300.png"
+image: https://lh3.googleusercontent.com/pw/AP1GczNYFkr5dqaOe-C9i99gd7Rm6dfrdYrksiawSHx6IpvXkccyQaJneZD9OJ8n2VgMzd-gk_w8wEbzM2d8eBv6v96_4gR7J1U_RTALS3B3UgY-yRhcOwUx=s0
 id: 1407
 layout: post
 title: It's go time

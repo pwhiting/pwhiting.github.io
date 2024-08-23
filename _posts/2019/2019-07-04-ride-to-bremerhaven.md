@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2019/07/screenshot_20190704-1930511182990083209025181-1024x883.png"
+image: https://lh3.googleusercontent.com/pw/AP1GczOyVyZKh2WPecVgm5bRRTC_KUckH-_49y2gjF5YTvkM4Nau0dDCeyQcphsc212h62GSvB8xylYfDMQEiCyZzorTvXRRSO932ftT4AQruXi76J1pSsoC=s0
 id: 1526
 layout: post
 title: Ride to Bremerhaven

@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2021/05/img_1065.jpg"
+image: https://lh3.googleusercontent.com/pw/AP1GczMb5z_Brv9qEyKPc4VFvPhFKv8sDqyzieG8HhbvGPpE4ZEFvV7-EIjgg9gqBIeK8CCphLU6cN7h40bX5jS11KkAa3U8dQsKC8hDRANiHlH_T5bwGjbZ=s0
 id: 1671
 layout: post
 title: About ready...
@@ -48,10 +48,3 @@ In other news, this week I replaced my front fork, headset (thing that connects 
 We are going out this morning on a ride close to home, fully loaded, to make sure nothing comes flying off...
 
 
-
-
-
-<!-- Auto-inserted images -->
-![](https://rode.whitings.org/wp-content/uploads/2021/05/img_1063.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2021/05/img_1065.jpg)
-![](https://rode.whitings.org/wp-content/uploads/2021/05/img_1066.jpg)
