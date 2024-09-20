@@ -14,9 +14,8 @@ So far, we've explored the following:
 * [2021](/categories/2021): Northwest corner of the US - we rode on the Trail of the Olympian and the Route of the Hiwatha on this ride
 * [2022](/categories/2022): Katy trail in Missouri - we rode along a nearly 300 mile rail trail in the heart of our country
 * [2023](/categories/2023): Paris to Frankfurt - we stuck to the EuroVelo routes for most of this ride, avoiding traffic and enjoying the beautiful French and German countrysides
-
+* [2024](/categories/2024): A big loop out of Geneva to Lyon and then toward Strassburg before heading back to Geneva
 Each ride is between 700 and 1000 miles in length and takes 2-3 weeks. 
 
-and in [2024](/categories/2024) we are riding a big loop to the north out of Geneva.
 
 
