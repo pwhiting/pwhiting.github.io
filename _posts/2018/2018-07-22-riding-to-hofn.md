@@ -8,9 +8,9 @@ modified: 2018-07-22 10:34:29
 categories: ['Iceland']
 ---
 
-![](https://whitingpt.files.wordpress.com/2018/07/img_20180721_113007.jpg)
-
 Once again blogging in the morning instead of the evening. Yesterday's ride to Höfn (fishing village on Southeastern part of Iceland) was our easiest ride so far. On Friday we rode 85 miles in order to only have to ride 41 on Saturday. Plus, we had lucked out and made a last-minute hotel reservation so we wanted to get to Höfn as early as our check-in time would allow. We wanted to make maximum use of the reservation!
+
+![](https://whitingpt.files.wordpress.com/2018/07/img_20180721_113007.jpg)
 
 We rolled into Höfn right at 3 pm and checked into our room. It has a beautiful ocean-facing view. First things first: unpack our tent so it could start to dry and then string a clothes line across the room to start drying clothes. I didn't have anything dry left. The combination of rainy days and lots of sweat had moistened my wardrobe. Natalie doesn't sweat as much (she is in better shape -- added note from Natalie: haha yeah right) so she still had a few dry options.... We started unpacking and hanging things around the room. It soon looked like our luggage had exploded into the room - stuff everywhere!
 
