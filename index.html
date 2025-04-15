@@ -42,7 +42,7 @@ layout: default
             </header>
             <section class="post-excerpt" itemprop="description">
               <p>
-               {{ post.content | strip_html | truncatewords: 50 }}
+               {{ post.content | strip_html | truncatewords: 50 }}<br/>
                <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read more →</a>
               </p>
             </section>
@@ -67,7 +67,7 @@ layout: default
             </header>
             <section class="post-excerpt" itemprop="description">
               <p>
-                {{ post.excerpt | strip_html | truncatewords: 50 }}
+                {{ post.excerpt | strip_html | truncatewords: 50 }}<br/>
                 <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read more →</a>
               </p>
             </section>
