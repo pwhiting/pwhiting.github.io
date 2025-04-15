@@ -65,6 +65,7 @@ layout: default
             </header>
             <section class="post-excerpt" itemprop="description">
               <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+              <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read more →</a>
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
