@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2019/06/IMG_20180801_111601.jpg"
+image: "https://lh3.googleusercontent.com/pw/AP1GczPhJqh0TLO94_chdzzdZbZ-P1Z8zNs5ymPc-rNmqMAoLyKcJNkW8CNUA3iAnTaIHi5HzlipD73D6SGBplFgWzVALtUKB79H_XAaP3HU2q0r7HNogSgB=s0-no"
 id: 1090
 layout: post
 title: Ride to Varmaland
