@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2018/08/img_20180804_132223_1.jpg"
+image: "https://lh3.googleusercontent.com/pw/AP1GczOrJ-69Qy4VDZNGC_JczMcD5d_2ZCkSDQXIWiM_BxGg4KBEd5XD7jnToXxBthaEuQckC9n8L-5ofD46VfNK3Jr6aA-aSnFdHiUCr75sLrRW7yGvQe84=s0-no"
 id: 1812
 layout: post
 title: R&amp;R in Reykjavik
