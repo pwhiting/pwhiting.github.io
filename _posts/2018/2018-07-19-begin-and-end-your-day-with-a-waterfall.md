@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2019/06/IMG_20180719_061217.jpg"
+image: "https://lh3.googleusercontent.com/pw/AP1GczONJ5SW7jPI5E9xcayYzRxBW4lf2GNSsc4ZcU9-dHpZ1iS0RWTAgEBasG5ueVVqGhmADjcI8DpjkpmBJyW1UzJHf6_Sjw03vB2GkW71wrMHQOhUH6bV=s0-no"
 id: 970
 layout: post
 title: Begin and end your day with a waterfall
