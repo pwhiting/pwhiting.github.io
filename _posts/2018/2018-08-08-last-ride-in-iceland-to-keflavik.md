@@ -24,7 +24,7 @@ We met a few groups beginning their bike trips today. One was a group of men fro
 
 Then to Netto (our favorite grocery store here) down the street to buy a few items for dinner. Breakfast is included with our stay here.
 
-I (Pete) headed to the local pool for a final soak. Since Natalie wasn't coming I knew I was going to have to pull her weight and do a double soak. It was, as always, awesome. Toward the end the professional football (soccer) team for the town/village of Keflavik came in for their post-practice soak. It is crazy to think that such a small town has a professional soccer team. It is similar to Roy or Morgan in Utah having their own professional soccer team.... I guess that is why Iceland was playing in the World Cup and the US wasn't.
+I (Pete) headed to the local pool for a final session. Since Natalie wasn't coming I knew I was going to have to pull her weight and do a double session. It was, as always, awesome. Toward the end the professional football (soccer) team for the town/village of Keflavik came in for their post-practice session. It is crazy to think that such a small town has a professional soccer team. It is similar to Roy or Morgan in Utah having their own professional soccer team.... I guess that is why Iceland was playing in the World Cup and the US wasn't.
 
 We planned to head to the airport at 5:30 AM but our flight has already been delayed 3 hours. Luckily we have a long layover in Minneapolis, so our itinerary can easily absorb it.
 

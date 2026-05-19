@@ -8,7 +8,7 @@ modified: 2018-07-29 19:46:18
 categories: ['Iceland']
 ---
 
-Super restful day today. We slept in, had a nice breakfast, went to church, had a nice lunch, went to a concert at another church, had dinner, and are finishing the day with hot chocolate. The only thing missing was another soak at the pool.
+Super restful day today. We slept in, had a nice breakfast, went to church, had a nice lunch, went to a concert at another church, had dinner, and are finishing the day with hot chocolate. The only thing missing was another visit to the pool.
 
 The weather has been nice, with a light rain in the afternoon. Right now it looks like we will have decent weather for at least the next 3 days -- possibly to the end of the week. Our fingers are crossed....
 

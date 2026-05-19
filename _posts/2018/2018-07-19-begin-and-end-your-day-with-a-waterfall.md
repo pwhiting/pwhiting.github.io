@@ -16,6 +16,6 @@ We had lunch at a small cafeteria-type diner in a gas station in a town called V
 
 Afternoon scenery: Some more waterfalls, amazing green and dark-brown cliffs, a very huge far-off glacier/mountain, cool lava rocks in various formations, beautiful farms, blue skies!
 
-Tonight we are in a nice campground, again by an incredibly beautiful glacier-melt waterfall (as with our site last night) in a town called Kirkjubæjarklaustur. Wow, that's a cool name. When we rode into town, with sore, tired bodies, we grabbed a few groceries, then headed to the community pool. They we enjoyed a shower, a swim, and a wonderful soak in the hot tub. Then to our campground to set up, eat backpacking chili, visit with a few fellow travelers, and get ready for bed. Feels great.
+Tonight we are in a nice campground, again by an incredibly beautiful glacier-melt waterfall (as with our site last night) in a town called Kirkjubæjarklaustur. Wow, that's a cool name. When we rode into town, with sore, tired bodies, we grabbed a few groceries, then headed to the community pool. They we enjoyed a shower, a swim, and a wonderful dip in the hot pool. Then to our campground to set up, eat backpacking chili, visit with a few fellow travelers, and get ready for bed. Feels great.
 
 ![](https://whitingpt.files.wordpress.com/2018/07/screenshot_20180720-040729.png)
