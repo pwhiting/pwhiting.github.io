@@ -1,5 +1,5 @@
 ---
-image: "https://rode.whitings.org/wp-content/uploads/2018/07/img_20180724_100417.jpg"
+image: https://lh3.googleusercontent.com/pw/AP1GczM_vGkQDRQqC1fBUBjH5PmcraGsS6fhPPQHs3n8fGVghxaHEyBHZvycpv9-yn-kzV3iJjSFdeyWbjR_ma8zsP0WPsGUpnkmcDLe5qkCWSK6Wg-e1Xlb=s0-no
 id: 1002
 layout: post
 title: Riding to Egilsstaðir
