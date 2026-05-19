@@ -1,5 +1,5 @@
 ---
-image: "https://photos.app.goo.gl/iCbmGLqUbhJHd1AD7"
+image: "https://lh3.googleusercontent.com/pw/AP1GczMpQDLrjZWODhxMS0hPtVqYPQRtzyxCtwi2CJjIAWewFOgdp_F7kJztya7T7j779HNRyvJDuScYkRVWr8ZEgLXZIaGkHoBdnoDtVO2elvAmbwAqP837=s0-no"
 id: 996
 layout: post
 title: Cruel and unusual punishment

@@ -1,5 +1,5 @@
 ---
-image: https://whitingpt.files.wordpress.com/2018/07/img_20180724_224624_288.jpg
+image: "https://lh3.googleusercontent.com/pw/AP1GczOOrugnbISp3iW-tn0d6suUItObu-Z3tEBGkx_1qzwpMCmVlgMAZXZ1hq6Hu8Du0-VfVcbwmLJC0E0WIYTACS1RSawrzmH74NOr7HfCWpFlk01g9rn4=s0-no"
 id: 1004
 layout: post
 title: A different kind of century
