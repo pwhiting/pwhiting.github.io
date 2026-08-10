@@ -57,8 +57,8 @@ caption on the post.
 ```
 
 The site displays the album cover and makes it clickable. It opens the album in
-Google Photos automatically—do not wrap this in another link or add
-`target="_blank"`.
+the current tab, so the browser's Back button returns the reader to the post.
+Do not wrap this in another link or add `target="_blank"`.
 
 ### A video preview that opens the video
 
@@ -67,15 +67,15 @@ Google Photos automatically—do not wrap this in another link or add
 ```
 
 The site displays the video's preview image and makes it clickable. Selecting
-it opens the video in Google Photos.
+it opens the video in the current tab; Back returns to the post.
 
 ## What happens when you publish
 
 When the site builds, it finds these Google Photos links and converts them to
 the embeddable image URLs needed by the web page. Clicking an image in the post
-opens its Google Photos share page. Your Markdown and front matter stay in the
-easy-to-edit `photos.app.goo.gl` form, so there is no extra conversion step for
-you.
+opens its Google Photos share page in the current tab, and Back returns to the
+post. Your Markdown and front matter stay in the easy-to-edit
+`photos.app.goo.gl` form, so there is no extra conversion step for you.
 
 ## Full example
 

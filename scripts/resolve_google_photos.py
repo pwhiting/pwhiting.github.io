@@ -9,7 +9,8 @@ with the current public CDN image URL:
     ![Caption](https://photos.app.goo.gl/...)
 
 Inline images are also wrapped in a link to the original Google Photos share
-page, so a reader can open the photo or video in Google Photos.
+page in the current tab, so a reader can use their browser's Back button to
+return to the post.
 """
 
 from __future__ import annotations
@@ -94,7 +95,7 @@ def convert_text(text: str, source_name: str, resolved: dict[str, str], failures
         embed_url = lookup(share_url)
         if not embed_url:
             return match.group(0)
-        return f"[![{match.group('alt')}]({embed_url})]({share_url}){{:target=\"_blank\"}}"
+        return f"[![{match.group('alt')}]({embed_url})]({share_url})"
 
     text = FRONT_MATTER_IMAGE.sub(replace_front_matter, text)
     return MARKDOWN_IMAGE.sub(replace_inline_image, text)
