@@ -21,8 +21,16 @@
       });
       $window.trigger('scroll');
 
-      var height = $('.article-image').height();
-      $('.post-content').css('padding-top', height + 'px');
+      function updatePostContentOffset() {
+        if (window.matchMedia('(max-width: 800px)').matches) {
+          $('.post-content').css('padding-top', 0);
+        } else {
+          var height = $('.article-image').height();
+          $('.post-content').css('padding-top', height + 'px');
+        }
+      }
+      updatePostContentOffset();
+      $window.on('resize', updatePostContentOffset);
 
       $('a[href*=#]:not([href=#])').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
