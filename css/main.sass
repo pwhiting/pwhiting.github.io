@@ -39,6 +39,84 @@ body
   -o-font-feature-settings: "liga", "dlig"
   font-feature-settings: "liga", "dlig"
 
+body.google-photos-dialog-open
+  overflow: hidden
+
+.google-photos-dialog[aria-hidden="true"]
+  display: none
+
+.google-photos-dialog
+  position: fixed
+  inset: 0
+  z-index: 1000
+  display: flex
+  align-items: center
+  justify-content: center
+  padding: $rs*2
+  @include box-sizing(border-box)
+
+.google-photos-dialog-backdrop
+  position: absolute
+  inset: 0
+  background: rgba(0,0,0,0.55)
+
+.google-photos-dialog-panel
+  position: relative
+  width: 100%
+  max-width: 430px
+  padding: $rs*2
+  background: #fff
+  border-radius: 8px
+  box-shadow: 0 12px 40px rgba(0,0,0,0.35)
+  color: #333
+  font-family: $font-sans
+  @include box-sizing(border-box)
+  h2
+    margin: 0 0 $rs
+    font-size: 24px
+    line-height: 1.2
+  p
+    margin: 0 0 $rs
+    font-size: 17px
+    line-height: 1.45
+
+.google-photos-dialog-touch,
+.google-photos-dialog-desktop
+  display: none
+
+.google-photos-dialog-touch-device .google-photos-dialog-touch
+  display: block
+
+.google-photos-dialog:not(.google-photos-dialog-touch-device) .google-photos-dialog-desktop
+  display: block
+
+.google-photos-dialog-actions
+  display: flex
+  justify-content: flex-end
+  gap: $rs/2
+  margin-top: $rs*1.5
+  button
+    min-height: 44px
+    padding: 0 $rs
+    border: 1px solid #777
+    border-radius: 4px
+    background: #fff
+    color: #333
+    font: inherit
+    font-weight: 700
+    cursor: pointer
+    &:focus
+      outline: 3px solid #1a73e8
+      outline-offset: 2px
+  .google-photos-dialog-open
+    border-color: #1a73e8
+    background: #1a73e8
+    color: #fff
+  @include respond-to(420)
+    flex-direction: column-reverse
+    button
+      width: 100%
+
 .logo-readium
   position: fixed
   left: 10px

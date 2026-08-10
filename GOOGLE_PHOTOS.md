@@ -56,9 +56,9 @@ caption on the post.
 ![Open the photo album](https://photos.app.goo.gl/your-album-link)
 ```
 
-The site displays the album cover and makes it clickable. It opens the album in
-the current tab, so the browser's Back button returns the reader to the post.
-Do not wrap this in another link or add `target="_blank"`.
+The site displays the album cover and makes it clickable. Before it opens
+Google Photos in a new tab, the reader sees a reminder explaining how to return
+to the post. Do not wrap this in another link or add `target="_blank"`.
 
 ### A video preview that opens the video
 
@@ -67,14 +67,14 @@ Do not wrap this in another link or add `target="_blank"`.
 ```
 
 The site displays the video's preview image and makes it clickable. Selecting
-it opens the video in the current tab; Back returns to the post.
+it shows the same reminder, then opens the video in a new tab.
 
 ## What happens when you publish
 
 When the site builds, it finds these Google Photos links and converts them to
 the embeddable image URLs needed by the web page. Clicking an image in the post
-opens its Google Photos share page in the current tab, and Back returns to the
-post. Your Markdown and front matter stay in the easy-to-edit
+shows a short return-to-the-post reminder, then opens its Google Photos share
+page in a new tab. Your Markdown and front matter stay in the easy-to-edit
 `photos.app.goo.gl` form, so there is no extra conversion step for you.
 
 ## Full example
