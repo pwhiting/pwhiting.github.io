@@ -38,16 +38,36 @@ image_position: "65% 35%"
 `50% 50%` is the default (centered). The first number moves the focal point
 left/right; the second moves it up/down.
 
-## Add an image in the post text
+## Copy-and-paste examples for post text
 
-Use ordinary Markdown and paste the same kind of Google Photos share link:
+Use ordinary Markdown and paste the appropriate Google Photos share link. The
+description between `[]` is useful for accessibility and becomes the image
+caption on the post.
+
+### One photo (a static image)
 
 ```md
-![A short description of the photo](https://photos.app.goo.gl/your-share-link)
+![A short description of the photo](https://photos.app.goo.gl/your-photo-link)
 ```
 
-The description between `[]` is useful for accessibility and becomes the image
-caption on the post.
+### An album cover that opens the album
+
+```md
+![Open the photo album](https://photos.app.goo.gl/your-album-link)
+```
+
+The site displays the album cover and makes it clickable. It opens the album in
+Google Photos automatically—do not wrap this in another link or add
+`target="_blank"`.
+
+### A video preview that opens the video
+
+```md
+![Watch the video](https://photos.app.goo.gl/your-video-link)
+```
+
+The site displays the video's preview image and makes it clickable. Selecting
+it opens the video in Google Photos.
 
 ## What happens when you publish
 
