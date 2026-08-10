@@ -3,19 +3,6 @@
 <script type="text/javascript" src="{{ "/assets/js/index.js" | prepend: site.baseurl  }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/readingTime.min.js" | prepend: site.baseurl  }}"></script>
 <script type="text/javascript" src="{{ "/assets/js/nav.js" | prepend: site.baseurl  }}"></script>
-<div class="google-photos-dialog" id="google-photos-dialog" aria-hidden="true">
-  <div class="google-photos-dialog-backdrop" data-google-photos-close></div>
-  <section class="google-photos-dialog-panel" role="dialog" aria-modal="true" aria-labelledby="google-photos-dialog-title" aria-describedby="google-photos-dialog-instructions" tabindex="-1">
-    <h2 id="google-photos-dialog-title">Opening Google Photos in a new tab</h2>
-    <p id="google-photos-dialog-instructions">When you are finished, return here:</p>
-    <p class="google-photos-dialog-touch">On a phone or tablet, tap the tabs button (the two overlapping squares), then choose Ride Whitings.</p>
-    <p class="google-photos-dialog-desktop">On a computer, close the Google Photos tab to return here.</p>
-    <div class="google-photos-dialog-actions">
-      <button type="button" class="google-photos-dialog-cancel" data-google-photos-close>Stay on this page</button>
-      <button type="button" class="google-photos-dialog-open">Open Google Photos</button>
-    </div>
-  </section>
-</div>
 <script>
 (function ($) {
   "use strict";
@@ -51,75 +38,6 @@
       }
       updatePostContentOffset();
       $window.on('resize', updatePostContentOffset);
-
-      var googlePhotosDialog = document.getElementById('google-photos-dialog');
-      var googlePhotosOpenButton = googlePhotosDialog.querySelector('.google-photos-dialog-open');
-      var googlePhotosCancelButton = googlePhotosDialog.querySelector('.google-photos-dialog-cancel');
-      var googlePhotosUrl = null;
-      var googlePhotosTrigger = null;
-      var isTouchDevice = window.matchMedia('(pointer: coarse)').matches || navigator.maxTouchPoints > 0;
-
-      if (isTouchDevice) {
-        googlePhotosDialog.classList.add('google-photos-dialog-touch-device');
-      }
-
-      function closeGooglePhotosDialog() {
-        googlePhotosDialog.setAttribute('aria-hidden', 'true');
-        document.body.classList.remove('google-photos-dialog-open');
-        if (googlePhotosTrigger) {
-          googlePhotosTrigger.focus();
-        }
-      }
-
-      function openGooglePhotosDialog(link) {
-        googlePhotosUrl = link.href;
-        googlePhotosTrigger = link;
-        googlePhotosDialog.setAttribute('aria-hidden', 'false');
-        document.body.classList.add('google-photos-dialog-open');
-        googlePhotosCancelButton.focus();
-      }
-
-      document.addEventListener('click', function(event) {
-        var link = event.target.closest('a.google-photos-preview');
-        if (!link || event.defaultPrevented) {
-          return;
-        }
-        event.preventDefault();
-        openGooglePhotosDialog(link);
-      });
-
-      googlePhotosDialog.addEventListener('click', function(event) {
-        if (event.target.hasAttribute('data-google-photos-close')) {
-          closeGooglePhotosDialog();
-        }
-      });
-
-      googlePhotosOpenButton.addEventListener('click', function() {
-        var newTab = window.open(googlePhotosUrl, '_blank', 'noopener');
-        if (newTab) {
-          newTab.opener = null;
-        }
-        closeGooglePhotosDialog();
-      });
-
-      googlePhotosDialog.addEventListener('keydown', function(event) {
-        if (event.key === 'Escape') {
-          closeGooglePhotosDialog();
-          return;
-        }
-        if (event.key === 'Tab') {
-          var buttons = googlePhotosDialog.querySelectorAll('button');
-          var firstButton = buttons[0];
-          var lastButton = buttons[buttons.length - 1];
-          if (event.shiftKey && document.activeElement === firstButton) {
-            event.preventDefault();
-            lastButton.focus();
-          } else if (!event.shiftKey && document.activeElement === lastButton) {
-            event.preventDefault();
-            firstButton.focus();
-          }
-        }
-      });
 
       $('a[href*=#]:not([href=#])').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

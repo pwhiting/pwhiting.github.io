@@ -9,7 +9,7 @@ with the current public CDN image URL:
     ![Caption](https://photos.app.goo.gl/...)
 
 Inline images are also wrapped in a link to the original Google Photos share
-page in a new tab. The site shows a brief return-to-the-post reminder first.
+page in a new tab, followed by a brief explanatory note.
 """
 
 from __future__ import annotations
@@ -95,8 +95,8 @@ def convert_text(text: str, source_name: str, resolved: dict[str, str], failures
         if not embed_url:
             return match.group(0)
         return (
-            f"[![{match.group('alt')}]({embed_url})]({share_url})"
-            "{:target=\"_blank\" .google-photos-preview}"
+            f"[![{match.group('alt')}]({embed_url})]({share_url}){{:target=\"_blank\"}}\n\n"
+            '<p class="google-photos-note">Opens Google Photos in a new tab.</p>'
         )
 
     text = FRONT_MATTER_IMAGE.sub(replace_front_matter, text)
