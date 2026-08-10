@@ -60,8 +60,8 @@ This displays the photo in the post. It is not clickable.
 
 The site displays the album cover and makes it clickable. The added
 `{:target="_blank"}` is the signal that this is an album or video link. A quiet
-note beneath it says that Google Photos opens in a new tab. Do not wrap this in
-another link.
+note beneath it says `(album opens in a new tab)`. Do not wrap this in another
+link.
 
 ### A video preview that opens the video
 
@@ -70,7 +70,8 @@ another link.
 ```
 
 The site displays the video's preview image and makes it clickable. Selecting
-it opens the video in a new tab; the quiet note beneath it makes that clear.
+it opens the video in a new tab; the quiet note beneath it says `(video opens
+in a new tab)`.
 
 ## What happens when you publish
 

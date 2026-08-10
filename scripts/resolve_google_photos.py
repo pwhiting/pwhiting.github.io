@@ -92,16 +92,18 @@ def convert_text(text: str, source_name: str, resolved: dict[str, str], failures
 
     def replace_inline_image(match: re.Match[str]) -> str:
         share_url = match.group("url")
+        alt = match.group("alt")
         embed_url = lookup(share_url)
         if not embed_url:
             return match.group(0)
         attributes = match.group("attributes") or ""
-        image = f"![{match.group('alt')}]({embed_url})"
+        image = f"![{alt}]({embed_url})"
         if 'target="_blank"' not in attributes and "target='_blank'" not in attributes:
             return image + attributes
+        media_type = "album" if "album" in alt.casefold() else "video" if "video" in alt.casefold() else "link"
         return (
             f"[{image}]({share_url}){{:target=\"_blank\"}}\n\n"
-            '<p class="google-photos-note">Opens Google Photos in a new tab.</p>'
+            f'<p class="google-photos-note">({media_type} opens in a new tab)</p>'
         )
 
     text = FRONT_MATTER_IMAGE.sub(replace_front_matter, text)
