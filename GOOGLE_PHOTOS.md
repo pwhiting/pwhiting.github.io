@@ -1,25 +1,75 @@
-# Google Photos in posts
+# Using Google Photos in blog posts
 
-Use the normal Google Photos share link as the only image URL you type.
+Use normal Google Photos share links everywhere. Do **not** convert them to
+`lh3.googleusercontent.com` links yourself.
 
-For a post header image, put the share link in `image`:
+## Before you start
+
+In Google Photos, open the picture, choose **Share**, then **Create link** (if
+needed) and **Copy link**. The link should begin like this:
+
+```text
+https://photos.app.goo.gl/...
+```
+
+Keep the photo shared with anyone who has the link. If the link is made private
+or deleted, the site build stops rather than publishing a broken image.
+
+## Add a hero image
+
+Put the Google Photos share link in the post's front matter:
 
 ```yaml
+---
+layout: post
+title: My post title
+date: 2026/08/10
 image: https://photos.app.goo.gl/your-share-link
+---
 ```
 
-Hero images use `50% 50%` (horizontal then vertical) by default. If a
-particular photo needs a different focal point, add both percentages to its
-front matter, for example: `image_position: "65% 35%"`.
+The hero image is centered by default. To choose a different part of the image
+as the focal point, add `image_position` with horizontal and vertical values:
 
-For an image in the post, use ordinary Markdown:
+```yaml
+image_position: "65% 35%"
+```
+
+`50% 50%` is the default (centered). The first number moves the focal point
+left/right; the second moves it up/down.
+
+## Add an image in the post text
+
+Use ordinary Markdown and paste the same kind of Google Photos share link:
 
 ```md
-![A short description](https://photos.app.goo.gl/your-share-link)
+![A short description of the photo](https://photos.app.goo.gl/your-share-link)
 ```
 
-When the site publishes, the build replaces that URL with the current public
-image URL and makes the image open its Google Photos share page when selected.
-The source post remains unchanged.  Leave the photo shared publicly in Google
-Photos; a private or deleted share link will stop the build so it is not
-published with a broken image.
+The description between `[]` is useful for accessibility and becomes the image
+caption on the post.
+
+## What happens when you publish
+
+When the site builds, it finds these Google Photos links and converts them to
+the embeddable image URLs needed by the web page. Clicking an image in the post
+opens its Google Photos share page. Your Markdown and front matter stay in the
+easy-to-edit `photos.app.goo.gl` form, so there is no extra conversion step for
+you.
+
+## Full example
+
+```md
+---
+layout: post
+title: Family visit
+date: 2026/08/09
+category: Family
+image: https://photos.app.goo.gl/your-hero-photo
+image_position: "50% 50%"
+---
+
+Nice family visit yesterday - it was great to see MJ and fam.
+
+![Everyone together](https://photos.app.goo.gl/your-in-post-photo)
+```

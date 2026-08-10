@@ -1,6 +1,11 @@
 mediator
 ========
 
+## Posting photos from Google Photos
+
+See [Using Google Photos in blog posts](GOOGLE_PHOTOS.md) for the simple
+copy-and-paste workflow for hero images and images in post text.
+
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
 [Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](http://blog.base68.com).
 
