@@ -8,8 +8,9 @@ with the current public CDN image URL:
     image: https://photos.app.goo.gl/...
     ![Caption](https://photos.app.goo.gl/...)
 
-Inline images are also wrapped in a link to the original Google Photos share
-page in a new tab, followed by a brief explanatory note.
+Inline images stay in the post by default. Add `{:target="_blank"}` after an
+album or video image to make that preview open its Google Photos page in a new
+tab, followed by a brief explanatory note.
 """
 
 from __future__ import annotations
@@ -31,7 +32,7 @@ FRONT_MATTER_IMAGE = re.compile(
     re.MULTILINE,
 )
 MARKDOWN_IMAGE = re.compile(
-    rf"!\[(?P<alt>[^\]]*)\]\((?P<url>{GOOGLE_PHOTOS_URL})\)",
+    rf"!\[(?P<alt>[^\]]*)\]\((?P<url>{GOOGLE_PHOTOS_URL})\)(?P<attributes>\{{:[^\n}}]*\}})?",
 )
 OG_IMAGE = re.compile(
     r'<meta\s+property=["\']og:image["\']\s+content=["\'](?P<url>[^"\']+)["\']',
@@ -94,8 +95,12 @@ def convert_text(text: str, source_name: str, resolved: dict[str, str], failures
         embed_url = lookup(share_url)
         if not embed_url:
             return match.group(0)
+        attributes = match.group("attributes") or ""
+        image = f"![{match.group('alt')}]({embed_url})"
+        if 'target="_blank"' not in attributes and "target='_blank'" not in attributes:
+            return image + attributes
         return (
-            f"[![{match.group('alt')}]({embed_url})]({share_url}){{:target=\"_blank\"}}\n\n"
+            f"[{image}]({share_url}){{:target=\"_blank\"}}\n\n"
             '<p class="google-photos-note">Opens Google Photos in a new tab.</p>'
         )
 

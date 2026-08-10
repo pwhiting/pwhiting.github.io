@@ -50,20 +50,23 @@ caption on the post.
 ![A short description of the photo](https://photos.app.goo.gl/your-photo-link)
 ```
 
+This displays the photo in the post. It is not clickable.
+
 ### An album cover that opens the album
 
 ```md
-![Open the photo album](https://photos.app.goo.gl/your-album-link)
+![Open the photo album](https://photos.app.goo.gl/your-album-link){:target="_blank"}
 ```
 
-The site displays the album cover and makes it clickable. A quiet note beneath
-it says that Google Photos opens in a new tab. Do not wrap this in another link
-or add `target="_blank"`.
+The site displays the album cover and makes it clickable. The added
+`{:target="_blank"}` is the signal that this is an album or video link. A quiet
+note beneath it says that Google Photos opens in a new tab. Do not wrap this in
+another link.
 
 ### A video preview that opens the video
 
 ```md
-![Watch the video](https://photos.app.goo.gl/your-video-link)
+![Watch the video](https://photos.app.goo.gl/your-video-link){:target="_blank"}
 ```
 
 The site displays the video's preview image and makes it clickable. Selecting
@@ -72,11 +75,11 @@ it opens the video in a new tab; the quiet note beneath it makes that clear.
 ## What happens when you publish
 
 When the site builds, it finds these Google Photos links and converts them to
-the embeddable image URLs needed by the web page. Clicking an image in the post
-opens its Google Photos share page in a new tab, with a quiet note underneath
-the preview making that clear. Your Markdown and front matter stay in the
-easy-to-edit `photos.app.goo.gl` form, so there is no extra conversion step for
-you.
+the embeddable image URLs needed by the web page. Regular Google Photos images
+stay within the post. Images marked with `{:target="_blank"}` open their Google
+Photos share page in a new tab, with a quiet note underneath the preview making
+that clear. Your Markdown and front matter stay in the easy-to-edit
+`photos.app.goo.gl` form, so there is no extra conversion step for you.
 
 ## Full example
 

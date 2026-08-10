@@ -22,11 +22,11 @@ This is a regular Google Photos image.
 The hero image above and the image below use the album cover. Select either one
 to open the full album in Google Photos.
 
-![Open the photo album](https://photos.app.goo.gl/pCtPpA6XhQ58iAn39)
+![Open the photo album](https://photos.app.goo.gl/pCtPpA6XhQ58iAn39){:target="_blank"}
 
 ## Video
 
 The image below is the video's preview image. Select it to play the video in
 Google Photos.
 
-![Watch the video](https://photos.app.goo.gl/MPQcNve6p4X8x7xE9)
+![Watch the video](https://photos.app.goo.gl/MPQcNve6p4X8x7xE9){:target="_blank"}
