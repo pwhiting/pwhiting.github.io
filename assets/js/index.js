@@ -23,6 +23,15 @@
               $(this).wrap('<figure class="image"></figure>')
               .after('<figcaption>'+$(this).attr("alt")+'</figcaption>');
         });
+
+        // Keep the Google Photos new-tab note with its image caption.
+        $(".google-photos-note").each(function() {
+            var $note = $(this);
+            var $figure = $note.prev('p').find('figure.image').last();
+            if ($figure.length) {
+                $note.detach().appendTo($figure);
+            }
+        });
         
     });
 
