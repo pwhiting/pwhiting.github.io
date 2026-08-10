@@ -443,12 +443,18 @@ body
       outline: 0
       z-index: 300
       text-align: center
-    a[target="_blank"] figcaption
-      color: #4d4d4d
-      font-family: $font-sans
-      font-size: 17px
-      font-style: normal
-      font-weight: 600
+    a[target="_blank"]
+      color: #0000ee
+      text-decoration: none
+      &:hover
+        color: #0000ee
+        text-decoration: none
+      figcaption
+        color: #0000ee
+        font-family: $font-sans
+        font-size: 17px
+        font-style: normal
+        font-weight: 600
     hr
       border: 0
       padding: 0
