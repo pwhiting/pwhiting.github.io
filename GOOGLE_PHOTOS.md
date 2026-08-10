@@ -8,10 +8,9 @@ For a post header image, put the share link in `image`:
 image: https://photos.app.goo.gl/your-share-link
 ```
 
-Hero images are centered by default. If a particular photo needs a different
-focal point, add (for example) `image_position: center 35%` to the same front
-matter. The first value controls horizontal placement; the second controls
-vertical placement.
+Hero images use `50% 50%` (horizontal then vertical) by default. If a
+particular photo needs a different focal point, add both percentages to its
+front matter, for example: `image_position: "65% 35%"`.
 
 For an image in the post, use ordinary Markdown:
 
