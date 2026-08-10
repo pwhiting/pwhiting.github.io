@@ -329,10 +329,10 @@ body
     .article-image
       position: relative
       bottom: auto
-      height: auto
-      min-height: 0
+      height: 75vw
+      min-height: 360px
       max-height: none
-      aspect-ratio: 4 / 3
+      aspect-ratio: auto
       margin-left: -$rs*2
       margin-right: -$rs*2
       .post-image-image
@@ -340,6 +340,13 @@ body
         padding-top: 0
       .post-meta
         bottom: $rs
+      .post-title
+        font-size: clamp(34px, 10vw, 42px)
+        line-height: 1.05
+        margin-bottom: $rs/2
+        overflow-wrap: break-word
+      .fa-angle-down
+        margin-top: $rs
   .noarticleimage
     .post-meta
       font-family: $font-sans
