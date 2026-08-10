@@ -15,9 +15,16 @@
         var top = $window.scrollTop();
 
         if (top < 0 || top > 1500) { return; }
-        $image
-          .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
-          .css('opacity', 1-Math.max(top/700, 0));
+        if (window.matchMedia('(max-width: 800px)').matches) {
+          $image.css({
+            'transform': 'none',
+            'opacity': 1
+          });
+        } else {
+          $image
+            .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+            .css('opacity', 1-Math.max(top/700, 0));
+        }
       });
       $window.trigger('scroll');
 
