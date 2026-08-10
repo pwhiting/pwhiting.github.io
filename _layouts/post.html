@@ -9,10 +9,10 @@
       <article class="post">
         {% if page.image %}
         <div class="article-image">
-          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image | prepend: site.baseurl }}{% endif %})">
+          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image | prepend: site.baseurl }}{% endif %}); background-position: {{ page.image_position | default: 'center center' }}">
             Article Image
           </div>
-          <div class="post-image-image2" style="background-image: url({% if page.image2 %}{{ page.image2 | prepend: site.baseurl }}{% endif %})">
+          <div class="post-image-image2" style="background-image: url({% if page.image2 %}{{ page.image2 | prepend: site.baseurl }}{% endif %}); background-position: {{ page.image2_position | default: page.image_position | default: 'center center' }}">
             Article Image
           </div>
           <div class="post-meta">

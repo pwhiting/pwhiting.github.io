@@ -244,6 +244,7 @@ body
     @media(min-width: 70px)
       .post-image-image
         background-size: cover
+        background-position: center center
         position: absolute
         top: 0
         left: 0
@@ -259,6 +260,7 @@ body
         display: none
       .post-image-image2
         background-size: cover
+        background-position: center center
         position: absolute
         top: 0
         left: 0
@@ -323,6 +325,17 @@ body
         color: #fff
     .topofpage
       text-decoration: underline
+  @include respond-to(800)
+    .article-image
+      position: relative
+      bottom: auto
+      height: 65vh
+      height: 65svh
+      min-height: 24rem
+      max-height: 34rem
+      .post-image-image
+        height: 100%
+        padding-top: 0
   .noarticleimage
     .post-meta
       font-family: $font-sans
