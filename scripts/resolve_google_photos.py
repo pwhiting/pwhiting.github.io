@@ -41,6 +41,20 @@ OG_IMAGE = re.compile(
 
 EXCLUDED_DIRS = {".git", ".bundle", ".build-source", "_site", "vendor"}
 
+# Matches `published: false` in a post's YAML front matter. Jekyll skips these
+# posts entirely, so there is no reason to resolve (and possibly fail on) their
+# Google Photos links.
+UNPUBLISHED = re.compile(r"^\s*published\s*:\s*false\s*$", re.IGNORECASE | re.MULTILINE)
+
+
+def is_unpublished(text: str) -> bool:
+    """Return True if the post's front matter sets `published: false`."""
+    if not text.startswith("---"):
+        return False
+    end = text.find("\n---", 3)
+    front_matter = text if end == -1 else text[:end]
+    return bool(UNPUBLISHED.search(front_matter))
+
 
 def fetch_embed_url(share_url: str) -> str:
     """Return the public image URL advertised by a Google Photos share page."""
@@ -138,6 +152,9 @@ def main() -> int:
     failures: list[str] = []
     for post in sorted((destination / "_posts").rglob("*.md")):
         original = post.read_text(encoding="utf-8")
+        if is_unpublished(original):
+            print(f"Skipping unpublished {post.relative_to(destination)}", file=sys.stderr)
+            continue
         converted = convert_text(original, str(post.relative_to(destination)), resolved, failures)
         if converted != original:
             post.write_text(converted, encoding="utf-8")
