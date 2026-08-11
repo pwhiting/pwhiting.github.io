@@ -4,7 +4,7 @@ title: Google Photos album and video demo
 date: 2026/08/10
 modified: 2026/08/10
 category: Testing
-published: false
+published: true
 image: https://photos.app.goo.gl/pCtPpA6XhQ58iAn39
 ---
 
