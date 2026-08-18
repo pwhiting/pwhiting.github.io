@@ -17,9 +17,9 @@ No Alpine start for us. We didn't roll until after 9:30. We rode a few miles and
 
 When we finished eating and got ready to leave it started raining, so we put on our coats and that made it stop.
 
-After a little less then 2 hours we stopped at a farmers market in Saint-Michelsgestel and bought fruit and veggies for lunch.
+After a little less than 2 hours we stopped at a farmers market in Sint-Michielsgestel and bought fruit and veggies for lunch.
 
-We then rode through Eindhoven, Achel, and Bocholt. We are staying in Dilsen-Stokken in the House Max B&B. The hosts are super nice - the husband even offered a ride to a restaurant, which our tired bodies gratefully accepted.
+We then rode through Eindhoven, Achel, and Bocholt. We are staying in Dilsen-Stokkem in the Huyze Max B&B. The hosts are super nice - the husband even offered a ride to a restaurant, which our tired bodies gratefully accepted.
 
 Today's ride was mostly on beautiful bike paths. Some of the route had us next to large canals with barges and other boats. The few roads we had to use seemed to give bikes high priority. The drivers seem extra courteous.
 

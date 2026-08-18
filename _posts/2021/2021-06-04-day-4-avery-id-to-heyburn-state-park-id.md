@@ -19,7 +19,7 @@ Our hotel room was so comfortable that we had a late start. It was hard to motiv
 
 
 
-The road had few cars and the slope was gentle downhill, so we made good time to St. Maries. About an hour before St. Maries we stopped at a roadside restaurant and got french fries, diet cokes, and a salad. One rule of long distance biking: if you get tired and lack motivation, stop and eat. We felt so much better after that meal.
+The road had few cars and the slope was gentle downhill, so we made good time to St. Maries. About an hour before St. Maries we stopped at a roadside restaurant and got French fries, Diet Cokes, and a salad. One rule of long distance biking: if you get tired and lack motivation, stop and eat. We felt so much better after that meal.
 
 
 
@@ -29,7 +29,7 @@ We rode through St. Maries hoping to find information about a possible shuttle a
 
 
 
-The road did have a lot of logging trucks, but they tapered off around 4:00. There was generally no shoulder, but we were able to often go a little off-road when there was an approaching vehicle that was going to pass us at the same time one was coming from behind. As far as safety, it could have been a lot worse, but we were happy when it was over. We ended up at Heyburn State Park in a nice campsite. In fact, the camp host walked by and was amazed we were able to get this site last minute. They said this was the most popular site. It really is beautiful and quiet, surrounded by tall lodge pole pines, and the sunset was especially pretty behind the mountains near the lake. Our tent overlooks Lake Coeur d’Alene. The campground has free hot showers and drinking water, so we were able to clean up and eat. I wish there were food options nearby (craving fruit juice currently). Luckily we are carrying enough food that we won’t be hungry and we’ll find something to eat tomorrow as we ride.
+The road did have a lot of logging trucks, but they tapered off around 4:00. There was generally no shoulder, but we were able to often go a little off-road when there was an approaching vehicle that was going to pass us at the same time one was coming from behind. As far as safety, it could have been a lot worse, but we were happy when it was over. We ended up at Heyburn State Park in a nice campsite. In fact, the camp host walked by and was amazed we were able to get this site last minute. They said this was the most popular site. It really is beautiful and quiet, surrounded by tall lodgepole pines, and the sunset was especially pretty behind the mountains near the lake. Our tent overlooks Lake Coeur d’Alene. The campground has free hot showers and drinking water, so we were able to clean up and eat. I wish there were food options nearby (craving fruit juice currently). Luckily we are carrying enough food that we won’t be hungry and we’ll find something to eat tomorrow as we ride.
 
 
 

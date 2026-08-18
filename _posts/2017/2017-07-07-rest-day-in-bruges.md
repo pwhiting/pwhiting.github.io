@@ -18,7 +18,7 @@ We did a boat ride tour first thing, around the many canals, and it was a perfec
 
 We've been sampling Belgian chocolate throughout the day (well... mostly I have been), and we also enjoyed some yummy raspberry and coconut sorbet and (of course) Belgian frites. 
 
-> Pete's comment: Natalie is to chocoholics what Otis on the Andy Griffiths show is to alcoholics. I think if we had a better way to keep chocolate on our bike from melting we'd be loaded down. We can keep one chocolate bar from melting by packing it in our CamelBak next to the bladder of cold water. We call it "the fridge."
+> Pete's comment: Natalie is to chocoholics what Otis on The Andy Griffith Show is to alcoholics. I think if we had a better way to keep chocolate on our bike from melting we'd be loaded down. We can keep one chocolate bar from melting by packing it in our CamelBak next to the bladder of cold water. We call it "the fridge."
 
 
 Another treat for me from Pete: we toured a local Belgian art museum (the Groeningemuseum). Art museums are not his thing, and while I am no art expert I do really enjoy many art museums. This one was really good but not too big. Very nice! Thanks Pete! 

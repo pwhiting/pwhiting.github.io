@@ -13,7 +13,7 @@ Monday morning started with a drive from Harrison to Hamilton. It was tough leav
   
 As we drove to Hamilton, backtracking some of our route, it was cool to see how far we had biked. We also had some really great conversations with Page and Vance. Upon arriving in Hamilton we were excited to get riding again and we were also grateful to find the truck in good condition where we had left it two weeks earlier.  
   
-We got ready to ride and rode the Bitterroot Trail for 30 miles back towards Missoula, before turnng around and riding back toward Hamilton. We   
+We got ready to ride and rode the Bitterroot Trail for 30 miles back towards Missoula, before turning around and riding back toward Hamilton. We   
 rode from about 4:00 to 9:00 PM. It was pretty warm, and we had a head wind going north which turned into a tail wind going south as we returned to Hamilton. We enjoyed riding through pretty farmland, small towns, and mountain scenery. We were on a dedicated bike path the whole way but were close to a highway with some traffic and its associated noise. The route was part of the same trail we had done 2 weeks ago.   
   
 Total miles today were 63.5 and our whole trip total ended up at just under 730.  

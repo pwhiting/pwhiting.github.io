@@ -9,17 +9,17 @@ categories: ['Pacific Northwest', 'pew']
 ---
 
 
-I said I was going to tell you about how we determined our route... Unfortunately we changed our route about every day over the last two weeks, so there wasn't a story to tell. I started with Kamoot - the routing software we use when riding in Europe. It is great, for Europe. Once I had my route figured out, I'd export it to a GPX file and then load it into google earth and do a fly-through in 3D of the entire route. It was a bit boring, but better than figuring out on our ride that we've made a bad selection. Each time I'd do this I'd find something majorly wrong with the route - like it would take us on a path that Komoot thought was asphalt and google earth/maps thought was a handcart trail. Komoot may be right, but it is hard to trust it.
+I said I was going to tell you about how we determined our route... Unfortunately we changed our route about every day over the last two weeks, so there wasn't a story to tell. I started with Komoot - the routing software we use when riding in Europe. It is great, for Europe. Once I had my route figured out, I'd export it to a GPX file and then load it into Google Earth and do a fly-through in 3D of the entire route. It was a bit boring, but better than figuring out on our ride that we've made a bad selection. Each time I'd do this I'd find something majorly wrong with the route - like it would take us on a path that Komoot thought was asphalt and Google Earth/Maps thought was a handcart trail. Komoot may be right, but it is hard to trust it.
 
 
 
 
-So next I started routing with google maps. It seemed to give me good results, but now I was comparing google maps to google earth, which unsurprisingly had a consistent view of the roads and bike paths. I needed another data source.
+So next I started routing with Google Maps. It seemed to give me good results, but now I was comparing Google Maps to Google Earth, which unsurprisingly had a consistent view of the roads and bike paths. I needed another data source.
 
 
 
 
-My last step was to start using Strava. It has a [global heatmap](https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/all) showing where people are actually riding. Using the heatmap I was able to see the places along my route that had very little traffic - which was a good warning sign. Additionally, Stava itself has a route generating function, which had the ability to avoid hills (something that is important to us) and incorporate the heatmap into path selection. This has seemed to be our best option for this ride.
+My last step was to start using Strava. It has a [global heatmap](https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/all) showing where people are actually riding. Using the heatmap I was able to see the places along my route that had very little traffic - which was a good warning sign. Additionally, Strava itself has a route generating function, which had the ability to avoid hills (something that is important to us) and incorporate the heatmap into path selection. This has seemed to be our best option for this ride.
 
 
 

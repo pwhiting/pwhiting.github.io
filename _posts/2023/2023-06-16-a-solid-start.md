@@ -24,7 +24,7 @@ It took a little bit over two hours to put together our bike. We couldn’t find
 
 
 
-We left the airport and rode for about 15 minutes before we were pulled over by the police. They thought we were complete nuts to be riding on the freeway with our bike, plus that's of course not allowed. In our defense, everywhere else we’ve ridden there has been a path from the airport. The police turned us around and made us walk it back to the airport. We consider a blessing that we didn't get a ticket. 
+We left the airport and rode for about 15 minutes before we were pulled over by the police. They thought we were completely nuts to be riding on the freeway with our bike, plus that's of course not allowed. In our defense, everywhere else we’ve ridden there has been a path from the airport. The police turned us around and made us walk it back to the airport. We consider it a blessing that we didn't get a ticket. 
 
 
 
@@ -39,7 +39,7 @@ Unfortunately, during the process of figuring out where we were actually going t
 
 
 
-Once we got going again, we realized our taxi driver was taking us pretty far away from our trail path. So I quickly booked a hotel and had him drop us there. It ended up not being the nicest hotel, but it's better than sleeping on the side of the road. There wasn't a place for us to store our bike assembled, but as it was already split in half for the taxi, they let us put it in a smaller room, where it will wait for us overnight. We’re recuperating from the first days adventure and will get the bike together tomorrow.
+Once we got going again, we realized our taxi driver was taking us pretty far away from our trail path. So I quickly booked a hotel and had him drop us there. It ended up not being the nicest hotel, but it's better than sleeping on the side of the road. There wasn't a place for us to store our bike assembled, but as it was already split in half for the taxi, they let us put it in a smaller room, where it will wait for us overnight. We’re recuperating from the first day’s adventure and will get the bike together tomorrow.
 
 
 

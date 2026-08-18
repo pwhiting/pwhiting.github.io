@@ -13,7 +13,7 @@ Goodbye and thank you Akureyri! It was great to spend a few days relaxing and re
 
 Because we were coming off two rest days and had decent weather/winds we pushed and completed 90 miles today with almost 4000 feet of climbing. The climbing came mostly in two sustained hills with grades around 6 percent peaking near 10 percent. We started the day with 3 big climbs left on our entire trip and completed two of them today. That is a good feeling. The last one comes on Wednesday.
 
-We had misty rain on and off throughout day. By the time we rolled into our campsite we were soaked with rain and sweat. The temperature was a bit below 50 and we quickly got chilled. Luckily this site has hot showers, which we made great use of. It was a little late to hit the local pool.
+We had misty rain on and off throughout the day. By the time we rolled into our campsite we were soaked with rain and sweat. The temperature was a bit below 50 and we quickly got chilled. Luckily this site has hot showers, which we made great use of. It was a little late to hit the local pool.
 
 Traffic was not horrible, but still busy. We actually had a rideable shoulder for some of the ride. We've rarely had that in Iceland. Our next two days will have difficult traffic with narrow shoulders.
 

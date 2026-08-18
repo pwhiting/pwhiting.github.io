@@ -29,12 +29,12 @@ We rode on rural surface streets from Mary and Zack’s house to the Rock Island
 
 
 
-The Rock Island Spur is a beautiful section of the Katy Trail going from Lee’s Summit to Windsdor, where it intersects the Katy Trail proper. The inclines and declines are gentle, which is normal for a rail trail. However, we found the inclines more difficult as the day wore on. This was partly due to our load, the heat, and this being our first ride with this heavy configuration. 
+The Rock Island Spur is a beautiful section of the Katy Trail going from Lee’s Summit to Windsor, where it intersects the Katy Trail proper. The inclines and declines are gentle, which is normal for a rail trail. However, we found the inclines more difficult as the day wore on. This was partly due to our load, the heat, and this being our first ride with this heavy configuration. 
 
 
 
 
-The trail here is so peaceful, and it was surrounded by beautiful green trees and fields. Much of it is shaded, which is great in the heat of the day. Occasionally it passed near small towns. It is so great to ride with zero cars. A couple of hours into our ride another tandem recumbent bike rode up next to us! This type is bike is very unusual, and only a few other times have we encountered another. So we stopped and visited and exchanged stories with the riders. We also took photos.
+The trail here is so peaceful, and it was surrounded by beautiful green trees and fields. Much of it is shaded, which is great in the heat of the day. Occasionally it passed near small towns. It is so great to ride with zero cars. A couple of hours into our ride another tandem recumbent bike rode up next to us! This type of bike is very unusual, and only a few other times have we encountered another. So we stopped and visited and exchanged stories with the riders. We also took photos.
 
 
 
@@ -44,7 +44,7 @@ Around 4 PM I started to feel the effects of the heat and our exertion and neede
 
 
 
-At this point progress was slow -- about half of our normal pace. Eventually we made it to Windsdor where we bought some simple snacks at a gas station and then headed out on our final leg to Clinton. The sun went down and our riding conditions improved as far as temperature goes, but we were tired. We do have an excellent headlight, powered by our bike, so we could navigate the trail just fine. The comet temperature was very helpful. Another plus of riding in the dark, especially for Natalie, was that we got to see myriad dancing fireflies all along the trail. This is magical and reminds Natalie of her childhood in Massachusetts as well as of our years together in Virginia and Kansas. However, at this point we struggled to keep up much of a pace and arrived in Clinton quite late. Our last couple of miles were on small-town rural roads in Clinton, but we have a very bright red rear flashing light as well, and the few cars that were out thankfully gave us plenty of space.
+At this point progress was slow -- about half of our normal pace. Eventually we made it to Windsor where we bought some simple snacks at a gas station and then headed out on our final leg to Clinton. The sun went down and our riding conditions improved as far as temperature goes, but we were tired. We do have an excellent headlight, powered by our bike, so we could navigate the trail just fine. The cooler temperature was very helpful. Another plus of riding in the dark, especially for Natalie, was that we got to see myriad dancing fireflies all along the trail. This is magical and reminds Natalie of her childhood in Massachusetts as well as of our years together in Virginia and Kansas. However, at this point we struggled to keep up much of a pace and arrived in Clinton quite late. Our last couple of miles were on small-town rural roads in Clinton, but we have a very bright red rear flashing light as well, and the few cars that were out thankfully gave us plenty of space.
 
 
 

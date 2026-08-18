@@ -9,7 +9,7 @@ categories: ['Paris to Frankfurt']
 ---
 
 
-We were able to leave our nice accommodation relatively early, on the road by 8 AM. Once again, our route was a combination of nice paved paths, dirt paths, and today we added a muddy construction zone. The construction zone was the most difficult and we probably were not supposed to be on it. It is where Komoot routed us, so we went with it. There were deep ruts from heavy equipment, which made it super difficult to ride. We tipped over once, but luckily we were were far enough away from the canal not to go for a swim. Gratefully this very hard part was only 1.6 miles 
+We were able to leave our nice accommodation relatively early, on the road by 8 AM. Once again, our route was a combination of nice paved paths, dirt paths, and today we added a muddy construction zone. The construction zone was the most difficult and we probably were not supposed to be on it. It is where Komoot routed us, so we went with it. There were deep ruts from heavy equipment, which made it super difficult to ride. We tipped over once, but luckily we were far enough away from the canal not to go for a swim. Gratefully this very hard part was only 1.6 miles.
 
 
 
@@ -19,7 +19,7 @@ Around 2:30 PM we found a really cool rest area near a large nuclear reactor. I 
 
 
 
-Our next challenge came around 4:30 PM. The skies opened up on us and we got drenched. We saw several bikers hunkered down under trees or others shelter, but because we didn't know how long the storm would last and we were only about an hour and a half away from our destination, we decided to ride through it. It was a bit of a slog. Mabey had we not stayed at the rest area so long we wouldn’t have had such a slog through the rain, but the rest area was worth it.
+Our next challenge came around 4:30 PM. The skies opened up on us and we got drenched. We saw several bikers hunkered down under trees or others shelter, but because we didn't know how long the storm would last and we were only about an hour and a half away from our destination, we decided to ride through it. It was a bit of a slog. Maybe had we not stayed at the rest area so long we wouldn’t have had such a slog through the rain, but the rest area was worth it.
 
 
 

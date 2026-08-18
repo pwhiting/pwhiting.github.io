@@ -23,12 +23,12 @@ The last ride day of a multi-week trip like this is often full of mixed emotions
 
 
 
-This segment of the trail has more climbing than most of the rest of the ride. That, combined with the wet trail conditions and our tired legs, required  additional mental and physical effort. This was also a day where there were few places to purchase food along the way. We only found two gas stations in which we could buy Gatorade and some small snacks, but we were very grateful for those. So on the feast-or-famine scale, this day was a little bit more toward famine. Luckily we had trail snacks with us, and we had eaten enough the day before to compensate. Plus we ate our last pickle mid-ride. Pickle magic!
+This segment of the trail has more climbing than most of the rest of the ride. That, combined with the wet trail conditions and our tired legs, required additional mental and physical effort. This was also a day where there were few places to purchase food along the way. We only found two gas stations in which we could buy Gatorade and some small snacks, but we were very grateful for those. So on the feast-or-famine scale, this day was a little bit more toward famine. Luckily we had trail snacks with us, and we had eaten enough the day before to compensate. Plus we ate our last pickle mid-ride. Pickle magic!
 
 
 
 
-As mentioned previously, the storm that hit the night before had left many trees down across the trail. We went over some, under some, and around some. We decided that on our next trip will need to pack a chainsaw. Haha 
+As mentioned previously, the storm that hit the night before had left many trees down across the trail. We went over some, under some, and around some. We decided that on our next trip we will need to pack a chainsaw. Haha 
 
 
 

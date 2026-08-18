@@ -32,7 +32,7 @@ We finally found a convenience store with a dill pickle. First one of the trip. 
 
 
 
-We climbed about 500 feet from the trail to our Airbnb, stopping about 3 miles before we arrived to get groceries for dinner. We always look forward to the opportunities we have to shift back towards diets that include fresh produce and unprocessed food. We ate at the grocery store, because that is how we roll, and then proceeded to suffer up the final long steep grade to our accomodations. 
+We climbed about 500 feet from the trail to our Airbnb, stopping about 3 miles before we arrived to get groceries for dinner. We always look forward to the opportunities we have to shift back towards diets that include fresh produce and unprocessed food. We ate at the grocery store, because that is how we roll, and then proceeded to suffer up the final long steep grade to our accommodations. 
 
 
 
@@ -42,7 +42,7 @@ Our Airbnb for our rest day is perfect -- so perfect we decided to add a second 
 
 
 
-While riding over the last few days it has progressively become more difficult to shift gears on our bike. When we arrived at the Airbnb one of the host met us and asked if we needed anything for our bike. Our bike is very unique and it was unlikely the local bike shop would have the part we needed, but he called them, they had the part, and he drove down and picked it up for us. Then he helped in the garage for about an hour as we installed the part. The fix isn't perfect because we need two more parts which are only available in a few places in the United States, but the situation is so much better than it was. Without his help we might have been riding with a single gear for the rest of our ride. We are so grateful for him. What are the chances we'd end up at a home that had just what we needed and a kind person willing to help?
+While riding over the last few days it has progressively become more difficult to shift gears on our bike. When we arrived at the Airbnb one of the hosts met us and asked if we needed anything for our bike. Our bike is very unique and it was unlikely the local bike shop would have the part we needed, but he called them, they had the part, and he drove down and picked it up for us. Then he helped in the garage for about an hour as we installed the part. The fix isn't perfect because we need two more parts which are only available in a few places in the United States, but the situation is so much better than it was. Without his help we might have been riding with a single gear for the rest of our ride. We are so grateful for him. What are the chances we'd end up at a home that had just what we needed and a kind person willing to help?
 
 
 

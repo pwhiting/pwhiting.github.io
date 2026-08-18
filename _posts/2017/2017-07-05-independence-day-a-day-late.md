@@ -9,7 +9,7 @@ modified: 2017-07-05 16:01:54
 categories: ['Amsterdam to Paris and back']
 ---
 
-(Pete today)  Today's ride was to Calais, a simple 50 miles jaunt to the North. When you are skilled at navigating as I am you don't need a GPS, so today we decided to declare our Independence from the oppressive GPS directions lady. Using my carefully honed scouting skills, I identified a way to get around the only significant obstacle we faced today: a half-mile climb maxing out around at around a 14% grade.
+(Pete today)  Today's ride was to Calais, a simple 50-mile jaunt to the North. When you are skilled at navigating as I am you don't need a GPS, so today we decided to declare our Independence from the oppressive GPS directions lady. Using my carefully honed scouting skills, I identified a way to get around the only significant obstacle we faced today: a half-mile climb maxing out at around a 14% grade.
 
 It was beautiful riding out of Berck this morning. If you want to spend time at a less crowded beach in France, Berck may be your ticket. Granted, we were there mid-week. We meandered along the coast until the trail ended.
 
@@ -17,7 +17,7 @@ Early in our ride nature made her morning call, so we went through the normal ga
 
 The next few hours went about the same, with several visits to beach towns, although none as charming as Berck. 
 
-> Natalie adding: towns such as Boulogne-sur-mer and Wimereux. Today we were also able to see England on the distant horizon across the channel, from near a little town called Wissant. That was neat!
+> Natalie adding: towns such as Boulogne-sur-Mer and Wimereux. Today we were also able to see England on the distant horizon across the channel, from near a little town called Wissant. That was neat!
 
 
 The final segment of our trip provided me with my chance to shine. Shifting our route to the east to avoid the big climb brought us into beautiful farmland with distant views of the sea. This little detour added about 5 miles to a trip that had already grown by 20%. Unfortunately this route had a couple nasty climbs of its own, each similar to the one we were avoiding. Climbing these on a big, heavy, tandem bike hurts. There is no better description. Lots of lactic acid! As we rode to the end of my bypass route we were greeted by the start of another climb - the one that we were trying to avoid. It must have moved. We had no choice but to ride it. So my routing basically tripled our pain. 

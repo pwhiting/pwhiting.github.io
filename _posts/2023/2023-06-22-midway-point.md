@@ -34,22 +34,22 @@ At one point early on we were routed to a farm road to forest road to closed for
 
 
 
-The ride was quite pleasant – about 76 miles mostly on a gentle uphill slope. More that ⅔ of the ride was on cycleway which is much more relaxing than roads with cars.
+The ride was quite pleasant – about 76 miles mostly on a gentle uphill slope. More than ⅔ of the ride was on cycleway which is much more relaxing than roads with cars.
 
 
 
 
-The locks and canals are fascinating. And we didn't realize how many there are in this region at least. The French equivalent of an old American in a blue one-piece Winnebago suit driving a motor home is a French couple in khaki pants and white sailors hats driving a barge mobile home slowly up and down the canals. Seems like you can get almost anywhere using these boats. There are times, sweat soaked and sticky from sunscreen, I wonder if we’re doing this wrong…. 
+The locks and canals are fascinating. And we didn't realize how many there are in this region at least. The French equivalent of an old American in a blue one-piece Winnebago suit driving a motor home is a French couple in khaki pants and white sailors' hats driving a barge mobile home slowly up and down the canals. Seems like you can get almost anywhere using these boats. There are times, sweat soaked and sticky from sunscreen, I wonder if we’re doing this wrong…. 
 
 
 
 
-Lunch was a grab and go from a grocery store. We probably drank a combined two liters of banana smoothie, red sugar water in a can, and chocolate milk. Then we smacked on Pringles for the next few hours (haha, so healthy). We down so much liquid during the day and whenever we arrive at out destination we keep on chugging. Perrier seems to be our favorite, but we appreciate variety. Dinner was from a grocery store and baker (an orange, canned peaches, super delicious veggie pizza and equally delicious veggie sandwich on a baguette, followed by favorite chocolate dessert drink), and we bought food for breakfast while we were at it.
+Lunch was a grab and go from a grocery store. We probably drank a combined two liters of banana smoothie, red sugar water in a can, and chocolate milk. Then we snacked on Pringles for the next few hours (haha, so healthy). We down so much liquid during the day and whenever we arrive at our destination we keep on chugging. Perrier seems to be our favorite, but we appreciate variety. Dinner was from a grocery store and bakery (an orange, canned peaches, super delicious veggie pizza and equally delicious veggie sandwich on a baguette, followed by favorite chocolate dessert drink), and we bought food for breakfast while we were at it.
 
 
 
 
-Tonight we are in the 4th floor of a townhouse built in the 1940s. It is small but comfortable. It is tastefully remodeled. We wish it had an air conditioner, and because it is raining now we can’t keep the windows open – but what a luxury to be out of the rain. The forecast had us slated for a monsoon mid-ride today. It rained hard for less than an hour and we arrived mostly dry (not counting the sweat). 
+Tonight we are on the fourth floor of a townhouse built in the 1940s. It is small but comfortable. It is tastefully remodeled. We wish it had an air conditioner, and because it is raining now we can’t keep the windows open – but what a luxury to be out of the rain. The forecast had us slated for a monsoon mid-ride today. It rained hard for less than an hour and we arrived mostly dry (not counting the sweat). 
 
 
 

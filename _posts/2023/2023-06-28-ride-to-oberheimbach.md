@@ -34,7 +34,7 @@ They gave us smoothies and trail mix which seemed to power the next 6 hours of o
 
 
 
-Our ride today was along the Rhein, but for the most part our trail was positioned such that we couldn’t see it. However, the countryside was beautiful and we mostly could ride in bike trails.
+Our ride today was along the Rhein, but for the most part our trail was positioned such that we couldn’t see it. However, the countryside was beautiful and we mostly could ride on bike trails.
 
 
 

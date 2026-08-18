@@ -8,7 +8,7 @@ modified: 2017-04-22 00:12:52
 categories: ['misc']
 ---
 
-Last night we drove to Cedar City and stayed at accomodations booked via Airbnb. First time experience with Airbnb. The host family was a young couple with two small kids and were welcoming and easy to work with. We didn't know what to expect, but so far so good.
+Last night we drove to Cedar City and stayed at accommodations booked via Airbnb. First time experience with Airbnb. The host family was a young couple with two small kids and were welcoming and easy to work with. We didn't know what to expect, but so far so good.
 
 This morning we left around 9 and had a completely different experience than our last ride. For starters we had a strong tailwind for most of the day. Although we're going to tell you some things we think we did better, all credit might go to the wind.
 
@@ -26,7 +26,7 @@ For lunch today we ate at a little diner in Enterprise. Classic diner. Not many 
 
 We are staying at another Airbnb tonight, and in this case we have the whole house. There is no restaurant - not even a gas station - so we are cooking a backpacking dinner tonight. Nothing says romantic dinner like Mountain House.
 
-We are tired but happy. This is an out and back, so tomorrow we retrace our steps with slightly more vertical gain.
+We are tired but happy. This is an out-and-back, so tomorrow we retrace our steps with slightly more vertical gain.
 ![](https://whitingpt.files.wordpress.com/2017/04/img_20170421_140715938.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/04/img_20170421_101024961.jpg)
 ![](https://whitingpt.files.wordpress.com/2017/04/img_20170421_151959158_hdr.jpg)

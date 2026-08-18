@@ -16,7 +16,7 @@ We arrived at our accommodations, another campsite at Hawley’s Landing at Heyb
 
 The campsite has hot showers, and when one can’t soak in a hot tub, taking a long hot shower is a nice consolation prize.
 
-Our tent is set, birds are singing, and it is time up cook dinner. This is heaven.
+Our tent is set, birds are singing, and it is time to cook dinner. This is heaven.
 
 [Here](https://photos.app.goo.gl/iC7C8hppc8CYhJkCA) are some photos from the day.
 

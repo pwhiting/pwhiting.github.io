@@ -18,7 +18,7 @@ We had a few sections of road with a rideable shoulder again, which was very nic
 
 Terrain was similar to yesterday: hills, green valleys and farms, and rivers, with some last views of the northern ocean fjords. Beautiful. But we did not have any crazy steep long hills today!! Yesssssss. That felt great. Lots of small ones but none that were painfully steep or long.
 
-We are in a "self-check-in hotel" tonight, in an area not really close to any particular town. The accomodations are old and simple yet clean, and include breakfast. It was very cheap compared to other places we've stayed indoors so far. We used a tea kettle to boil water for our backpacking food and ate in the big room where we'll have breakfast tomorrow. The hotel is full or almost so. This country is so busy with tourists and local vacationers.
+We are in a "self-check-in hotel" tonight, in an area not really close to any particular town. The accommodations are old and simple yet clean, and include breakfast. It was very cheap compared to other places we've stayed indoors so far. We used a tea kettle to boil water for our backpacking food and ate in the big room where we'll have breakfast tomorrow. The hotel is full or almost so. This country is so busy with tourists and local vacationers.
 
 We are tired, probably mostly from our longer day yesterday. We have showered, eaten, rehydrated, and hung up all our damp clothing. We will probably sleep well, as has happily been our norm this trip!
 

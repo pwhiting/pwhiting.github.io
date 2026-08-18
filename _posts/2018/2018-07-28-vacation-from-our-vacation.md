@@ -9,9 +9,9 @@ modified: 2018-07-28 00:16:51
 categories: ['Iceland']
 ---
 
-One more note about last night before writing about today. Quite late we decided to go see the waterfalls that were literally across the road from our guesthouse at Godafoss. They are spectacular! They really are like a mini Niagara Falls. Beautiful.
+One more note about last night before writing about today. Quite late we decided to go see the waterfalls that were literally across the road from our guesthouse at Goðafoss. They are spectacular! They really are like a mini Niagara Falls. Beautiful.
 
-Today we rode into Akureyri today. It was only 32 miles, but two miles in the middle made us pay! We pushed our bike up a 6-8 percent grade for about an hour. It is possible we could have tried to ride up it, but by pushing our bike we were a little more safe. Trying to balance this bike while fully exerting ourselves with zero shoulder (literally no shoulder) inevitably means we swerve. By pushing we were able to maintain a straight line. We were still run off the road once by a car coming towards us passing another car. Our definite least favorite thing about this trip has been the traffic.
+Today we rode into Akureyri. It was only 32 miles, but two miles in the middle made us pay! We pushed our bike up a 6-8 percent grade for about an hour. It is possible we could have tried to ride up it, but by pushing our bike we were a little safer. Trying to balance this bike while fully exerting ourselves with zero shoulder (literally no shoulder) inevitably means we swerve. By pushing we were able to maintain a straight line. We were still run off the road once by a car coming towards us passing another car. Our definite least favorite thing about this trip has been the traffic.
 
 The weather was good. Sunny and blue skies! Tailwind for the first half of our ride, headwind for the second half. Seems fair.
 

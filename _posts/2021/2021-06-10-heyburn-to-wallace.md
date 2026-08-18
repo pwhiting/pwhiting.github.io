@@ -20,7 +20,7 @@ An observation: our lives are so busy and schedule-driven it is hard to mentally
 We left the campground about 9:30 AM. We kept thinking it would rain on us so we were prepared for it, but the rain didn’t come. It was nicely overcast for the majority of today's ride.
 
 
-The Trail of the Coeur d'Alenes is awesome. The trail is paved the whole way and is railroad grade, so even though we were riding uphill all day, it was hardly noticeable. The pilings used to create the original railroad bed were contaminated mine pilings (the contamination wasn’t understood at the time), and when they decided to try to rectify the problem the most efficient way to do it was to seal them in with asphalt. The result was a beautiful trail.
+The Trail of the Coeur d'Alenes is awesome. The trail is paved the whole way and is railroad grade, so even though we were riding uphill all day, it was hardly noticeable. The tailings used to create the original railroad bed were contaminated mine tailings (the contamination wasn’t understood at the time), and when they decided to try to rectify the problem the most efficient way to do it was to seal them in with asphalt. The result was a beautiful trail.
 
 
 It is extra peaceful to be able to ride without having to pay attention to (worry about) cars. The 60 miles seemed to fly by. We could have kept riding when we arrived in Wallace. We are excited to do this same trail again with Page and Vance on Saturday.

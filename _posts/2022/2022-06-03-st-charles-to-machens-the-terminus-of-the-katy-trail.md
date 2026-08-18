@@ -19,12 +19,12 @@ We rode almost 13 miles east, first through quaint old downtown St Charles, and 
 
 
 
-Overall trail note: we have seen a LOT of black snakes, turtles, squirrels, birds, and one tick. Knock on wood – not too many bugs. Mosquitos at times are a bit annoying, but not too bad overall.
+Overall trail note: we have seen a LOT of black snakes, turtles, squirrels, birds, and one tick. Knock on wood – not too many bugs. Mosquitoes at times are a bit annoying, but not too bad overall.
 
 
 
 
-As we finished our total of 27 miles for the day, arriving back in St Charles, we decided to celebrate accomplishing the eastern portion of our journey by eating at PF Chang's. We had a huge long slow lunch, and drank lots of Diet Coke. Then we rode back to the hotel. We were cleaned up and relaxing by 4. 
+As we finished our total of 27 miles for the day, arriving back in St Charles, we decided to celebrate accomplishing the eastern portion of our journey by eating at P.F. Chang's. We had a huge long slow lunch, and drank lots of Diet Coke. Then we rode back to the hotel. We were cleaned up and relaxing by 4. 
 
 
 

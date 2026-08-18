@@ -8,7 +8,7 @@ modified: 2018-07-22 21:21:36
 categories: ['Iceland']
 ---
 
-Today we took a much needed day of rest in Höfn. We moved from our hotel to a campground at noon and then attended a small local church with about 10 others. Siggi had contacted the pastor yesterday to find out the time they hold their service. In a town this small, everyone knows everyone. It is delightful.
+Today we took a much-needed day of rest in Höfn. We moved from our hotel to a campground at noon and then attended a small local church with about 10 others. Siggi had contacted the pastor yesterday to find out the time they hold their service. In a town this small, everyone knows everyone. It is delightful.
 
 I've been thinking about the drivers who pass us too fast and too close. I think an appropriate punishment for a crime like that would be to be sentenced to ride with me for an hour. They'd certainly gain a first-hand appreciation of the perils of biking with these narrow shoulders and I'd probably get a chance to know them better and understand why they are in such a hurry. We'd both win. Although Natalie might argue that being on a bike with me violates some human rights fundamental - it could be considered cruel and unusual punishment.
 

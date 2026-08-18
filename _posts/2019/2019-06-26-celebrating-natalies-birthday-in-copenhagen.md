@@ -12,7 +12,7 @@ categories: ['Gothenburg to Amsterdam']
 
 We slept medium well in the campsite last night. It was better than wild camping as having a toilet and shower made a huge difference. We were definitely ready to stay in an Airbnb again.
 
-We started riding a bit late and took our time. Our old bodies were feeling the effect of the previous 2 days. I think the sun beating down on us as we exert ourselves is probably draining us the most. Luckily today's ride was short -- 20 miles from where we camped (Niva) to Copenhagen. It was unseasonably warm today, apparently, about mid 80sF. As we rode along the road by the beach, we found a little ice cream stand with some kind of delicious berry sorbet! Just what we needed.
+We started riding a bit late and took our time. Our old bodies were feeling the effect of the previous 2 days. I think the sun beating down on us as we exert ourselves is probably draining us the most. Luckily today's ride was short -- 20 miles from where we camped (Nivå) to Copenhagen. It was unseasonably warm today, apparently, about mid 80sF. As we rode along the road by the beach, we found a little ice cream stand with some kind of delicious berry sorbet! Just what we needed.
 
 Natalie spotted an interesting looking healthy fast food place as we rode into the outskirts of Copenhagen. It was called KCAL Factory. She had an amazing salad and I had an avocado sandwich. I realize we were famished, hot, and tired -- but I think it might have been the best meal we've had on one of these rides. Perfect, as today is Natalie's birthday.
 

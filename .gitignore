@@ -1,3 +1,7 @@
 _site
 .sass-cache
 .DS_Store
+
+# Local book project (LaTeX build, downloaded photo cache, machine-specific indexes).
+# Not published: contains a 196MB PDF and references to the local file server.
+book/

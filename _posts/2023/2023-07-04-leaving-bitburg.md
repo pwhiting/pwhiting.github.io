@@ -8,12 +8,12 @@ categories: ['Paris to Frankfurt']
 ---
 
 
-We let our blog slip a bit while we focused on Matt, Jessica, and their family. It was so much fun to be with them in their home in Bitburg,Germany. We arrived at their house on Friday afternoon and had a tour of their fun house, watched the boys' creative pulley adventures in the backyard, got to know little Jaine, cleaned up and stuff laundry, and just enjoyed hanging out. 
+We let our blog slip a bit while we focused on Matt, Jessica, and their family. It was so much fun to be with them in their home in Bitburg, Germany. We arrived at their house on Friday afternoon and had a tour of their fun house, watched the boys' creative pulley adventures in the backyard, got to know little Jaine, cleaned up and stuff laundry, and just enjoyed hanging out. 
 
 
 
 
-Saturday was spent at soccer practices, eating great food (including something called spaghetti ice cream), and mostly just spending time with people we love. (Note from Natalie: Pete also spent time doing a few bike repairs for them and helping them get ready for our bike adventure together Monday and Tuesday – see below.) Their children are so impressive in how kind they treat each other, and how much they enjoy being with one another. It seems atypical for teenagers to like each other so much. And Jaine is absolutely adorable! Saturday evening we had a fun Thai dinner date. We enjoy talking to Matt and Jessica.
+Saturday was spent at soccer practices, eating great food (including something called spaghetti ice cream), and mostly just spending time with people we love. (Note from Natalie: Pete also spent time doing a few bike repairs for them and helping them get ready for our bike adventure together Monday and Tuesday – see below.) Their children are so impressive in how kindly they treat each other, and how much they enjoy being with one another. It seems atypical for teenagers to like each other so much. And Jaine is absolutely adorable! Saturday evening we had a fun Thai dinner date. We enjoy talking to Matt and Jessica.
 
 
 
@@ -38,12 +38,12 @@ Our tents were near a few other bikers, some of whom were interested in our uniq
 
 
 
-We said goodbye to Matt and boys as they headed back home to Bitburg and we began our 3-day ride to Frankfurt. As Natalie and I left the campground and right away hit a hill (which we had to slow down for because walkers were taking up the entire trail) an elderly gentleman, maybe in his eighties, saw how hard we were pedaling and ran up behind us and pushed on our bike until we reached the top! Trail angels come in many forms!
+We said goodbye to Matt and the boys as they headed back home to Bitburg and we began our 3-day ride to Frankfurt. As Natalie and I left the campground and right away hit a hill (which we had to slow down for because walkers were taking up the entire trail) an elderly gentleman, maybe in his eighties, saw how hard we were pedaling and ran up behind us and pushed on our bike until we reached the top! Trail angels come in many forms!
 
 
 
 
-The beauty of the ride today (Tuesday, Happy Fourth of July, America!) was amazing. I think we saw more bikers today than we've seen in all of the other days of our travel here this time combined. The trail we are on is super popular, which made it super crowded. But it is popular for a reason. We were riding near the Mosel River most of the time and can see it for much of the time. We generally were on dedicated bike paths, with occasional short opportunities to share the road with cars, but often still in a dedicated bike lane.
+The beauty of the ride today (Tuesday, Happy Fourth of July, America!) was amazing. I think we saw more bikers today than we've seen in all of the other days of our travel here this time combined. The trail we are on is super popular, which made it super crowded. But it is popular for a reason. We were riding near the Mosel River most of the time and could see it for much of the time. We generally were on dedicated bike paths, with occasional short opportunities to share the road with cars, but often still in a dedicated bike lane.
 
 
 

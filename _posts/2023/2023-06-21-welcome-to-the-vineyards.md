@@ -9,7 +9,7 @@ categories: ['Paris to Frankfurt']
 ---
 
 
-Last night’s Airbnb was super comfortable. It blackout shutters, great air conditioning, and a bed with just the right firmness. It was very quiet there too. We both slept very well. Tonight’s Airbnb is crazy modern super nice finish apartment in downtown Beaune, which happens to be hosting a music festival tonight. Tonight might be like trying to sleep in the middle of a rock concert. Seriously, it is so noisy!!!! We are hopeful it ends at 10.
+Last night’s Airbnb was super comfortable. It had blackout shutters, great air conditioning, and a bed with just the right firmness. It was very quiet there too. We both slept very well. Tonight’s Airbnb is crazy-modern, super-nice-finish apartment in downtown Beaune, which happens to be hosting a music festival tonight. Tonight might be like trying to sleep in the middle of a rock concert. Seriously, it is so noisy!!!! We are hopeful it ends at 10.
 
 
 
@@ -19,12 +19,12 @@ The bike ride was a bit over 70 miles, about 20 miles shorter than yesterday, wi
 
 
 
-Today we progressed from riding along beautiful canals to riding through beatiful grape vineyards and the surrounding towns that support them. It is much more hilly, but the change of scenery was nice. There were beautiful grape vineyards as far as we could see for literally a couple of hours late in our ride.
+Today we progressed from riding along beautiful canals to riding through beautiful grape vineyards and the surrounding towns that support them. It is much more hilly, but the change of scenery was nice. There were beautiful grape vineyards as far as we could see for literally a couple of hours late in our ride.
 
 
 
 
-We had a pizza for lunch, and 1.3 liters of sparkling water and flavored water (basically orange kool aid, but my new favorite). Having adequate nutrition and hydration made the second half of the day much better.
+We had a pizza for lunch, and 1.3 liters of sparkling water and flavored water (basically orange Kool-Aid, but my new favorite). Having adequate nutrition and hydration made the second half of the day much better.
 
 
 

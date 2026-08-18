@@ -8,7 +8,7 @@ modified: 2017-07-08 20:46:00
 categories: ['Amsterdam to Paris and back']
 ---
 
-(Pete writing) Today's ride from Brugge to Antwerp was much easier than the ride from Calais to Brugge. It helped that it was about 10 miles shorter (66 miles) and that we had rested and that we had the wind at our backs. The trails were good, with a few well groomed single tracks, and the weather was almost perfect at 75 degrees. Because it was a Saturday, we saw a lot more bikers.
+(Pete writing) Today's ride from Bruges to Antwerp was much easier than the ride from Calais to Bruges. It helped that it was about 10 miles shorter (66 miles) and that we had rested and that we had the wind at our backs. The trails were good, with a few well groomed single tracks, and the weather was almost perfect at 75 degrees. Because it was a Saturday, we saw a lot more bikers.
 
 Riding in Belgium and Holland requires a stable ego. Imagine riding along in your spandex kit, on an expensive engineering masterpiece, working hard, high heart rate, sweat dripping off your face, only to be passed by a 70-year-old lady on a 3-speed wearing a skirt, sitting straight up in the least dynamic position possible, with a big front bike basket where her dog is sitting, and she's toodling along with no more exertion on her face than she does when playing bridge and drinking tea. I find it best in such situations to pretend I'm lost. 
 
@@ -23,7 +23,7 @@ Our house tonight is another Airbnb. This one we don't have to share with the ow
 
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_101039809-1.jpg)Another lovely bike path along a canal
 
-![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_141517634_hdr1.jpg)Our bike![/caption]
+![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_141517634_hdr1.jpg)Our bike
 
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_110554462-1.jpg)This is what part of our route looked like today
 ![](https://whitingpt.files.wordpress.com/2017/07/img_20170708_121444301_hdr.jpg)Very big jump

@@ -13,13 +13,13 @@ Many have asked us how we transport this awkwardly-sized bike.  That has been a
 
 [![](https://whitingpt.files.wordpress.com/2017/06/screenshot_20170621-084148.png)](https://whitingpt.files.wordpress.com/2017/06/screenshot_20170621-084148.png)
 
-We started by taking it apart in the middle, folding it, and lugging it into the back of our truck. This had a few drawbacks. First, it wasted a little time before and after each ride. Second, it seemed to put stain on the cables that route below the frame. Third, it was a pain in the rear.
+We started by taking it apart in the middle, folding it, and lugging it into the back of our truck. This had a few drawbacks. First, it wasted a little time before and after each ride. Second, it seemed to put strain on the cables that route below the frame. Third, it was a pain in the rear.
 
 ![](https://whitingpt.files.wordpress.com/2017/06/img_20170211_170504944_hdr.jpg)
 
 Then Eric came to visit. Whenever Eric is around everyone's redneck game improves a bit. Nothing says "high class bike rack" like a few 2x4s. We drove to Lowe's to buy the wood and couldn't stop changing the design all along the way. It is a good thing we don't live closer to each other. Our neighbor's property value would be impacted.
 
-This design was ok, but it was heavy and awkward - like our bike. When we would park the truck and take our bike out, we would have to leave a long board poking out the back. It didn't fit with the yuppy biker vibe at the local trailhead. It did seem extra long for some reason. More of the board was outside the truck bed than was inside. It also was about an inch too high which would cause the redneck neck rests to hit the garage door when pulling in. But it worked.
+This design was ok, but it was heavy and awkward - like our bike. When we would park the truck and take our bike out, we would have to leave a long board poking out the back. It didn't fit with the yuppie biker vibe at the local trailhead. It did seem extra long for some reason. More of the board was outside the truck bed than was inside. It also was about an inch too high which would cause the redneck neck rests to hit the garage door when pulling in. But it worked.
 
 [![](https://whitingpt.files.wordpress.com/2017/06/img_20170218_1612158241.jpg)](https://whitingpt.files.wordpress.com/2017/06/img_20170218_1612158241.jpg)
 

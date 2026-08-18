@@ -13,7 +13,7 @@ Some of the things we learned:
 1. Headwinds with panniers create significant exhaustion.
 2. Hills on a heavily loaded tandem recumbent hurt - we already knew this, we just relearned it really well.
 3. We can do this - we just need to accept a slow pace and churn out the miles.
-4. We need a lot of water - we came super close to running out on our first day and that seemed to effect us a lot.
+4. We need a lot of water - we came super close to running out on our first day and that seemed to affect us a lot.
 
 
 We highly recommend the route. On a road bike it could be done in one long day (especially if you start closer to Eagle Mountain). The shoulders are reasonable for much of the ride and for the parts where a shoulder didn't exist the traffic was light.

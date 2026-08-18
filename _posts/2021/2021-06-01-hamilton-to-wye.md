@@ -14,7 +14,7 @@ categories: ['Pacific Northwest', 'pew']
 
 
 
-We started our vacation by driving to Idaho Falls and staying with Michelle and Heidi. Eric was in Kansas helping Dan with a broken down truck which was towing their moving trailer. Natalie and Michelle talked until late and I soaked in their hot tub -- my happy place. It was fun to reconnect with part of the Idaho clan.
+We started our vacation by driving to Idaho Falls and staying with Michelle and Heidi. Eric was in Kansas helping Dan with a broken-down truck which was towing their moving trailer. Natalie and Michelle talked until late and I soaked in their hot tub -- my happy place. It was fun to reconnect with part of the Idaho clan.
 
 
 
@@ -35,7 +35,7 @@ We woke up early today and drove to Hamilton, Montana, leaving our truck at the 
 ![](https://rode.whitings.org/wp-content/uploads/2021/06/img_1094-957x1024.jpg)Our setup now includes bear spray on the front fork.
 
 
-A local rider stopped to talk to us in the parking lot. He lead us through town to the start of our trail. Several times on our trips we have had locals play the part of our guardian angels. Once in Iceland a local rider riding late at night helped us avoid a rough section of trail. In Paris a local guided us through rush-hour as we tried to exit the city. We are always so grateful for these friendly helpers. 
+A local rider stopped to talk to us in the parking lot. He led us through town to the start of our trail. Several times on our trips we have had locals play the part of our guardian angels. Once in Iceland a local rider riding late at night helped us avoid a rough section of trail. In Paris a local guided us through rush-hour as we tried to exit the city. We are always so grateful for these friendly helpers. 
 
 
 
@@ -66,7 +66,7 @@ I was kind of disappointed in the quality of our room until Natalie reminded me 
 ![](https://rode.whitings.org/wp-content/uploads/2021/06/PXL_20210531_231029199-1-scaled.jpg)Bike in the room
 
 
-We made camp food in the parking lot, due to being equal parts lazy and cheap. It was delicious: minute rice, freeze dried vegetable mix, and a veggie bullion cube. It is amazing how good food tastes after a long ride.
+We made camp food in the parking lot, due to being equal parts lazy and cheap. It was delicious: minute rice, freeze dried vegetable mix, and a veggie bouillon cube. It is amazing how good food tastes after a long ride.
 
 
 

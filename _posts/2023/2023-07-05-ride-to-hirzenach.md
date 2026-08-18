@@ -29,7 +29,7 @@ We rode along the trail with the Mosel River to our right and steep mountains co
 
 [video](https://photos.app.goo.gl/2SQtx34GZ5nwDizi9)
 
-We made it to Koplenz a little after noon and Komoot routed us nicely through the outskirts of the city, taking us across the Mosel (goodbye Mosel) and over to the Rhein/Rhine. The section along the Mosel might be the most outstanding of any of our trips. Beautiful peaceful bike paths and dedicated bike lanes. Beautiful views. The only downside is there were so many other riders and cars. We’ve grown to love the seclusion of some of our routes, going hours without seeing anyone.
+We made it to Koblenz a little after noon and Komoot routed us nicely through the outskirts of the city, taking us across the Mosel (goodbye Mosel) and over to the Rhine. The section along the Mosel might be the most outstanding of any of our trips. Beautiful peaceful bike paths and dedicated bike lanes. Beautiful views. The only downside is there were so many other riders and cars. We’ve grown to love the seclusion of some of our routes, going hours without seeing anyone.
 
 
 
@@ -39,12 +39,12 @@ The lack of seclusion created a new challenge: fewer opportunities to “get rid
 
 
 
-We stopped at a grocery store a few miles before our airbnb in Hirzenach. (We had figured out yesterday that there were no food options near where we were staying.) For the next few miles we rode with Natalie carrying a backpack full of dinner groceries backwards on her front. It was amazing to look at that load of food, which completely filled our backpack, and realize it would be inside us by nightfall. I think we take for granted the abundance of food we enjoy as well as the lack of food anxiety. We never worry if we’ll go hungry. For so much of the world’s population this isn’t the case.
+We stopped at a grocery store a few miles before our Airbnb in Hirzenach. (We had figured out yesterday that there were no food options near where we were staying.) For the next few miles we rode with Natalie carrying a backpack full of dinner groceries backwards on her front. It was amazing to look at that load of food, which completely filled our backpack, and realize it would be inside us by nightfall. I think we take for granted the abundance of food we enjoy as well as the lack of food anxiety. We never worry if we’ll go hungry. For so much of the world’s population this isn’t the case.
 
 
 
 
-We are resting in our airbnb overlooking the Rhine. It is such a beautiful view. We have a train track between us and the river and are getting a lot of noise from frequently passing trains. I was experiencing FOMO thinking we should have been on the other side of the river where it would be quiet, and then Natalie pointed out that there were trains on that side also.
+We are resting in our Airbnb overlooking the Rhine. It is such a beautiful view. We have a train track between us and the river and are getting a lot of noise from frequently passing trains. I was experiencing FOMO thinking we should have been on the other side of the river where it would be quiet, and then Natalie pointed out that there were trains on that side also.
 
 
 

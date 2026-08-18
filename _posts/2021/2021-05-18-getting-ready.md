@@ -14,7 +14,7 @@ After a year off, we are getting ready for our next adventure.
 
 
 
-We had planned to ride from Munich to Budapest during the summer of 2020, but COVID kind of messed things up… We considered doing a ride in the Northwest, but in an effort to reduce the likelihood we could be the source of spreading it, we stayed at home and rode the trails near us. This year we are vaccinated and situation is looking much better. Unfortunately, we didn’t have enough time to re-plan our European trip, so we are going to go explore the beauty of the American Northwest.
+We had planned to ride from Munich to Budapest during the summer of 2020, but COVID kind of messed things up… We considered doing a ride in the Northwest, but in an effort to reduce the likelihood we could be the source of spreading it, we stayed at home and rode the trails near us. This year we are vaccinated and the situation is looking much better. Unfortunately, we didn’t have enough time to re-plan our European trip, so we are going to go explore the beauty of the American Northwest.
 
 
 
@@ -24,7 +24,7 @@ This year we will be sporting a new addition… Natalie’s brother Vance and hi
 
 
 
-We did a short two-day ride with Page and Vance last weekend. One of the cool logistical challenges we faced was fitting both of these crazy bikes in on vehicle. Luckily Harbor Freight (hitch rack) and the classifieds (wheel trays) came through and we were able to rig something up.
+We did a short two-day ride with Page and Vance last weekend. One of the cool logistical challenges we faced was fitting both of these crazy bikes in one vehicle. Luckily Harbor Freight (hitch rack) and the classifieds (wheel trays) came through and we were able to rig something up.
 
 
 

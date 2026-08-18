@@ -13,13 +13,13 @@ The inland route (from before they built the tunnel into Reykjavik) was beautifu
 
 We had almost finished this segment by 8 PM when we started talking about just finishing the loop and heading back to route 1 to Reykjavik even though it would increase our mileage for the day up to 100. There were several factors:
 1. The weather had improved and the winds were dying down.
-2. We were running out of food and facing the possibility of having to eat a cucumber, cliff bar, and perpetuem for breakfast -- yum!
+2. We were running out of food and facing the possibility of having to eat a cucumber, Clif Bar, and Perpetuem for breakfast -- yum!
 3. There is a big holiday coming up which was going to pack the outbound lanes, which makes it harder for people coming up behind us to safely pass -- getting in front of the holiday made sense.
 4. The mountain road we intended to take was under construction -- we had happened to meet an experienced local cyclist coming off of it on a gravel bike and he said it was even difficult for him to get through.
 5. We would be hitting route 1 after 9 PM and thought traffic might be better that late.
 
 
-So we changed our minds again and made for Reykjavik via route 1. There was still a lot of traffic, but definitely less than at 4-5 PM when we'd been on it earlier, and we also had a small shoulder that helped a ton. As we got closer to Reykjavik we even rode on a bike path. We were baked by this point. We lucked out and found a 24-hour grocery store, so we could provision breakfast. We drug our worn out bodies into the campground around midnight.
+So we changed our minds again and made for Reykjavik via route 1. There was still a lot of traffic, but definitely less than at 4-5 PM when we'd been on it earlier, and we also had a small shoulder that helped a ton. As we got closer to Reykjavik we even rode on a bike path. We were baked by this point. We lucked out and found a 24-hour grocery store, so we could provision breakfast. We dragged our worn-out bodies into the campground around midnight.
 
 The plan was to eat dinner, but neither of us had the energy to even open a bag of chips. We ate a few fresh tomatoes (bought much earlier that day in a village) and crashed. We slept solidly.
 

@@ -12,7 +12,7 @@ Pete again...  If your trip through Europe doesn't include the GPS directions la
 
 Today we woke up and had a big breakfast. The biggest yet. Our bnb hosts went out of their way to accommodate our crazy diets and we had also shopped for breakfast for all four of us, so by the time we were done eating we were stuffed. We said goodbye to our new friends in Guignicourt and headed for Compiègne about 60 miles away.
 
-Today's route took us through parts of France that few tourists and perhaps few locals see. At one point we were riding across fields on the paths the farmers use for their farm equipment. Another time we popped out of some trees on a non-trail behind some workers running heavy equipment loading barges. In all cases we'd wave as of to say "Yeah, we know where we are and we belong here." There were some confused looks today, but none were on our faces.
+Today's route took us through parts of France that few tourists and perhaps few locals see. At one point we were riding across fields on the paths the farmers use for their farm equipment. Another time we popped out of some trees on a non-trail behind some workers running heavy equipment loading barges. In all cases we'd wave as if to say "Yeah, we know where we are and we belong here." There were some confused looks today, but none were on our faces.
 
 The poor GPS directions lady had to keep saying "the tour is being adjusted, now make a u-turn." She said it at least 50 times and somehow always maintained her composure, repeating that phrase kindly in a clear but authoritative voice. We hope to be as level-headed in the face of disobedience someday. We're hoping she doesn't call in sick tomorrow -- we certainly wore her out.
 

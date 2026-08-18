@@ -26,7 +26,7 @@ We made it to our shuttle meet-up point early. I had been able to share our loca
 After unloading, just as we were beginning the next segment of our ride, we saw another recumbent tandem similar to ours (but made by a different company). I wish we had been able to talk to them but they were riding in the opposite direction.
 
 
-We rode the Trail of Coeur d’Alenes from Harrison to Plummer so that we could say we did the entire trail by the end of Saturday’s ride to Mullan. On the way back to our campsite at Heyburn State Park we encountered a moose on the trail. Page had just been chased by an angry mother moose the week before in Alaska and knew to be wary of the awkward, lanky, but big animal. Eventually it moved far enough off trail for us to ride by.
+We rode the Trail of the Coeur d’Alenes from Harrison to Plummer so that we could say we did the entire trail by the end of Saturday’s ride to Mullan. On the way back to our campsite at Heyburn State Park we encountered a moose on the trail. Page had just been chased by an angry mother moose the week before in Alaska and knew to be wary of the awkward, lanky, but big animal. Eventually it moved far enough off trail for us to ride by.
 
 
 The campsite wasn’t as pretty as the previous two sites we used at Heyburn, but it was good enough. We cleaned up, showered, ate dinner, and went to bed.

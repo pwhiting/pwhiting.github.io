@@ -9,7 +9,7 @@ categories: ['Katy Trail', 'kt']
 ---
 
 
-Our sleepover in the Hartsburg Volunteer Park gazebo was noneventful. Thankfully it was a quiet night other than the coyotes howling and the dogs barking at them. There was a baseball game going on nearby, but it wasn’t a problem. 
+Our sleepover in the Hartsburg Volunteer Park gazebo was uneventful. Thankfully it was a quiet night other than the coyotes howling and the dogs barking at them. There was a baseball game going on nearby, but it wasn’t a problem. 
 
 
 
@@ -24,7 +24,7 @@ The park had flush toilets nearby, and given the amount of liquid we both drank 
 
 
 
-Between 4 and 5 AM the birds woke us up. It doesn’t help that Natalie‘s alarm clock at home is bird noises. I think we’ve trained our brains to wake up when we hear birds. But we were hoping to get an early start so waking up early fit into our plans. (And the birds' singing was beautiful and peaceful.)
+Between 4 and 5 AM the birds woke us up. It doesn’t help that Natalie’s alarm clock at home is bird noises. I think we’ve trained our brains to wake up when we hear birds. But we were hoping to get an early start so waking up early fit into our plans. (And the birds' singing was beautiful and peaceful.)
 
 
 
@@ -59,12 +59,12 @@ One other thing we have been eating on our ride over the last few days are big p
 
 
 
-Our ride today was hot and sunny. Around 5 PM  We arranged for a hotel in Sedalia. We made it there a little after 8 pm. Once again our ride lasted beyond 12 hours. By the end of our ride today, we were both feeling pretty tired. We rode about 76 miles. Since it is supposed to rain we were grateful we have a hotel room. It is amazing how much better one feels after a shower. I had hoped so much that this hotel had a hot tub. I soak so well. Unfortunately, once again I was foiled. No hot tub for me!
+Our ride today was hot and sunny. Around 5 PM we arranged for a hotel in Sedalia. We made it there a little after 8 pm. Once again our ride lasted beyond 12 hours. By the end of our ride today, we were both feeling pretty tired. We rode about 76 miles. Since it is supposed to rain we were grateful we have a hotel room. It is amazing how much better one feels after a shower. I had hoped so much that this hotel had a hot tub. I soak so well. Unfortunately, once again I was foiled. No hot tub for me!
 
 
 
 
-We ate a ton today. We kind of made up for yesterday where we didn’t have very many food options. Yesterday the only places we could get something were two small bars, and they didn’t have much in the line of food. So we mostly were nourished by trail snacks the entire day. Today however, we ate for both days. That’s kind of how these rides go, feast or famine . 
+We ate a ton today. We kind of made up for yesterday where we didn’t have very many food options. Yesterday the only places we could get something were two small bars, and they didn’t have much in the line of food. So we mostly were nourished by trail snacks the entire day. Today however, we ate for both days. That’s kind of how these rides go, feast or famine. 
 
 
 

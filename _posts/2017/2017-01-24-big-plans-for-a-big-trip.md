@@ -9,7 +9,7 @@ categories: ['misc']
 
 Natalie loves to travel. Probably the best trip in her life was the summer she spent living in Europe while a college student. She still talks about the adventure and the friends she made. When we talk about our life goals, she often mentions the desire to travel the world.
 
-I'm kinda cheap. Really cheap actually. I struggle to travel. I have to do it for work at times, which is fine, but we almost never take vacations as a family. In the last 5 years we have done a few family trips to Moab, Zion National Park, California, and Sun Valley Idaho. So am I slowly reforming. Maybe that is because as my kids grow older and are now mostly out of the house I long to be with them - and a family trip is a good excuse.
+I'm kinda cheap. Really cheap actually. I struggle to travel. I have to do it for work at times, which is fine, but we almost never take vacations as a family. In the last 5 years we have done a few family trips to Moab, Zion National Park, California, and Sun Valley, Idaho. So I am slowly reforming. Maybe that is because as my kids grow older and are now mostly out of the house I long to be with them - and a family trip is a good excuse.
 
 When the children were younger Natalie took them on several family vacations. I kind of look back in horror to realize I was so unsupportive of these trips that I stayed at home and left her to handle the logistics alone. Once in Kansas they drove to a resort town in southern Missouri and rented a platform boat. While living in Utah she took them to Arizona and the Grand Canyon. There have probably been a few others.
 
@@ -32,7 +32,7 @@ I'll make several subsequent posts about the planning of this trip. Here are som
 4. Figuring out logistics (flights, hotels, and food)
 
 
-I also plan post while we ride.
+I also plan to post while we ride.
 
 Welcome to our journey.
 

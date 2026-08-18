@@ -10,7 +10,7 @@ categories: ['Iceland']
 
 I'm posting this two days late, because two nights ago neither of us had energy to do anything beyond set up our tent and eat a quick dinner of canned soup, and last night, when I tried to publish it, I was too out of it to realize I have to successfully hit the publish button...
 
-We left Höfn on Monday around 8:30. It was good to get moving early. Our routing software showed a crazy 45 precent grade climb right at the beginning, but we knew that was impossible so were anxious to find out what our first climb looked like. Mercifully it was a short climb to a tunnel which was about a mile long. We were so thankful!
+We left Höfn on Monday around 8:30. It was good to get moving early. Our routing software showed a crazy 45 percent grade climb right at the beginning, but we knew that was impossible so we were anxious to find out what our first climb looked like. Mercifully it was a short climb to a tunnel which was about a mile long. We were so thankful!
 
 We had several stopping points in mind, but because we were rerouting around the long gravel hike-a-bike due to Natalie's broken foot (for the record, this is just a convenient excuse) we hoped to ride far. The reroute was adding a day to our already tight itinerary and Saturday is forecast for bad weather, so we wanted to bank miles. Our route didn't have any stops along the way (without a detour), which made it easy to keep riding without breaks.
 

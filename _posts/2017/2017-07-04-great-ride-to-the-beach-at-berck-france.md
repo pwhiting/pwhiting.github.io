@@ -22,7 +22,7 @@ A few more notes in general about the trip:
 
 It has been delightful for me to be able to have all sorts of little conversations with various people in French! Of course our bike and our trip usually are part of the conversation, but all kinds of other things come up as well, like politics, family, and education. I am so happy I have strengthened my French in recent years so that I could use it and benefit from it on this trip.  
 
-Pete and I have often remarked to reach other that we have experienced an amazing variety so far. Each day, each ride, each location has been so different from the others. Pretty cool!
+Pete and I have often remarked to each other that we have experienced an amazing variety so far. Each day, each ride, each location has been so different from the others. Pretty cool!
 
 And finally, as we anticipated, we are definitely having an atypical European vacation. But that's exactly what we wanted. It is a great adventure!
 

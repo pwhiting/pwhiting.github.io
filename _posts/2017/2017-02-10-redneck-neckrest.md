@@ -17,7 +17,7 @@ Golf club covers ($22 for 4 on Amazon - and I was able to match the color to the
 
 ![screen-shot-2017-02-09-at-9-09-37-pm](https://whitingpt.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-9-09-37-pm.png?w=600)
 
-Super Velcro ($5.49 on Amazon for two small strips - slightly cheaper at Lowes.) This stuff isn't velcro, but it is a similar concept, just far more robust. But $5 for about 4 inches? Sheesh.
+Super Velcro ($5.49 on Amazon for two small strips - slightly cheaper at Lowes.) This stuff isn't Velcro, but it is a similar concept, just far more robust. But $5 for about 4 inches? Sheesh.
 
 ![screen-shot-2017-02-09-at-9-10-46-pm](https://whitingpt.files.wordpress.com/2017/02/screen-shot-2017-02-09-at-9-10-46-pm.png?w=474)
 

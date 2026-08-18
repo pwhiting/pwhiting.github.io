@@ -18,7 +18,7 @@ We were so soaked we decided not to stop for lunch or rests - just photos. We wo
 
 We arrived in Sedan relatively early and checked into an older hotel near the center of town. It has character. (I mean that in a positive way.)
 
-We showered and then scrounged for groceries, walked around a few hours, and found an open bike shop where we got some chain oil. We sat in a pretty garden park for a while. Then we looked at the massive castle fort of Sedan. The didn't seem to be much else to see, so we found a simple dinner, bought some groceries for breakfast, and headed to our hotel.
+We showered and then scrounged for groceries, walked around a few hours, and found an open bike shop where we got some chain oil. We sat in a pretty garden park for a while. Then we looked at the massive castle fort of Sedan. There didn't seem to be much else to see, so we found a simple dinner, bought some groceries for breakfast, and headed to our hotel.
 
 Rain is in the forecast. We are excited to see more of France.
 

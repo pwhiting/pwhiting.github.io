@@ -1,7 +1,7 @@
 ---
 id: 936
 layout: post
-title: Knick knacks
+title: Knick-knacks
 date: 2018-05-06 00:35:57
 modified: 2018-05-06 00:35:57
 categories: ['Bike Info']
@@ -19,7 +19,7 @@ The little blue bungee is used to hold the water bottle fast. It was not designe
 
 Also on the second picture you can see my phone holder (thing with a bungee string.) With my phone back there running komoot Natalie is able to participate in the adventure called navigation. It hasn't bounced out yet. I am contemplating 3D printing something a little more convenient. The square bag you see next to Natalie's cranks is a frame bag that carries my wallet, some lights, and a backup battery (in case the phone needs charging).
 
-Behind my seat we hang a Camelbak designed for kayaking. We bought it on Amazon ([link](https://a.co/2CArQjs)) and it doubles as our fridge. If we need to store chocolate (and we often do) it goes in this bag against a bladder of cold water. This is an important accessory for Natalie, as you might guess. To hang it I needed to make a strap, adding two loops positioned to be at the outer edge of my seat. I added a strong zip tie under the front of my seat to provide the forward connection point.
+Behind my seat we hang a CamelBak designed for kayaking. We bought it on Amazon ([link](https://a.co/2CArQjs)) and it doubles as our fridge. If we need to store chocolate (and we often do) it goes in this bag against a bladder of cold water. This is an important accessory for Natalie, as you might guess. To hang it I needed to make a strap, adding two loops positioned to be at the outer edge of my seat. I added a strong zip tie under the front of my seat to provide the forward connection point.
 
 Finding mirrors wide enough for Natalie's handlebars was a challenge. I bought some bar end mirrors from Amazon ([link](https://a.co/2xt2EZ5)) and then modified them to have a much longer shaft. It is really important that these move. As we go through narrow gates she often has to fold them in. I may 3D print a new top section for these, but the bottom piece that goes into the handlebar tubes is super-well-built aluminum. I'm happy with these. The front mirrors are also from Amazon ([link](https://a.co/bFYxYQp)) and work without modification. Last year I used a different mirror from Amazon ([link](https://a.co/fxn7BzP)) but the mount kept breaking. Eventually those had to be zip-tied on.
 
@@ -28,7 +28,7 @@ The latest addition to our kit is a front light and front light holder. Last yea
 In preparation for Iceland I may add a few more knick-knacks:
 1. Print a better phone holder, and possibly print one that will fit under Natalie's seat so that she doesn't have to keep using her fanny pack.
 2. Print a rear light mount for our trailer. I think we'll want a flasher in the way-back.
-3. Get a GoPro like camera and modify the design on the front light holder so that it also holds the camera out front. Ideally we'd have a camera set at time-lapse mode for the entire ride. Unfortunately, I haven't yet found one that has 12+ hour battery life. If money was no object, I'd have a [GoPro Hero6](https://shop.gopro.com/cameras/hero6-black/CHDHX-601-master.html) in the front. However, besides being out of my price range, I've read it can only run a time-lapse for 3 hours. If anyone has a suggestion of something that is affordable and can do time-lapse for 12 or more hours, please leave a comment.
+3. Get a GoPro like camera and modify the design on the front light holder so that it also holds the camera out front. Ideally we'd have a camera set at time-lapse mode for the entire ride. Unfortunately, I haven't yet found one that has 12+ hour battery life. If money were no object, I'd have a [GoPro Hero6](https://shop.gopro.com/cameras/hero6-black/CHDHX-601-master.html) in the front. However, besides being out of my price range, I've read it can only run a time-lapse for 3 hours. If anyone has a suggestion of something that is affordable and can do time-lapse for 12 or more hours, please leave a comment.
 
 We also upgraded our panniers to the [Arkel Orcas](https://www.arkel-od.com/en/orca-45-waterproof-rear-panniers.html) and purchased a [Topeak Journey trailer](https://www.topeak.com/global/de/products/journey-trailer-&-drybag/387-journey-trailer-and-drybag).
 
