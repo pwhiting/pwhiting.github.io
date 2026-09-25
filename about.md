@@ -15,6 +15,7 @@ Here are our rides:
 * [2022](/categories/2022): Katy trail in Missouri - we rode along a nearly 300 mile rail trail in the heart of our country
 * [2023](/categories/2023): Paris to Frankfurt - we stuck to the EuroVelo routes for most of this ride, avoiding traffic and enjoying the beautiful French and German countrysides
 * [2024](/categories/2024): Loop out of Geneva - we started in Geneva and rode to Lyon and then toward Strassburg before heading back to Geneva
+* [2026](/categories/2026): Out and back from Pittsburgh to DC along the GAP and C&O canal 
 
 
 Each ride is between 700 and 1000 miles in length and takes 2-3 weeks. 
